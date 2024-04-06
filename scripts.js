@@ -41,10 +41,10 @@ function generateTablesHtml(teamsData) {
                         <thead>
                             <tr>
                                 <th>Statistic</th>
-                                <th>GC-0</th>
-                                <th>GC-7</th>
-                                <th>GC-15</th>
-                                <th>GC-30</th>
+                                <th>Season</th>
+                                <th>Past 7</th>
+                                <th>Past 15</th>
+                                <th>Past 30</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -87,7 +87,7 @@ function generateTableRows(timeSplits) {
             
            
             if(tableRowsObj.includes)
-            tableRows += '<tr> <td>' + statistic + '</td>';
+            
             timeSplitArray = ["GC-0","GC-7","GC-15","GC-30"];
             for (let index = 0; index < timeSplitArray.length; index++) {
                 if(typeof timeSplits[timeSplitArray[index]] === 'undefined' || typeof timeSplits[timeSplitArray[index]] === undefined){
@@ -113,19 +113,24 @@ function generateTableRows(timeSplits) {
             }
             
 
-            // tableRows += `
-            //     <tr>
-            //         <td>${statistic}</td>
-            //         <td>${timeSplits['GC-0'][statistic] || ''}</td>
-            //         <td>${timeSplits['GC-7'][statistic] || ''}</td>
-            //         <td>${timeSplits['GC-15'][statistic] || ''}</td>
-            //         <td>${timeSplits['GC-30'][statistic] || ''}</td>
-            //     </tr>
-            // `;
         });
     });
 
     console.log(tableRowsObj);
+    
+
+    for (let index = 0; index < tableRowsObj.length; index++) {
+        tableRows += '<tr> <td>' + tableRowsObj[index][0] +'</td>' ;
+        tableRows += `                
+                <td>${tableRowsObj[index][1] || ''}</td>
+                <td>${tableRowsObj[index][2] || ''}</td>
+                <td>${tableRowsObj[index][3] || ''}</td>
+                <td>${tableRowsObj[index][4] || ''}</td>
+            </tr>
+        `;
+        
+    }
+    
     return tableRows;
 }
 

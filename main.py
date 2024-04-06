@@ -7,8 +7,8 @@ from bs4 import BeautifulSoup
 import json
 
 #RUN DEF Weaknesses
-#url = 'https://www.fantasypros.com/nba/defense-vs-position.php?year=2023'
-#scrape_defense_data(url)
+url = 'https://www.fantasypros.com/nba/defense-vs-position.php?year=2023'
+scrape_defense_data(url)
 
 # Directory containing CSV files
 csv_directory = './defense-data'

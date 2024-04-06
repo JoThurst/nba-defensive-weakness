@@ -1,5 +1,6 @@
 import requests
 from datetime import datetime
+import json
 
 # Function to get the list of NBA games for today
 def get_nba_games(api_key):
@@ -26,9 +27,19 @@ def get_nba_games(api_key):
         games = data['data']
         # Extract the teams playing in each game
         teams_playing = set()
+        matchups = set()
         for game in games:
             teams_playing.add(game['home_team']['full_name'])
             teams_playing.add(game['visitor_team']['full_name'])
+            matchups.add(game['home_team']['full_name'] + ' vs ' + game['visitor_team']['full_name'])
+        
+        matchup_list= list(matchups)
+          # Use indent=2 for pretty formatting
+
+        # Write JSON data to file
+        with open('nba_matchups.json', 'w') as f:
+            json.dump(matchup_list, f)
+            
         return teams_playing
     except Exception as e:
         print("Error parsing JSON response:", e)

@@ -1,49 +1,41 @@
 [
   {
+    "Team": "Detroit Pistons",
+    "Rank": "Top 1",
+    "Statistic": "PTS",
+    "Value": 23.7,
+    "Time Split": "GC-0",
+    "Position": "ALL"
+  },
+  {
     "Team": "Atlanta Hawks",
     "Rank": "Top 2",
     "Statistic": "PTS",
-    "Value": 23.77,
+    "Value": 23.75,
     "Time Split": "GC-0",
     "Position": "ALL"
   },
   {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 4",
-    "Statistic": "PTS",
-    "Value": 21.51,
-    "Time Split": "GC-0",
-    "Position": "ALL"
-  },
-  {
-    "Team": "New York Knicks",
-    "Rank": "Bottom 5",
-    "Statistic": "PTS",
-    "Value": 21.75,
-    "Time Split": "GC-0",
-    "Position": "ALL"
-  },
-  {
-    "Team": "Dallas Mavericks",
-    "Rank": "Top 1",
+    "Team": "Memphis Grizzlies",
+    "Rank": "Top 4",
     "Statistic": "REB",
-    "Value": 9.06,
+    "Value": 9.18,
     "Time Split": "GC-0",
     "Position": "ALL"
   },
   {
-    "Team": "New York Knicks",
-    "Rank": "Bottom 2",
-    "Statistic": "REB",
-    "Value": 8.09,
-    "Time Split": "GC-0",
-    "Position": "ALL"
-  },
-  {
-    "Team": "Houston Rockets",
-    "Rank": "Bottom 3",
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 3",
     "Statistic": "AST",
-    "Value": 4.85,
+    "Value": 5.67,
+    "Time Split": "GC-0",
+    "Position": "ALL"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Bottom 5",
+    "Statistic": "AST",
+    "Value": 4.93,
     "Time Split": "GC-0",
     "Position": "ALL"
   },
@@ -51,7 +43,15 @@
     "Team": "Atlanta Hawks",
     "Rank": "Top 2",
     "Statistic": "3PM",
-    "Value": 2.76,
+    "Value": 2.77,
+    "Time Split": "GC-0",
+    "Position": "ALL"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 3",
+    "Statistic": "3PM",
+    "Value": 2.82,
     "Time Split": "GC-0",
     "Position": "ALL"
   },
@@ -59,7 +59,15 @@
     "Team": "Denver Nuggets",
     "Rank": "Bottom 2",
     "Statistic": "3PM",
-    "Value": 2.21,
+    "Value": 2.2,
+    "Time Split": "GC-0",
+    "Position": "ALL"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Top 5",
+    "Statistic": "STL",
+    "Value": 1.8,
     "Time Split": "GC-0",
     "Position": "ALL"
   },
@@ -72,34 +80,18 @@
     "Position": "ALL"
   },
   {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 3",
-    "Statistic": "STL",
-    "Value": 1.29,
+    "Team": "Detroit Pistons",
+    "Rank": "Top 2",
+    "Statistic": "BLK",
+    "Value": 1.23,
     "Time Split": "GC-0",
     "Position": "ALL"
   },
   {
-    "Team": "Houston Rockets",
-    "Rank": "Top 1",
+    "Team": "Memphis Grizzlies",
+    "Rank": "Top 5",
     "Statistic": "BLK",
-    "Value": 1.21,
-    "Time Split": "GC-0",
-    "Position": "ALL"
-  },
-  {
-    "Team": "Dallas Mavericks",
-    "Rank": "Bottom 3",
-    "Statistic": "BLK",
-    "Value": 0.85,
-    "Time Split": "GC-0",
-    "Position": "ALL"
-  },
-  {
-    "Team": "Sacramento Kings",
-    "Rank": "Bottom 4",
-    "Statistic": "BLK",
-    "Value": 0.88,
+    "Value": 1.26,
     "Time Split": "GC-0",
     "Position": "ALL"
   },
@@ -112,10 +104,26 @@
     "Position": "ALL"
   },
   {
+    "Team": "Memphis Grizzlies",
+    "Rank": "Top 3",
+    "Statistic": "TO",
+    "Value": 2.82,
+    "Time Split": "GC-0",
+    "Position": "ALL"
+  },
+  {
     "Team": "Denver Nuggets",
+    "Rank": "Bottom 4",
+    "Statistic": "TO",
+    "Value": 2.36,
+    "Time Split": "GC-0",
+    "Position": "ALL"
+  },
+  {
+    "Team": "Brooklyn Nets",
     "Rank": "Bottom 5",
     "Statistic": "TO",
-    "Value": 2.38,
+    "Value": 2.37,
     "Time Split": "GC-0",
     "Position": "ALL"
   },
@@ -123,135 +131,87 @@
     "Team": "Atlanta Hawks",
     "Rank": "Top 2",
     "Statistic": "FG%",
-    "Value": 49.13,
+    "Value": 49.05,
     "Time Split": "GC-0",
     "Position": "ALL"
   },
   {
-    "Team": "Houston Rockets",
-    "Rank": "Bottom 5",
-    "Statistic": "FG%",
-    "Value": 45.97,
+    "Team": "Detroit Pistons",
+    "Rank": "Top 1",
+    "Statistic": "FT%",
+    "Value": 79.62,
     "Time Split": "GC-0",
     "Position": "ALL"
   },
   {
-    "Team": "Sacramento Kings",
+    "Team": "Philadelphia 76ers",
     "Rank": "Top 2",
     "Statistic": "FT%",
-    "Value": 79.78,
+    "Value": 79.74,
     "Time Split": "GC-0",
     "Position": "ALL"
   },
   {
-    "Team": "Houston Rockets",
-    "Rank": "Bottom 1",
-    "Statistic": "FT%",
-    "Value": 75.05,
-    "Time Split": "GC-0",
-    "Position": "ALL"
-  },
-  {
-    "Team": "Dallas Mavericks",
-    "Rank": "Bottom 3",
-    "Statistic": "FT%",
-    "Value": 76.46,
-    "Time Split": "GC-0",
-    "Position": "ALL"
-  },
-  {
-    "Team": "Denver Nuggets",
-    "Rank": "Bottom 4",
-    "Statistic": "FT%",
-    "Value": 76.77,
-    "Time Split": "GC-0",
-    "Position": "ALL"
-  },
-  {
-    "Team": "New York Knicks",
-    "Rank": "Bottom 5",
-    "Statistic": "FT%",
-    "Value": 76.86,
-    "Time Split": "GC-0",
-    "Position": "ALL"
-  },
-  {
-    "Team": "Sacramento Kings",
-    "Rank": "Bottom 1",
-    "Statistic": "PTS",
-    "Value": 19.72,
-    "Time Split": "GC-0",
-    "Position": "C"
-  },
-  {
-    "Team": "New York Knicks",
-    "Rank": "Bottom 2",
-    "Statistic": "PTS",
-    "Value": 20.1,
-    "Time Split": "GC-0",
-    "Position": "C"
-  },
-  {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 3",
-    "Statistic": "PTS",
-    "Value": 20.1,
-    "Time Split": "GC-0",
-    "Position": "C"
-  },
-  {
-    "Team": "New York Knicks",
-    "Rank": "Bottom 2",
-    "Statistic": "REB",
-    "Value": 13.3,
-    "Time Split": "GC-0",
-    "Position": "C"
-  },
-  {
-    "Team": "Golden State Warriors",
+    "Team": "Brooklyn Nets",
     "Rank": "Top 5",
-    "Statistic": "AST",
-    "Value": 4.93,
+    "Statistic": "FT%",
+    "Value": 80.77,
     "Time Split": "GC-0",
-    "Position": "C"
+    "Position": "ALL"
   },
   {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 1",
-    "Statistic": "AST",
-    "Value": 3.31,
+    "Team": "Memphis Grizzlies",
+    "Rank": "Bottom 5",
+    "Statistic": "FT%",
+    "Value": 76.91,
     "Time Split": "GC-0",
-    "Position": "C"
+    "Position": "ALL"
   },
   {
-    "Team": "New York Knicks",
-    "Rank": "Bottom 2",
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 3",
     "Statistic": "AST",
-    "Value": 3.47,
+    "Value": 4.77,
     "Time Split": "GC-0",
     "Position": "C"
   },
   {
     "Team": "Atlanta Hawks",
-    "Rank": "Bottom 4",
-    "Statistic": "AST",
-    "Value": 3.73,
-    "Time Split": "GC-0",
-    "Position": "C"
-  },
-  {
-    "Team": "Dallas Mavericks",
-    "Rank": "Top 4",
-    "Statistic": "3PM",
-    "Value": 1.34,
-    "Time Split": "GC-0",
-    "Position": "C"
-  },
-  {
-    "Team": "Sacramento Kings",
     "Rank": "Bottom 3",
+    "Statistic": "AST",
+    "Value": 3.71,
+    "Time Split": "GC-0",
+    "Position": "C"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 5",
     "Statistic": "3PM",
-    "Value": 0.67,
+    "Value": 1.42,
+    "Time Split": "GC-0",
+    "Position": "C"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Bottom 5",
+    "Statistic": "3PM",
+    "Value": 0.76,
+    "Time Split": "GC-0",
+    "Position": "C"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Top 1",
+    "Statistic": "STL",
+    "Value": 1.46,
+    "Time Split": "GC-0",
+    "Position": "C"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Top 2",
+    "Statistic": "STL",
+    "Value": 1.56,
     "Time Split": "GC-0",
     "Position": "C"
   },
@@ -259,7 +219,15 @@
     "Team": "Atlanta Hawks",
     "Rank": "Top 3",
     "Statistic": "STL",
-    "Value": 1.58,
+    "Value": 1.57,
+    "Time Split": "GC-0",
+    "Position": "C"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 4",
+    "Statistic": "STL",
+    "Value": 1.61,
     "Time Split": "GC-0",
     "Position": "C"
   },
@@ -267,63 +235,39 @@
     "Team": "Philadelphia 76ers",
     "Rank": "Bottom 1",
     "Statistic": "STL",
-    "Value": 0.95,
+    "Value": 0.94,
     "Time Split": "GC-0",
     "Position": "C"
   },
   {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 4",
-    "Statistic": "STL",
-    "Value": 1.13,
-    "Time Split": "GC-0",
-    "Position": "C"
-  },
-  {
-    "Team": "Houston Rockets",
-    "Rank": "Top 2",
+    "Team": "Memphis Grizzlies",
+    "Rank": "Top 4",
     "Statistic": "BLK",
-    "Value": 2.72,
+    "Value": 3.09,
     "Time Split": "GC-0",
     "Position": "C"
   },
   {
-    "Team": "Dallas Mavericks",
-    "Rank": "Bottom 4",
-    "Statistic": "BLK",
-    "Value": 1.64,
-    "Time Split": "GC-0",
-    "Position": "C"
-  },
-  {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 5",
-    "Statistic": "BLK",
-    "Value": 1.68,
-    "Time Split": "GC-0",
-    "Position": "C"
-  },
-  {
-    "Team": "Houston Rockets",
+    "Team": "Detroit Pistons",
     "Rank": "Top 5",
-    "Statistic": "TO",
-    "Value": 3.44,
+    "Statistic": "BLK",
+    "Value": 3.17,
     "Time Split": "GC-0",
     "Position": "C"
   },
   {
-    "Team": "Sacramento Kings",
-    "Rank": "Bottom 1",
+    "Team": "Memphis Grizzlies",
+    "Rank": "Top 3",
     "Statistic": "TO",
-    "Value": 2.23,
+    "Value": 3.25,
     "Time Split": "GC-0",
     "Position": "C"
   },
   {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 3",
+    "Team": "Brooklyn Nets",
+    "Rank": "Bottom 4",
     "Statistic": "TO",
-    "Value": 2.34,
+    "Value": 2.37,
     "Time Split": "GC-0",
     "Position": "C"
   },
@@ -336,74 +280,74 @@
     "Position": "C"
   },
   {
-    "Team": "Philadelphia 76ers",
+    "Team": "Detroit Pistons",
     "Rank": "Top 2",
     "Statistic": "FG%",
-    "Value": 58.93,
+    "Value": 58.89,
     "Time Split": "GC-0",
     "Position": "C"
   },
   {
-    "Team": "Sacramento Kings",
-    "Rank": "Bottom 3",
+    "Team": "Los Angeles Lakers",
+    "Rank": "Bottom 5",
     "Statistic": "FG%",
-    "Value": 51.56,
+    "Value": 52.96,
     "Time Split": "GC-0",
     "Position": "C"
+  },
+  {
+    "Team": "Philadelphia 76ers",
+    "Rank": "Top 2",
+    "Statistic": "FT%",
+    "Value": 76.4,
+    "Time Split": "GC-0",
+    "Position": "C"
+  },
+  {
+    "Team": "Brooklyn Nets",
+    "Rank": "Top 5",
+    "Statistic": "FT%",
+    "Value": 77.38,
+    "Time Split": "GC-0",
+    "Position": "C"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Bottom 3",
+    "Statistic": "FT%",
+    "Value": 68.64,
+    "Time Split": "GC-0",
+    "Position": "C"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 1",
+    "Statistic": "PTS",
+    "Value": 24.99,
+    "Time Split": "GC-0",
+    "Position": "PF"
   },
   {
     "Team": "Philadelphia 76ers",
     "Rank": "Top 4",
-    "Statistic": "FT%",
-    "Value": 76.22,
-    "Time Split": "GC-0",
-    "Position": "C"
-  },
-  {
-    "Team": "Houston Rockets",
-    "Rank": "Bottom 3",
-    "Statistic": "FT%",
-    "Value": 68.79,
-    "Time Split": "GC-0",
-    "Position": "C"
-  },
-  {
-    "Team": "Sacramento Kings",
-    "Rank": "Top 2",
-    "Statistic": "PTS",
-    "Value": 25.4,
-    "Time Split": "GC-0",
-    "Position": "PF"
-  },
-  {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 4",
-    "Statistic": "PTS",
-    "Value": 21.57,
-    "Time Split": "GC-0",
-    "Position": "PF"
-  },
-  {
-    "Team": "Philadelphia 76ers",
-    "Rank": "Top 3",
     "Statistic": "REB",
-    "Value": 11.13,
+    "Value": 11.26,
     "Time Split": "GC-0",
     "Position": "PF"
   },
   {
-    "Team": "Golden State Warriors",
-    "Rank": "Top 4",
-    "Statistic": "REB",
-    "Value": 11.15,
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Bottom 5",
+    "Statistic": "AST",
+    "Value": 3.95,
     "Time Split": "GC-0",
     "Position": "PF"
   },
   {
-    "Team": "New York Knicks",
-    "Rank": "Bottom 1",
-    "Statistic": "REB",
-    "Value": 8.93,
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 1",
+    "Statistic": "3PM",
+    "Value": 2.62,
     "Time Split": "GC-0",
     "Position": "PF"
   },
@@ -411,31 +355,23 @@
     "Team": "Atlanta Hawks",
     "Rank": "Top 2",
     "Statistic": "3PM",
-    "Value": 2.64,
+    "Value": 2.68,
     "Time Split": "GC-0",
     "Position": "PF"
   },
   {
-    "Team": "New York Knicks",
-    "Rank": "Top 3",
-    "Statistic": "3PM",
-    "Value": 2.7,
-    "Time Split": "GC-0",
-    "Position": "PF"
-  },
-  {
-    "Team": "Golden State Warriors",
-    "Rank": "Top 4",
-    "Statistic": "3PM",
-    "Value": 2.74,
-    "Time Split": "GC-0",
-    "Position": "PF"
-  },
-  {
-    "Team": "Dallas Mavericks",
-    "Rank": "Top 1",
+    "Team": "Memphis Grizzlies",
+    "Rank": "Top 2",
     "Statistic": "STL",
-    "Value": 1.51,
+    "Value": 1.52,
+    "Time Split": "GC-0",
+    "Position": "PF"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Top 3",
+    "Statistic": "STL",
+    "Value": 1.6,
     "Time Split": "GC-0",
     "Position": "PF"
   },
@@ -443,15 +379,15 @@
     "Team": "Philadelphia 76ers",
     "Rank": "Bottom 1",
     "Statistic": "STL",
-    "Value": 0.97,
+    "Value": 0.96,
     "Time Split": "GC-0",
     "Position": "PF"
   },
   {
-    "Team": "New York Knicks",
-    "Rank": "Bottom 5",
+    "Team": "Brooklyn Nets",
+    "Rank": "Bottom 4",
     "Statistic": "STL",
-    "Value": 1.22,
+    "Value": 1.12,
     "Time Split": "GC-0",
     "Position": "PF"
   },
@@ -459,31 +395,15 @@
     "Team": "Philadelphia 76ers",
     "Rank": "Top 3",
     "Statistic": "BLK",
-    "Value": 1.37,
+    "Value": 1.36,
     "Time Split": "GC-0",
     "Position": "PF"
   },
   {
-    "Team": "Houston Rockets",
-    "Rank": "Top 5",
+    "Team": "Brooklyn Nets",
+    "Rank": "Bottom 5",
     "Statistic": "BLK",
-    "Value": 1.51,
-    "Time Split": "GC-0",
-    "Position": "PF"
-  },
-  {
-    "Team": "Dallas Mavericks",
-    "Rank": "Bottom 2",
-    "Statistic": "BLK",
-    "Value": 0.93,
-    "Time Split": "GC-0",
-    "Position": "PF"
-  },
-  {
-    "Team": "Sacramento Kings",
-    "Rank": "Bottom 3",
-    "Statistic": "BLK",
-    "Value": 0.93,
+    "Value": 1.0,
     "Time Split": "GC-0",
     "Position": "PF"
   },
@@ -491,23 +411,23 @@
     "Team": "Philadelphia 76ers",
     "Rank": "Top 3",
     "Statistic": "TO",
-    "Value": 3.05,
+    "Value": 3.07,
     "Time Split": "GC-0",
     "Position": "PF"
   },
   {
-    "Team": "Sacramento Kings",
-    "Rank": "Top 5",
+    "Team": "Memphis Grizzlies",
+    "Rank": "Top 4",
     "Statistic": "TO",
-    "Value": 3.17,
+    "Value": 3.09,
     "Time Split": "GC-0",
     "Position": "PF"
   },
   {
     "Team": "Denver Nuggets",
-    "Rank": "Bottom 1",
+    "Rank": "Bottom 2",
     "Statistic": "TO",
-    "Value": 2.03,
+    "Value": 2.05,
     "Time Split": "GC-0",
     "Position": "PF"
   },
@@ -515,55 +435,63 @@
     "Team": "Atlanta Hawks",
     "Rank": "Bottom 4",
     "Statistic": "TO",
-    "Value": 2.24,
+    "Value": 2.23,
     "Time Split": "GC-0",
     "Position": "PF"
   },
   {
-    "Team": "Houston Rockets",
-    "Rank": "Bottom 3",
+    "Team": "Detroit Pistons",
+    "Rank": "Bottom 5",
+    "Statistic": "TO",
+    "Value": 2.29,
+    "Time Split": "GC-0",
+    "Position": "PF"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Top 1",
     "Statistic": "FG%",
-    "Value": 46.18,
+    "Value": 50.99,
     "Time Split": "GC-0",
     "Position": "PF"
   },
   {
-    "Team": "Sacramento Kings",
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Bottom 4",
+    "Statistic": "FG%",
+    "Value": 46.43,
+    "Time Split": "GC-0",
+    "Position": "PF"
+  },
+  {
+    "Team": "Brooklyn Nets",
     "Rank": "Top 4",
     "Statistic": "FT%",
-    "Value": 78.75,
+    "Value": 78.63,
     "Time Split": "GC-0",
     "Position": "PF"
   },
   {
-    "Team": "Miami Heat",
-    "Rank": "Top 5",
+    "Team": "Los Angeles Lakers",
+    "Rank": "Bottom 5",
     "Statistic": "FT%",
-    "Value": 78.97,
+    "Value": 71.98,
     "Time Split": "GC-0",
     "Position": "PF"
   },
   {
-    "Team": "New York Knicks",
-    "Rank": "Bottom 1",
-    "Statistic": "FT%",
-    "Value": 69.75,
-    "Time Split": "GC-0",
-    "Position": "PF"
-  },
-  {
-    "Team": "Houston Rockets",
-    "Rank": "Top 3",
+    "Team": "Brooklyn Nets",
+    "Rank": "Top 1",
     "Statistic": "PTS",
-    "Value": 25.83,
+    "Value": 25.7,
     "Time Split": "GC-0",
     "Position": "PG"
   },
   {
-    "Team": "New York Knicks",
-    "Rank": "Bottom 1",
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 2",
     "Statistic": "PTS",
-    "Value": 22.27,
+    "Value": 25.84,
     "Time Split": "GC-0",
     "Position": "PG"
   },
@@ -571,55 +499,63 @@
     "Team": "Philadelphia 76ers",
     "Rank": "Bottom 4",
     "Statistic": "PTS",
-    "Value": 22.89,
+    "Value": 22.97,
     "Time Split": "GC-0",
     "Position": "PG"
   },
   {
-    "Team": "Sacramento Kings",
-    "Rank": "Top 1",
+    "Team": "Memphis Grizzlies",
+    "Rank": "Top 5",
     "Statistic": "REB",
-    "Value": 6.53,
+    "Value": 6.95,
     "Time Split": "GC-0",
     "Position": "PG"
   },
   {
-    "Team": "Dallas Mavericks",
-    "Rank": "Top 3",
-    "Statistic": "REB",
-    "Value": 6.67,
-    "Time Split": "GC-0",
-    "Position": "PG"
-  },
-  {
-    "Team": "Houston Rockets",
+    "Team": "Cleveland Cavaliers",
     "Rank": "Bottom 2",
-    "Statistic": "AST",
-    "Value": 7.41,
+    "Statistic": "REB",
+    "Value": 5.48,
     "Time Split": "GC-0",
     "Position": "PG"
   },
   {
-    "Team": "New York Knicks",
-    "Rank": "Bottom 5",
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 2",
     "Statistic": "AST",
-    "Value": 8.11,
+    "Value": 9.3,
+    "Time Split": "GC-0",
+    "Position": "PG"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Bottom 3",
+    "Statistic": "AST",
+    "Value": 7.68,
+    "Time Split": "GC-0",
+    "Position": "PG"
+  },
+  {
+    "Team": "Memphis Grizzlies",
+    "Rank": "Top 1",
+    "Statistic": "3PM",
+    "Value": 3.34,
     "Time Split": "GC-0",
     "Position": "PG"
   },
   {
     "Team": "Atlanta Hawks",
-    "Rank": "Top 3",
+    "Rank": "Top 4",
     "Statistic": "3PM",
-    "Value": 3.39,
+    "Value": 3.41,
     "Time Split": "GC-0",
     "Position": "PG"
   },
   {
-    "Team": "New York Knicks",
-    "Rank": "Bottom 3",
+    "Team": "Brooklyn Nets",
+    "Rank": "Top 5",
     "Statistic": "3PM",
-    "Value": 2.58,
+    "Value": 3.65,
     "Time Split": "GC-0",
     "Position": "PG"
   },
@@ -627,23 +563,31 @@
     "Team": "Philadelphia 76ers",
     "Rank": "Bottom 4",
     "Statistic": "3PM",
-    "Value": 2.59,
+    "Value": 2.64,
     "Time Split": "GC-0",
     "Position": "PG"
   },
   {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 3",
+    "Team": "Detroit Pistons",
+    "Rank": "Bottom 5",
+    "Statistic": "3PM",
+    "Value": 2.66,
+    "Time Split": "GC-0",
+    "Position": "PG"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 1",
     "Statistic": "STL",
-    "Value": 1.36,
+    "Value": 2.01,
     "Time Split": "GC-0",
     "Position": "PG"
   },
   {
-    "Team": "Houston Rockets",
-    "Rank": "Top 3",
-    "Statistic": "BLK",
-    "Value": 0.77,
+    "Team": "Detroit Pistons",
+    "Rank": "Top 4",
+    "Statistic": "STL",
+    "Value": 2.16,
     "Time Split": "GC-0",
     "Position": "PG"
   },
@@ -652,6 +596,14 @@
     "Rank": "Top 5",
     "Statistic": "BLK",
     "Value": 0.86,
+    "Time Split": "GC-0",
+    "Position": "PG"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Bottom 1",
+    "Statistic": "BLK",
+    "Value": 0.32,
     "Time Split": "GC-0",
     "Position": "PG"
   },
@@ -664,18 +616,34 @@
     "Position": "PG"
   },
   {
-    "Team": "Sacramento Kings",
-    "Rank": "Top 4",
-    "Statistic": "TO",
-    "Value": 3.4,
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Bottom 3",
+    "Statistic": "BLK",
+    "Value": 0.46,
     "Time Split": "GC-0",
     "Position": "PG"
   },
   {
-    "Team": "Golden State Warriors",
-    "Rank": "Bottom 1",
+    "Team": "Philadelphia 76ers",
+    "Rank": "Top 1",
     "Statistic": "TO",
-    "Value": 2.46,
+    "Value": 3.3,
+    "Time Split": "GC-0",
+    "Position": "PG"
+  },
+  {
+    "Team": "Memphis Grizzlies",
+    "Rank": "Top 4",
+    "Statistic": "TO",
+    "Value": 3.37,
+    "Time Split": "GC-0",
+    "Position": "PG"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Bottom 2",
+    "Statistic": "TO",
+    "Value": 2.76,
     "Time Split": "GC-0",
     "Position": "PG"
   },
@@ -688,18 +656,10 @@
     "Position": "PG"
   },
   {
-    "Team": "New York Knicks",
-    "Rank": "Bottom 5",
-    "Statistic": "TO",
-    "Value": 2.83,
-    "Time Split": "GC-0",
-    "Position": "PG"
-  },
-  {
-    "Team": "Atlanta Hawks",
-    "Rank": "Top 1",
+    "Team": "Brooklyn Nets",
+    "Rank": "Top 4",
     "Statistic": "FG%",
-    "Value": 46.36,
+    "Value": 46.96,
     "Time Split": "GC-0",
     "Position": "PG"
   },
@@ -707,7 +667,7 @@
     "Team": "Philadelphia 76ers",
     "Rank": "Bottom 4",
     "Statistic": "FG%",
-    "Value": 43.5,
+    "Value": 43.42,
     "Time Split": "GC-0",
     "Position": "PG"
   },
@@ -715,15 +675,31 @@
     "Team": "Atlanta Hawks",
     "Rank": "Top 1",
     "Statistic": "FT%",
-    "Value": 85.07,
+    "Value": 85.19,
     "Time Split": "GC-0",
     "Position": "PG"
   },
   {
-    "Team": "Houston Rockets",
-    "Rank": "Bottom 2",
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 3",
     "Statistic": "FT%",
-    "Value": 77.16,
+    "Value": 86.25,
+    "Time Split": "GC-0",
+    "Position": "PG"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Top 4",
+    "Statistic": "FT%",
+    "Value": 86.67,
+    "Time Split": "GC-0",
+    "Position": "PG"
+  },
+  {
+    "Team": "Memphis Grizzlies",
+    "Rank": "Bottom 3",
+    "Statistic": "FT%",
+    "Value": 79.13,
     "Time Split": "GC-0",
     "Position": "PG"
   },
@@ -731,7 +707,7 @@
     "Team": "Atlanta Hawks",
     "Rank": "Top 3",
     "Statistic": "PTS",
-    "Value": 22.76,
+    "Value": 22.77,
     "Time Split": "GC-0",
     "Position": "SF"
   },
@@ -739,31 +715,15 @@
     "Team": "Denver Nuggets",
     "Rank": "Bottom 1",
     "Statistic": "PTS",
-    "Value": 18.29,
+    "Value": 18.22,
     "Time Split": "GC-0",
     "Position": "SF"
   },
   {
-    "Team": "Houston Rockets",
-    "Rank": "Bottom 2",
-    "Statistic": "PTS",
-    "Value": 18.63,
-    "Time Split": "GC-0",
-    "Position": "SF"
-  },
-  {
-    "Team": "Dallas Mavericks",
-    "Rank": "Bottom 4",
-    "Statistic": "PTS",
-    "Value": 19.39,
-    "Time Split": "GC-0",
-    "Position": "SF"
-  },
-  {
-    "Team": "Golden State Warriors",
+    "Team": "Brooklyn Nets",
     "Rank": "Top 1",
     "Statistic": "REB",
-    "Value": 7.9,
+    "Value": 7.89,
     "Time Split": "GC-0",
     "Position": "SF"
   },
@@ -771,15 +731,15 @@
     "Team": "Philadelphia 76ers",
     "Rank": "Top 3",
     "Statistic": "REB",
-    "Value": 8.22,
+    "Value": 8.19,
     "Time Split": "GC-0",
     "Position": "SF"
   },
   {
-    "Team": "Sacramento Kings",
-    "Rank": "Bottom 3",
+    "Team": "Memphis Grizzlies",
+    "Rank": "Top 5",
     "Statistic": "REB",
-    "Value": 7.12,
+    "Value": 8.45,
     "Time Split": "GC-0",
     "Position": "SF"
   },
@@ -787,7 +747,7 @@
     "Team": "Atlanta Hawks",
     "Rank": "Top 5",
     "Statistic": "AST",
-    "Value": 4.76,
+    "Value": 4.73,
     "Time Split": "GC-0",
     "Position": "SF"
   },
@@ -800,18 +760,26 @@
     "Position": "SF"
   },
   {
-    "Team": "Philadelphia 76ers",
-    "Rank": "Bottom 5",
-    "Statistic": "AST",
-    "Value": 3.65,
+    "Team": "Atlanta Hawks",
+    "Rank": "Top 2",
+    "Statistic": "3PM",
+    "Value": 3.03,
     "Time Split": "GC-0",
     "Position": "SF"
   },
   {
-    "Team": "Atlanta Hawks",
-    "Rank": "Top 2",
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 3",
     "Statistic": "3PM",
-    "Value": 3.04,
+    "Value": 3.06,
+    "Time Split": "GC-0",
+    "Position": "SF"
+  },
+  {
+    "Team": "Memphis Grizzlies",
+    "Rank": "Top 4",
+    "Statistic": "3PM",
+    "Value": 3.09,
     "Time Split": "GC-0",
     "Position": "SF"
   },
@@ -819,28 +787,20 @@
     "Team": "Denver Nuggets",
     "Rank": "Bottom 1",
     "Statistic": "3PM",
-    "Value": 1.96,
+    "Value": 1.95,
     "Time Split": "GC-0",
     "Position": "SF"
   },
   {
-    "Team": "Houston Rockets",
-    "Rank": "Bottom 4",
-    "Statistic": "3PM",
-    "Value": 2.27,
-    "Time Split": "GC-0",
-    "Position": "SF"
-  },
-  {
-    "Team": "Dallas Mavericks",
-    "Rank": "Bottom 1",
+    "Team": "Memphis Grizzlies",
+    "Rank": "Top 2",
     "Statistic": "STL",
-    "Value": 1.21,
+    "Value": 1.7,
     "Time Split": "GC-0",
     "Position": "SF"
   },
   {
-    "Team": "Atlanta Hawks",
+    "Team": "Brooklyn Nets",
     "Rank": "Bottom 5",
     "Statistic": "STL",
     "Value": 1.34,
@@ -851,23 +811,23 @@
     "Team": "Philadelphia 76ers",
     "Rank": "Top 1",
     "Statistic": "BLK",
-    "Value": 0.89,
+    "Value": 0.9,
     "Time Split": "GC-0",
     "Position": "SF"
   },
   {
-    "Team": "Sacramento Kings",
-    "Rank": "Bottom 3",
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Bottom 2",
     "Statistic": "BLK",
-    "Value": 0.59,
+    "Value": 0.57,
     "Time Split": "GC-0",
     "Position": "SF"
   },
   {
-    "Team": "Miami Heat",
-    "Rank": "Top 1",
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Top 3",
     "Statistic": "TO",
-    "Value": 2.48,
+    "Value": 2.56,
     "Time Split": "GC-0",
     "Position": "SF"
   },
@@ -875,439 +835,423 @@
     "Team": "Atlanta Hawks",
     "Rank": "Top 4",
     "Statistic": "TO",
-    "Value": 2.62,
+    "Value": 2.61,
     "Time Split": "GC-0",
     "Position": "SF"
   },
   {
-    "Team": "Sacramento Kings",
-    "Rank": "Top 5",
-    "Statistic": "FG%",
-    "Value": 50.73,
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 1",
+    "Statistic": "FT%",
+    "Value": 81.42,
     "Time Split": "GC-0",
     "Position": "SF"
   },
   {
-    "Team": "Dallas Mavericks",
+    "Team": "Brooklyn Nets",
+    "Rank": "Top 4",
+    "Statistic": "FT%",
+    "Value": 82.62,
+    "Time Split": "GC-0",
+    "Position": "SF"
+  },
+  {
+    "Team": "Denver Nuggets",
+    "Rank": "Bottom 5",
+    "Statistic": "FT%",
+    "Value": 76.29,
+    "Time Split": "GC-0",
+    "Position": "SF"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Top 1",
+    "Statistic": "PTS",
+    "Value": 23.35,
+    "Time Split": "GC-0",
+    "Position": "SG"
+  },
+  {
+    "Team": "Atlanta Hawks",
+    "Rank": "Top 4",
+    "Statistic": "PTS",
+    "Value": 23.89,
+    "Time Split": "GC-0",
+    "Position": "SG"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
     "Rank": "Bottom 2",
-    "Statistic": "FG%",
-    "Value": 42.51,
+    "Statistic": "PTS",
+    "Value": 20.07,
     "Time Split": "GC-0",
-    "Position": "SF"
+    "Position": "SG"
   },
   {
-    "Team": "Houston Rockets",
+    "Team": "Brooklyn Nets",
+    "Rank": "Top 1",
+    "Statistic": "REB",
+    "Value": 6.69,
+    "Time Split": "GC-0",
+    "Position": "SG"
+  },
+  {
+    "Team": "Philadelphia 76ers",
     "Rank": "Bottom 3",
+    "Statistic": "REB",
+    "Value": 5.6,
+    "Time Split": "GC-0",
+    "Position": "SG"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Bottom 5",
+    "Statistic": "REB",
+    "Value": 5.8,
+    "Time Split": "GC-0",
+    "Position": "SG"
+  },
+  {
+    "Team": "Atlanta Hawks",
+    "Rank": "Top 1",
+    "Statistic": "AST",
+    "Value": 5.49,
+    "Time Split": "GC-0",
+    "Position": "SG"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 3",
+    "Statistic": "AST",
+    "Value": 5.66,
+    "Time Split": "GC-0",
+    "Position": "SG"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Bottom 4",
+    "Statistic": "AST",
+    "Value": 4.67,
+    "Time Split": "GC-0",
+    "Position": "SG"
+  },
+  {
+    "Team": "Denver Nuggets",
+    "Rank": "Bottom 4",
+    "Statistic": "3PM",
+    "Value": 2.85,
+    "Time Split": "GC-0",
+    "Position": "SG"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Top 5",
+    "Statistic": "STL",
+    "Value": 2.05,
+    "Time Split": "GC-0",
+    "Position": "SG"
+  },
+  {
+    "Team": "Philadelphia 76ers",
+    "Rank": "Bottom 1",
+    "Statistic": "STL",
+    "Value": 1.09,
+    "Time Split": "GC-0",
+    "Position": "SG"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Top 5",
+    "Statistic": "BLK",
+    "Value": 0.88,
+    "Time Split": "GC-0",
+    "Position": "SG"
+  },
+  {
+    "Team": "Atlanta Hawks",
+    "Rank": "Top 3",
+    "Statistic": "TO",
+    "Value": 2.71,
+    "Time Split": "GC-0",
+    "Position": "SG"
+  },
+  {
+    "Team": "Brooklyn Nets",
+    "Rank": "Bottom 2",
+    "Statistic": "TO",
+    "Value": 2.15,
+    "Time Split": "GC-0",
+    "Position": "SG"
+  },
+  {
+    "Team": "Atlanta Hawks",
+    "Rank": "Top 3",
+    "Statistic": "FG%",
+    "Value": 45.92,
+    "Time Split": "GC-0",
+    "Position": "SG"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Bottom 4",
     "Statistic": "FG%",
     "Value": 42.61,
     "Time Split": "GC-0",
-    "Position": "SF"
+    "Position": "SG"
   },
   {
-    "Team": "Sacramento Kings",
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 4",
+    "Statistic": "FT%",
+    "Value": 85.71,
+    "Time Split": "GC-0",
+    "Position": "SG"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Top 5",
+    "Statistic": "FT%",
+    "Value": 85.96,
+    "Time Split": "GC-0",
+    "Position": "SG"
+  },
+  {
+    "Team": "Memphis Grizzlies",
+    "Rank": "Bottom 2",
+    "Statistic": "FT%",
+    "Value": 77.51,
+    "Time Split": "GC-0",
+    "Position": "SG"
+  },
+  {
+    "Team": "Atlanta Hawks",
+    "Rank": "Bottom 3",
+    "Statistic": "FT%",
+    "Value": 77.84,
+    "Time Split": "GC-0",
+    "Position": "SG"
+  },
+  {
+    "Team": "Los Angeles Lakers",
     "Rank": "Top 3",
-    "Statistic": "FT%",
-    "Value": 82.28,
-    "Time Split": "GC-0",
-    "Position": "SF"
-  },
-  {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 3",
-    "Statistic": "FT%",
-    "Value": 76.03,
-    "Time Split": "GC-0",
-    "Position": "SF"
-  },
-  {
-    "Team": "Denver Nuggets",
-    "Rank": "Bottom 4",
-    "Statistic": "FT%",
-    "Value": 76.14,
-    "Time Split": "GC-0",
-    "Position": "SF"
-  },
-  {
-    "Team": "Dallas Mavericks",
-    "Rank": "Bottom 5",
-    "Statistic": "FT%",
-    "Value": 76.39,
-    "Time Split": "GC-0",
-    "Position": "SF"
-  },
-  {
-    "Team": "Atlanta Hawks",
-    "Rank": "Top 4",
     "Statistic": "PTS",
-    "Value": 23.84,
-    "Time Split": "GC-0",
-    "Position": "SG"
+    "Value": 23.99,
+    "Time Split": "GC-15",
+    "Position": "ALL"
   },
   {
-    "Team": "Dallas Mavericks",
+    "Team": "Los Angeles Lakers",
     "Rank": "Top 4",
-    "Statistic": "REB",
-    "Value": 6.97,
-    "Time Split": "GC-0",
-    "Position": "SG"
-  },
-  {
-    "Team": "Golden State Warriors",
-    "Rank": "Bottom 1",
-    "Statistic": "REB",
-    "Value": 5.41,
-    "Time Split": "GC-0",
-    "Position": "SG"
-  },
-  {
-    "Team": "Sacramento Kings",
-    "Rank": "Bottom 2",
-    "Statistic": "REB",
-    "Value": 5.58,
-    "Time Split": "GC-0",
-    "Position": "SG"
-  },
-  {
-    "Team": "Philadelphia 76ers",
-    "Rank": "Bottom 3",
-    "Statistic": "REB",
-    "Value": 5.62,
-    "Time Split": "GC-0",
-    "Position": "SG"
-  },
-  {
-    "Team": "Atlanta Hawks",
-    "Rank": "Top 1",
     "Statistic": "AST",
-    "Value": 5.53,
-    "Time Split": "GC-0",
-    "Position": "SG"
+    "Value": 6.03,
+    "Time Split": "GC-15",
+    "Position": "ALL"
   },
   {
-    "Team": "Golden State Warriors",
-    "Rank": "Bottom 5",
-    "Statistic": "AST",
-    "Value": 4.69,
-    "Time Split": "GC-0",
-    "Position": "SG"
-  },
-  {
-    "Team": "New York Knicks",
+    "Team": "Los Angeles Lakers",
     "Rank": "Top 1",
     "Statistic": "3PM",
-    "Value": 3.57,
-    "Time Split": "GC-0",
-    "Position": "SG"
+    "Value": 2.88,
+    "Time Split": "GC-15",
+    "Position": "ALL"
   },
   {
     "Team": "Denver Nuggets",
-    "Rank": "Bottom 4",
+    "Rank": "Bottom 2",
     "Statistic": "3PM",
-    "Value": 2.87,
-    "Time Split": "GC-0",
-    "Position": "SG"
+    "Value": 2.02,
+    "Time Split": "GC-15",
+    "Position": "ALL"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Top 3",
+    "Statistic": "STL",
+    "Value": 1.83,
+    "Time Split": "GC-15",
+    "Position": "ALL"
   },
   {
     "Team": "Philadelphia 76ers",
-    "Rank": "Bottom 1",
+    "Rank": "Bottom 4",
     "Statistic": "STL",
-    "Value": 1.07,
-    "Time Split": "GC-0",
-    "Position": "SG"
+    "Value": 1.18,
+    "Time Split": "GC-15",
+    "Position": "ALL"
   },
   {
-    "Team": "New York Knicks",
-    "Rank": "Bottom 2",
-    "Statistic": "STL",
-    "Value": 1.19,
-    "Time Split": "GC-0",
-    "Position": "SG"
-  },
-  {
-    "Team": "Atlanta Hawks",
+    "Team": "Philadelphia 76ers",
     "Rank": "Top 2",
-    "Statistic": "TO",
-    "Value": 2.69,
-    "Time Split": "GC-0",
-    "Position": "SG"
+    "Statistic": "BLK",
+    "Value": 1.26,
+    "Time Split": "GC-15",
+    "Position": "ALL"
   },
   {
-    "Team": "Atlanta Hawks",
+    "Team": "Memphis Grizzlies",
+    "Rank": "Top 5",
+    "Statistic": "BLK",
+    "Value": 1.35,
+    "Time Split": "GC-15",
+    "Position": "ALL"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Bottom 1",
+    "Statistic": "BLK",
+    "Value": 0.65,
+    "Time Split": "GC-15",
+    "Position": "ALL"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Bottom 5",
+    "Statistic": "TO",
+    "Value": 2.22,
+    "Time Split": "GC-15",
+    "Position": "ALL"
+  },
+  {
+    "Team": "Brooklyn Nets",
+    "Rank": "Top 1",
+    "Statistic": "FG%",
+    "Value": 48.97,
+    "Time Split": "GC-15",
+    "Position": "ALL"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
     "Rank": "Top 3",
     "Statistic": "FG%",
-    "Value": 46.03,
-    "Time Split": "GC-0",
-    "Position": "SG"
+    "Value": 49.32,
+    "Time Split": "GC-15",
+    "Position": "ALL"
   },
   {
-    "Team": "New York Knicks",
-    "Rank": "Top 1",
-    "Statistic": "FT%",
-    "Value": 84.27,
-    "Time Split": "GC-0",
-    "Position": "SG"
+    "Team": "Denver Nuggets",
+    "Rank": "Bottom 4",
+    "Statistic": "FG%",
+    "Value": 45.11,
+    "Time Split": "GC-15",
+    "Position": "ALL"
   },
   {
     "Team": "Atlanta Hawks",
-    "Rank": "Bottom 2",
+    "Rank": "Top 1",
     "Statistic": "FT%",
-    "Value": 77.68,
-    "Time Split": "GC-0",
-    "Position": "SG"
+    "Value": 81.14,
+    "Time Split": "GC-15",
+    "Position": "ALL"
   },
   {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 4",
+    "Team": "Philadelphia 76ers",
+    "Rank": "Top 2",
     "Statistic": "FT%",
-    "Value": 78.47,
-    "Time Split": "GC-0",
-    "Position": "SG"
+    "Value": 82.37,
+    "Time Split": "GC-15",
+    "Position": "ALL"
   },
   {
-    "Team": "Golden State Warriors",
+    "Team": "Detroit Pistons",
+    "Rank": "Bottom 1",
+    "Statistic": "FT%",
+    "Value": 71.79,
+    "Time Split": "GC-15",
+    "Position": "ALL"
+  },
+  {
+    "Team": "Denver Nuggets",
+    "Rank": "Bottom 3",
+    "Statistic": "FT%",
+    "Value": 74.61,
+    "Time Split": "GC-15",
+    "Position": "ALL"
+  },
+  {
+    "Team": "Los Angeles Lakers",
     "Rank": "Bottom 5",
     "Statistic": "FT%",
-    "Value": 78.49,
-    "Time Split": "GC-0",
-    "Position": "SG"
-  },
-  {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 1",
-    "Statistic": "PTS",
-    "Value": 19.85,
+    "Value": 75.24,
     "Time Split": "GC-15",
     "Position": "ALL"
   },
   {
-    "Team": "New York Knicks",
-    "Rank": "Bottom 2",
-    "Statistic": "PTS",
-    "Value": 19.86,
+    "Team": "Philadelphia 76ers",
+    "Rank": "Top 3",
+    "Statistic": "REB",
+    "Value": 16.7,
     "Time Split": "GC-15",
-    "Position": "ALL"
+    "Position": "C"
   },
   {
-    "Team": "Miami Heat",
+    "Team": "Los Angeles Lakers",
     "Rank": "Bottom 3",
     "Statistic": "REB",
-    "Value": 8.02,
+    "Value": 11.88,
     "Time Split": "GC-15",
-    "Position": "ALL"
+    "Position": "C"
   },
   {
-    "Team": "New York Knicks",
-    "Rank": "Bottom 4",
-    "Statistic": "REB",
-    "Value": 8.03,
+    "Team": "Philadelphia 76ers",
+    "Rank": "Top 2",
+    "Statistic": "AST",
+    "Value": 5.26,
     "Time Split": "GC-15",
-    "Position": "ALL"
+    "Position": "C"
   },
   {
-    "Team": "Golden State Warriors",
-    "Rank": "Top 1",
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 5",
     "Statistic": "AST",
     "Value": 5.67,
     "Time Split": "GC-15",
-    "Position": "ALL"
-  },
-  {
-    "Team": "Houston Rockets",
-    "Rank": "Bottom 2",
-    "Statistic": "AST",
-    "Value": 4.72,
-    "Time Split": "GC-15",
-    "Position": "ALL"
-  },
-  {
-    "Team": "Sacramento Kings",
-    "Rank": "Bottom 3",
-    "Statistic": "AST",
-    "Value": 4.76,
-    "Time Split": "GC-15",
-    "Position": "ALL"
-  },
-  {
-    "Team": "Golden State Warriors",
-    "Rank": "Top 2",
-    "Statistic": "3PM",
-    "Value": 2.98,
-    "Time Split": "GC-15",
-    "Position": "ALL"
-  },
-  {
-    "Team": "Denver Nuggets",
-    "Rank": "Bottom 3",
-    "Statistic": "3PM",
-    "Value": 2.11,
-    "Time Split": "GC-15",
-    "Position": "ALL"
-  },
-  {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 1",
-    "Statistic": "STL",
-    "Value": 0.94,
-    "Time Split": "GC-15",
-    "Position": "ALL"
-  },
-  {
-    "Team": "Philadelphia 76ers",
-    "Rank": "Bottom 4",
-    "Statistic": "STL",
-    "Value": 1.13,
-    "Time Split": "GC-15",
-    "Position": "ALL"
-  },
-  {
-    "Team": "Philadelphia 76ers",
-    "Rank": "Top 5",
-    "Statistic": "BLK",
-    "Value": 1.38,
-    "Time Split": "GC-15",
-    "Position": "ALL"
-  },
-  {
-    "Team": "Sacramento Kings",
-    "Rank": "Bottom 4",
-    "Statistic": "BLK",
-    "Value": 0.76,
-    "Time Split": "GC-15",
-    "Position": "ALL"
-  },
-  {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 5",
-    "Statistic": "BLK",
-    "Value": 0.78,
-    "Time Split": "GC-15",
-    "Position": "ALL"
-  },
-  {
-    "Team": "Houston Rockets",
-    "Rank": "Top 3",
-    "Statistic": "TO",
-    "Value": 2.82,
-    "Time Split": "GC-15",
-    "Position": "ALL"
-  },
-  {
-    "Team": "New York Knicks",
-    "Rank": "Bottom 2",
-    "Statistic": "FG%",
-    "Value": 44.58,
-    "Time Split": "GC-15",
-    "Position": "ALL"
-  },
-  {
-    "Team": "Dallas Mavericks",
-    "Rank": "Bottom 3",
-    "Statistic": "FG%",
-    "Value": 44.75,
-    "Time Split": "GC-15",
-    "Position": "ALL"
-  },
-  {
-    "Team": "Sacramento Kings",
-    "Rank": "Bottom 5",
-    "Statistic": "FG%",
-    "Value": 45.34,
-    "Time Split": "GC-15",
-    "Position": "ALL"
-  },
-  {
-    "Team": "Dallas Mavericks",
-    "Rank": "Top 1",
-    "Statistic": "FT%",
-    "Value": 81.59,
-    "Time Split": "GC-15",
-    "Position": "ALL"
-  },
-  {
-    "Team": "Houston Rockets",
-    "Rank": "Top 3",
-    "Statistic": "FT%",
-    "Value": 81.95,
-    "Time Split": "GC-15",
-    "Position": "ALL"
-  },
-  {
-    "Team": "Philadelphia 76ers",
-    "Rank": "Top 5",
-    "Statistic": "FT%",
-    "Value": 82.69,
-    "Time Split": "GC-15",
-    "Position": "ALL"
-  },
-  {
-    "Team": "Denver Nuggets",
-    "Rank": "Bottom 2",
-    "Statistic": "FT%",
-    "Value": 73.89,
-    "Time Split": "GC-15",
-    "Position": "ALL"
-  },
-  {
-    "Team": "Golden State Warriors",
-    "Rank": "Bottom 3",
-    "Statistic": "FT%",
-    "Value": 74.11,
-    "Time Split": "GC-15",
-    "Position": "ALL"
-  },
-  {
-    "Team": "Sacramento Kings",
-    "Rank": "Bottom 2",
-    "Statistic": "PTS",
-    "Value": 17.4,
-    "Time Split": "GC-15",
-    "Position": "C"
-  },
-  {
-    "Team": "New York Knicks",
-    "Rank": "Bottom 5",
-    "Statistic": "PTS",
-    "Value": 21.12,
-    "Time Split": "GC-15",
-    "Position": "C"
-  },
-  {
-    "Team": "Philadelphia 76ers",
-    "Rank": "Top 3",
-    "Statistic": "REB",
-    "Value": 16.52,
-    "Time Split": "GC-15",
-    "Position": "C"
-  },
-  {
-    "Team": "Dallas Mavericks",
-    "Rank": "Top 3",
-    "Statistic": "AST",
-    "Value": 5.27,
-    "Time Split": "GC-15",
     "Position": "C"
   },
   {
     "Team": "Atlanta Hawks",
     "Rank": "Bottom 1",
     "Statistic": "AST",
-    "Value": 2.85,
+    "Value": 2.78,
     "Time Split": "GC-15",
     "Position": "C"
   },
   {
-    "Team": "Houston Rockets",
-    "Rank": "Bottom 4",
-    "Statistic": "AST",
-    "Value": 3.02,
-    "Time Split": "GC-15",
-    "Position": "C"
-  },
-  {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 1",
+    "Team": "Memphis Grizzlies",
+    "Rank": "Top 1",
     "Statistic": "3PM",
-    "Value": 0.44,
+    "Value": 1.39,
+    "Time Split": "GC-15",
+    "Position": "C"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 5",
+    "Statistic": "3PM",
+    "Value": 2.6,
+    "Time Split": "GC-15",
+    "Position": "C"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 1",
+    "Statistic": "STL",
+    "Value": 1.68,
+    "Time Split": "GC-15",
+    "Position": "C"
+  },
+  {
+    "Team": "Brooklyn Nets",
+    "Rank": "Top 2",
+    "Statistic": "STL",
+    "Value": 1.79,
+    "Time Split": "GC-15",
+    "Position": "C"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Top 4",
+    "Statistic": "STL",
+    "Value": 2.22,
     "Time Split": "GC-15",
     "Position": "C"
   },
@@ -1315,23 +1259,7 @@
     "Team": "Philadelphia 76ers",
     "Rank": "Bottom 2",
     "Statistic": "STL",
-    "Value": 0.82,
-    "Time Split": "GC-15",
-    "Position": "C"
-  },
-  {
-    "Team": "New York Knicks",
-    "Rank": "Bottom 3",
-    "Statistic": "STL",
-    "Value": 0.86,
-    "Time Split": "GC-15",
-    "Position": "C"
-  },
-  {
-    "Team": "Sacramento Kings",
-    "Rank": "Bottom 4",
-    "Statistic": "STL",
-    "Value": 0.89,
+    "Value": 0.83,
     "Time Split": "GC-15",
     "Position": "C"
   },
@@ -1339,79 +1267,87 @@
     "Team": "Philadelphia 76ers",
     "Rank": "Top 2",
     "Statistic": "BLK",
-    "Value": 3.01,
+    "Value": 2.7,
+    "Time Split": "GC-15",
+    "Position": "C"
+  },
+  {
+    "Team": "Brooklyn Nets",
+    "Rank": "Top 3",
+    "Statistic": "BLK",
+    "Value": 2.99,
+    "Time Split": "GC-15",
+    "Position": "C"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Top 4",
+    "Statistic": "BLK",
+    "Value": 3.07,
     "Time Split": "GC-15",
     "Position": "C"
   },
   {
     "Team": "Denver Nuggets",
-    "Rank": "Top 4",
-    "Statistic": "BLK",
-    "Value": 3.27,
-    "Time Split": "GC-15",
-    "Position": "C"
-  },
-  {
-    "Team": "Houston Rockets",
     "Rank": "Top 5",
     "Statistic": "BLK",
-    "Value": 3.42,
+    "Value": 3.07,
     "Time Split": "GC-15",
     "Position": "C"
   },
   {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 1",
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Bottom 4",
     "Statistic": "BLK",
-    "Value": 0.59,
+    "Value": 1.37,
     "Time Split": "GC-15",
     "Position": "C"
   },
   {
-    "Team": "New York Knicks",
-    "Rank": "Top 3",
+    "Team": "Memphis Grizzlies",
+    "Rank": "Top 4",
     "Statistic": "TO",
     "Value": 3.8,
     "Time Split": "GC-15",
     "Position": "C"
   },
   {
-    "Team": "Houston Rockets",
-    "Rank": "Top 4",
+    "Team": "Denver Nuggets",
+    "Rank": "Bottom 4",
     "Statistic": "TO",
-    "Value": 3.89,
+    "Value": 2.05,
     "Time Split": "GC-15",
     "Position": "C"
   },
   {
-    "Team": "Sacramento Kings",
-    "Rank": "Bottom 2",
-    "Statistic": "TO",
-    "Value": 2.18,
-    "Time Split": "GC-15",
-    "Position": "C"
-  },
-  {
-    "Team": "Sacramento Kings",
-    "Rank": "Bottom 1",
-    "Statistic": "FG%",
-    "Value": 42.91,
-    "Time Split": "GC-15",
-    "Position": "C"
-  },
-  {
-    "Team": "Dallas Mavericks",
-    "Rank": "Bottom 3",
-    "Statistic": "FG%",
-    "Value": 50.46,
-    "Time Split": "GC-15",
-    "Position": "C"
-  },
-  {
-    "Team": "New York Knicks",
+    "Team": "Cleveland Cavaliers",
     "Rank": "Bottom 5",
+    "Statistic": "TO",
+    "Value": 2.09,
+    "Time Split": "GC-15",
+    "Position": "C"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Top 4",
     "Statistic": "FG%",
-    "Value": 51.28,
+    "Value": 63.4,
+    "Time Split": "GC-15",
+    "Position": "C"
+  },
+  {
+    "Team": "Denver Nuggets",
+    "Rank": "Bottom 4",
+    "Statistic": "FG%",
+    "Value": 49.53,
+    "Time Split": "GC-15",
+    "Position": "C"
+  },
+  {
+    "Team": "Memphis Grizzlies",
+    "Rank": "Top 1",
+    "Statistic": "FT%",
+    "Value": 81.53,
     "Time Split": "GC-15",
     "Position": "C"
   },
@@ -1419,679 +1355,623 @@
     "Team": "Philadelphia 76ers",
     "Rank": "Top 3",
     "Statistic": "FT%",
-    "Value": 81.9,
+    "Value": 82.42,
     "Time Split": "GC-15",
     "Position": "C"
   },
   {
-    "Team": "Houston Rockets",
-    "Rank": "Top 4",
+    "Team": "Detroit Pistons",
+    "Rank": "Bottom 2",
     "Statistic": "FT%",
-    "Value": 84.03,
+    "Value": 62.25,
     "Time Split": "GC-15",
     "Position": "C"
   },
   {
-    "Team": "Golden State Warriors",
-    "Rank": "Bottom 4",
-    "Statistic": "FT%",
-    "Value": 62.34,
-    "Time Split": "GC-15",
-    "Position": "C"
-  },
-  {
-    "Team": "Golden State Warriors",
+    "Team": "Los Angeles Lakers",
     "Rank": "Top 4",
     "Statistic": "PTS",
-    "Value": 26.22,
+    "Value": 26.46,
     "Time Split": "GC-15",
     "Position": "PF"
   },
   {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 1",
-    "Statistic": "PTS",
-    "Value": 16.64,
+    "Team": "Brooklyn Nets",
+    "Rank": "Top 1",
+    "Statistic": "REB",
+    "Value": 11.04,
     "Time Split": "GC-15",
     "Position": "PF"
   },
   {
-    "Team": "Golden State Warriors",
+    "Team": "Los Angeles Lakers",
     "Rank": "Top 4",
     "Statistic": "REB",
-    "Value": 12.54,
+    "Value": 12.26,
     "Time Split": "GC-15",
     "Position": "PF"
   },
   {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 2",
-    "Statistic": "AST",
-    "Value": 3.3,
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Bottom 5",
+    "Statistic": "REB",
+    "Value": 8.77,
     "Time Split": "GC-15",
     "Position": "PF"
   },
   {
-    "Team": "Houston Rockets",
-    "Rank": "Bottom 3",
+    "Team": "Detroit Pistons",
+    "Rank": "Top 2",
     "Statistic": "AST",
-    "Value": 3.48,
+    "Value": 5.01,
+    "Time Split": "GC-15",
+    "Position": "PF"
+  },
+  {
+    "Team": "Memphis Grizzlies",
+    "Rank": "Top 5",
+    "Statistic": "AST",
+    "Value": 5.8,
+    "Time Split": "GC-15",
+    "Position": "PF"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Bottom 5",
+    "Statistic": "AST",
+    "Value": 3.79,
     "Time Split": "GC-15",
     "Position": "PF"
   },
   {
     "Team": "Philadelphia 76ers",
+    "Rank": "Top 2",
+    "Statistic": "3PM",
+    "Value": 2.91,
+    "Time Split": "GC-15",
+    "Position": "PF"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
     "Rank": "Top 3",
     "Statistic": "3PM",
-    "Value": 2.84,
+    "Value": 2.92,
     "Time Split": "GC-15",
     "Position": "PF"
   },
   {
-    "Team": "Golden State Warriors",
-    "Rank": "Top 5",
+    "Team": "Detroit Pistons",
+    "Rank": "Bottom 3",
     "Statistic": "3PM",
-    "Value": 4.18,
+    "Value": 1.52,
     "Time Split": "GC-15",
     "Position": "PF"
   },
   {
-    "Team": "New York Knicks",
-    "Rank": "Bottom 2",
-    "Statistic": "3PM",
-    "Value": 1.51,
-    "Time Split": "GC-15",
-    "Position": "PF"
-  },
-  {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 5",
-    "Statistic": "3PM",
-    "Value": 1.6,
-    "Time Split": "GC-15",
-    "Position": "PF"
-  },
-  {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 2",
+    "Team": "Detroit Pistons",
+    "Rank": "Top 3",
     "Statistic": "STL",
-    "Value": 0.95,
+    "Value": 1.95,
     "Time Split": "GC-15",
     "Position": "PF"
+  },
+  {
+    "Team": "Brooklyn Nets",
+    "Rank": "Bottom 3",
+    "Statistic": "STL",
+    "Value": 1.15,
+    "Time Split": "GC-15",
+    "Position": "PF"
+  },
+  {
+    "Team": "Philadelphia 76ers",
+    "Rank": "Bottom 5",
+    "Statistic": "STL",
+    "Value": 1.16,
+    "Time Split": "GC-15",
+    "Position": "PF"
+  },
+  {
+    "Team": "Atlanta Hawks",
+    "Rank": "Top 2",
+    "Statistic": "BLK",
+    "Value": 1.7,
+    "Time Split": "GC-15",
+    "Position": "PF"
+  },
+  {
+    "Team": "Memphis Grizzlies",
+    "Rank": "Top 5",
+    "Statistic": "BLK",
+    "Value": 1.97,
+    "Time Split": "GC-15",
+    "Position": "PF"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Bottom 4",
+    "Statistic": "BLK",
+    "Value": 0.75,
+    "Time Split": "GC-15",
+    "Position": "PF"
+  },
+  {
+    "Team": "Memphis Grizzlies",
+    "Rank": "Top 1",
+    "Statistic": "TO",
+    "Value": 2.83,
+    "Time Split": "GC-15",
+    "Position": "PF"
+  },
+  {
+    "Team": "Philadelphia 76ers",
+    "Rank": "Top 5",
+    "Statistic": "TO",
+    "Value": 4.08,
+    "Time Split": "GC-15",
+    "Position": "PF"
+  },
+  {
+    "Team": "Brooklyn Nets",
+    "Rank": "Top 1",
+    "Statistic": "FG%",
+    "Value": 53.76,
+    "Time Split": "GC-15",
+    "Position": "PF"
+  },
+  {
+    "Team": "Philadelphia 76ers",
+    "Rank": "Top 1",
+    "Statistic": "FT%",
+    "Value": 80.58,
+    "Time Split": "GC-15",
+    "Position": "PF"
+  },
+  {
+    "Team": "Atlanta Hawks",
+    "Rank": "Top 2",
+    "Statistic": "FT%",
+    "Value": 80.94,
+    "Time Split": "GC-15",
+    "Position": "PF"
+  },
+  {
+    "Team": "Memphis Grizzlies",
+    "Rank": "Bottom 1",
+    "Statistic": "FT%",
+    "Value": 63.54,
+    "Time Split": "GC-15",
+    "Position": "PF"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Bottom 2",
+    "Statistic": "FT%",
+    "Value": 64.37,
+    "Time Split": "GC-15",
+    "Position": "PF"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Bottom 3",
+    "Statistic": "FT%",
+    "Value": 67.66,
+    "Time Split": "GC-15",
+    "Position": "PF"
+  },
+  {
+    "Team": "Atlanta Hawks",
+    "Rank": "Top 3",
+    "Statistic": "PTS",
+    "Value": 27.87,
+    "Time Split": "GC-15",
+    "Position": "PG"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 4",
+    "Statistic": "PTS",
+    "Value": 28.58,
+    "Time Split": "GC-15",
+    "Position": "PG"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Bottom 1",
+    "Statistic": "PTS",
+    "Value": 16.89,
+    "Time Split": "GC-15",
+    "Position": "PG"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Bottom 4",
+    "Statistic": "PTS",
+    "Value": 19.96,
+    "Time Split": "GC-15",
+    "Position": "PG"
+  },
+  {
+    "Team": "Philadelphia 76ers",
+    "Rank": "Bottom 5",
+    "Statistic": "PTS",
+    "Value": 20.12,
+    "Time Split": "GC-15",
+    "Position": "PG"
+  },
+  {
+    "Team": "Denver Nuggets",
+    "Rank": "Top 4",
+    "Statistic": "REB",
+    "Value": 7.27,
+    "Time Split": "GC-15",
+    "Position": "PG"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Bottom 3",
+    "Statistic": "REB",
+    "Value": 4.79,
+    "Time Split": "GC-15",
+    "Position": "PG"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 2",
+    "Statistic": "AST",
+    "Value": 9.88,
+    "Time Split": "GC-15",
+    "Position": "PG"
+  },
+  {
+    "Team": "Atlanta Hawks",
+    "Rank": "Top 1",
+    "Statistic": "3PM",
+    "Value": 4.17,
+    "Time Split": "GC-15",
+    "Position": "PG"
+  },
+  {
+    "Team": "Memphis Grizzlies",
+    "Rank": "Top 2",
+    "Statistic": "3PM",
+    "Value": 4.23,
+    "Time Split": "GC-15",
+    "Position": "PG"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Bottom 1",
+    "Statistic": "3PM",
+    "Value": 2.01,
+    "Time Split": "GC-15",
+    "Position": "PG"
   },
   {
     "Team": "Denver Nuggets",
     "Rank": "Bottom 3",
+    "Statistic": "3PM",
+    "Value": 2.31,
+    "Time Split": "GC-15",
+    "Position": "PG"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Bottom 4",
+    "Statistic": "3PM",
+    "Value": 2.39,
+    "Time Split": "GC-15",
+    "Position": "PG"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 2",
     "Statistic": "STL",
+    "Value": 2.3,
+    "Time Split": "GC-15",
+    "Position": "PG"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Top 3",
+    "Statistic": "STL",
+    "Value": 2.39,
+    "Time Split": "GC-15",
+    "Position": "PG"
+  },
+  {
+    "Team": "Denver Nuggets",
+    "Rank": "Bottom 5",
+    "Statistic": "STL",
+    "Value": 1.32,
+    "Time Split": "GC-15",
+    "Position": "PG"
+  },
+  {
+    "Team": "Philadelphia 76ers",
+    "Rank": "Top 1",
+    "Statistic": "BLK",
+    "Value": 0.78,
+    "Time Split": "GC-15",
+    "Position": "PG"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Top 4",
+    "Statistic": "BLK",
+    "Value": 0.9,
+    "Time Split": "GC-15",
+    "Position": "PG"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Bottom 2",
+    "Statistic": "BLK",
+    "Value": 0.28,
+    "Time Split": "GC-15",
+    "Position": "PG"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Bottom 4",
+    "Statistic": "BLK",
+    "Value": 0.31,
+    "Time Split": "GC-15",
+    "Position": "PG"
+  },
+  {
+    "Team": "Atlanta Hawks",
+    "Rank": "Top 1",
+    "Statistic": "TO",
+    "Value": 3.5,
+    "Time Split": "GC-15",
+    "Position": "PG"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Bottom 1",
+    "Statistic": "TO",
+    "Value": 1.91,
+    "Time Split": "GC-15",
+    "Position": "PG"
+  },
+  {
+    "Team": "Philadelphia 76ers",
+    "Rank": "Bottom 4",
+    "Statistic": "TO",
+    "Value": 2.46,
+    "Time Split": "GC-15",
+    "Position": "PG"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Bottom 5",
+    "Statistic": "TO",
+    "Value": 2.49,
+    "Time Split": "GC-15",
+    "Position": "PG"
+  },
+  {
+    "Team": "Memphis Grizzlies",
+    "Rank": "Top 4",
+    "Statistic": "FG%",
+    "Value": 48.04,
+    "Time Split": "GC-15",
+    "Position": "PG"
+  },
+  {
+    "Team": "Philadelphia 76ers",
+    "Rank": "Bottom 1",
+    "Statistic": "FG%",
+    "Value": 38.49,
+    "Time Split": "GC-15",
+    "Position": "PG"
+  },
+  {
+    "Team": "Denver Nuggets",
+    "Rank": "Bottom 2",
+    "Statistic": "FG%",
+    "Value": 40.13,
+    "Time Split": "GC-15",
+    "Position": "PG"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Bottom 3",
+    "Statistic": "FG%",
+    "Value": 41.04,
+    "Time Split": "GC-15",
+    "Position": "PG"
+  },
+  {
+    "Team": "Philadelphia 76ers",
+    "Rank": "Top 2",
+    "Statistic": "FT%",
+    "Value": 90.0,
+    "Time Split": "GC-15",
+    "Position": "PG"
+  },
+  {
+    "Team": "Atlanta Hawks",
+    "Rank": "Top 3",
+    "Statistic": "FT%",
+    "Value": 92.02,
+    "Time Split": "GC-15",
+    "Position": "PG"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Top 5",
+    "Statistic": "FT%",
+    "Value": 95.9,
+    "Time Split": "GC-15",
+    "Position": "PG"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Bottom 5",
+    "Statistic": "FT%",
+    "Value": 79.36,
+    "Time Split": "GC-15",
+    "Position": "PG"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Top 4",
+    "Statistic": "PTS",
+    "Value": 23.9,
+    "Time Split": "GC-15",
+    "Position": "SF"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Top 5",
+    "Statistic": "PTS",
+    "Value": 24.0,
+    "Time Split": "GC-15",
+    "Position": "SF"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Top 5",
+    "Statistic": "REB",
+    "Value": 8.84,
+    "Time Split": "GC-15",
+    "Position": "SF"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Bottom 1",
+    "Statistic": "REB",
+    "Value": 5.48,
+    "Time Split": "GC-15",
+    "Position": "SF"
+  },
+  {
+    "Team": "Atlanta Hawks",
+    "Rank": "Bottom 4",
+    "Statistic": "REB",
+    "Value": 6.6,
+    "Time Split": "GC-15",
+    "Position": "SF"
+  },
+  {
+    "Team": "Atlanta Hawks",
+    "Rank": "Top 1",
+    "Statistic": "AST",
+    "Value": 4.76,
+    "Time Split": "GC-15",
+    "Position": "SF"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Top 2",
+    "Statistic": "3PM",
+    "Value": 3.76,
+    "Time Split": "GC-15",
+    "Position": "SF"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 3",
+    "Statistic": "3PM",
+    "Value": 3.79,
+    "Time Split": "GC-15",
+    "Position": "SF"
+  },
+  {
+    "Team": "Denver Nuggets",
+    "Rank": "Bottom 1",
+    "Statistic": "3PM",
+    "Value": 1.53,
+    "Time Split": "GC-15",
+    "Position": "SF"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Top 2",
+    "Statistic": "STL",
+    "Value": 1.76,
+    "Time Split": "GC-15",
+    "Position": "SF"
+  },
+  {
+    "Team": "Memphis Grizzlies",
+    "Rank": "Top 3",
+    "Statistic": "STL",
+    "Value": 1.81,
+    "Time Split": "GC-15",
+    "Position": "SF"
+  },
+  {
+    "Team": "Philadelphia 76ers",
+    "Rank": "Top 2",
+    "Statistic": "BLK",
     "Value": 1.07,
     "Time Split": "GC-15",
-    "Position": "PF"
+    "Position": "SF"
   },
   {
-    "Team": "Philadelphia 76ers",
-    "Rank": "Bottom 4",
-    "Statistic": "STL",
-    "Value": 1.12,
-    "Time Split": "GC-15",
-    "Position": "PF"
-  },
-  {
-    "Team": "Atlanta Hawks",
+    "Team": "Detroit Pistons",
     "Rank": "Top 3",
     "Statistic": "BLK",
-    "Value": 1.63,
+    "Value": 1.17,
     "Time Split": "GC-15",
-    "Position": "PF"
+    "Position": "SF"
   },
   {
-    "Team": "Golden State Warriors",
-    "Rank": "Top 4",
-    "Statistic": "BLK",
-    "Value": 1.73,
-    "Time Split": "GC-15",
-    "Position": "PF"
-  },
-  {
-    "Team": "Dallas Mavericks",
-    "Rank": "Bottom 3",
-    "Statistic": "BLK",
-    "Value": 0.72,
-    "Time Split": "GC-15",
-    "Position": "PF"
-  },
-  {
-    "Team": "Sacramento Kings",
-    "Rank": "Top 3",
-    "Statistic": "TO",
-    "Value": 3.12,
-    "Time Split": "GC-15",
-    "Position": "PF"
-  },
-  {
-    "Team": "Golden State Warriors",
-    "Rank": "Top 4",
-    "Statistic": "TO",
-    "Value": 3.69,
-    "Time Split": "GC-15",
-    "Position": "PF"
-  },
-  {
-    "Team": "Philadelphia 76ers",
-    "Rank": "Top 5",
-    "Statistic": "TO",
-    "Value": 3.87,
-    "Time Split": "GC-15",
-    "Position": "PF"
-  },
-  {
-    "Team": "New York Knicks",
-    "Rank": "Bottom 4",
-    "Statistic": "TO",
-    "Value": 1.8,
-    "Time Split": "GC-15",
-    "Position": "PF"
-  },
-  {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 4",
-    "Statistic": "FG%",
-    "Value": 45.59,
-    "Time Split": "GC-15",
-    "Position": "PF"
-  },
-  {
-    "Team": "Philadelphia 76ers",
-    "Rank": "Top 2",
-    "Statistic": "FT%",
-    "Value": 80.89,
-    "Time Split": "GC-15",
-    "Position": "PF"
-  },
-  {
-    "Team": "Houston Rockets",
-    "Rank": "Top 5",
-    "Statistic": "FT%",
-    "Value": 85.09,
-    "Time Split": "GC-15",
-    "Position": "PF"
-  },
-  {
-    "Team": "New York Knicks",
-    "Rank": "Bottom 4",
-    "Statistic": "FT%",
-    "Value": 67.65,
-    "Time Split": "GC-15",
-    "Position": "PF"
-  },
-  {
-    "Team": "Houston Rockets",
-    "Rank": "Top 2",
-    "Statistic": "PTS",
-    "Value": 27.77,
-    "Time Split": "GC-15",
-    "Position": "PG"
-  },
-  {
-    "Team": "Atlanta Hawks",
-    "Rank": "Top 5",
-    "Statistic": "PTS",
-    "Value": 28.59,
-    "Time Split": "GC-15",
-    "Position": "PG"
-  },
-  {
-    "Team": "Sacramento Kings",
-    "Rank": "Bottom 3",
-    "Statistic": "PTS",
-    "Value": 19.43,
-    "Time Split": "GC-15",
-    "Position": "PG"
-  },
-  {
-    "Team": "Philadelphia 76ers",
-    "Rank": "Bottom 4",
-    "Statistic": "PTS",
-    "Value": 19.82,
-    "Time Split": "GC-15",
-    "Position": "PG"
-  },
-  {
-    "Team": "Houston Rockets",
-    "Rank": "Top 4",
-    "Statistic": "REB",
-    "Value": 7.14,
-    "Time Split": "GC-15",
-    "Position": "PG"
-  },
-  {
-    "Team": "Denver Nuggets",
-    "Rank": "Top 5",
-    "Statistic": "REB",
-    "Value": 7.2,
-    "Time Split": "GC-15",
-    "Position": "PG"
-  },
-  {
-    "Team": "New York Knicks",
-    "Rank": "Bottom 1",
-    "Statistic": "AST",
-    "Value": 6.64,
-    "Time Split": "GC-15",
-    "Position": "PG"
-  },
-  {
-    "Team": "Houston Rockets",
-    "Rank": "Bottom 3",
-    "Statistic": "AST",
-    "Value": 7.01,
-    "Time Split": "GC-15",
-    "Position": "PG"
-  },
-  {
-    "Team": "Sacramento Kings",
-    "Rank": "Bottom 5",
-    "Statistic": "AST",
-    "Value": 7.3,
-    "Time Split": "GC-15",
-    "Position": "PG"
-  },
-  {
-    "Team": "Atlanta Hawks",
-    "Rank": "Top 1",
-    "Statistic": "3PM",
-    "Value": 4.04,
-    "Time Split": "GC-15",
-    "Position": "PG"
-  },
-  {
-    "Team": "Philadelphia 76ers",
-    "Rank": "Bottom 4",
-    "Statistic": "3PM",
-    "Value": 2.35,
-    "Time Split": "GC-15",
-    "Position": "PG"
-  },
-  {
-    "Team": "Denver Nuggets",
-    "Rank": "Bottom 5",
-    "Statistic": "3PM",
-    "Value": 2.35,
-    "Time Split": "GC-15",
-    "Position": "PG"
-  },
-  {
-    "Team": "Golden State Warriors",
-    "Rank": "Top 5",
-    "Statistic": "STL",
-    "Value": 2.41,
-    "Time Split": "GC-15",
-    "Position": "PG"
-  },
-  {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 1",
-    "Statistic": "STL",
-    "Value": 0.83,
-    "Time Split": "GC-15",
-    "Position": "PG"
-  },
-  {
-    "Team": "New York Knicks",
+    "Team": "Cleveland Cavaliers",
     "Rank": "Bottom 2",
-    "Statistic": "STL",
-    "Value": 1.29,
-    "Time Split": "GC-15",
-    "Position": "PG"
-  },
-  {
-    "Team": "Denver Nuggets",
-    "Rank": "Bottom 5",
-    "Statistic": "STL",
-    "Value": 1.34,
-    "Time Split": "GC-15",
-    "Position": "PG"
-  },
-  {
-    "Team": "Sacramento Kings",
-    "Rank": "Bottom 3",
     "Statistic": "BLK",
-    "Value": 0.3,
+    "Value": 0.31,
     "Time Split": "GC-15",
-    "Position": "PG"
-  },
-  {
-    "Team": "Denver Nuggets",
-    "Rank": "Bottom 5",
-    "Statistic": "BLK",
-    "Value": 0.33,
-    "Time Split": "GC-15",
-    "Position": "PG"
-  },
-  {
-    "Team": "Sacramento Kings",
-    "Rank": "Top 1",
-    "Statistic": "TO",
-    "Value": 3.56,
-    "Time Split": "GC-15",
-    "Position": "PG"
-  },
-  {
-    "Team": "Houston Rockets",
-    "Rank": "Top 2",
-    "Statistic": "TO",
-    "Value": 3.57,
-    "Time Split": "GC-15",
-    "Position": "PG"
-  },
-  {
-    "Team": "Philadelphia 76ers",
-    "Rank": "Bottom 4",
-    "Statistic": "TO",
-    "Value": 2.35,
-    "Time Split": "GC-15",
-    "Position": "PG"
-  },
-  {
-    "Team": "Houston Rockets",
-    "Rank": "Top 4",
-    "Statistic": "FG%",
-    "Value": 48.3,
-    "Time Split": "GC-15",
-    "Position": "PG"
-  },
-  {
-    "Team": "Philadelphia 76ers",
-    "Rank": "Bottom 1",
-    "Statistic": "FG%",
-    "Value": 39.1,
-    "Time Split": "GC-15",
-    "Position": "PG"
-  },
-  {
-    "Team": "Denver Nuggets",
-    "Rank": "Bottom 2",
-    "Statistic": "FG%",
-    "Value": 40.63,
-    "Time Split": "GC-15",
-    "Position": "PG"
-  },
-  {
-    "Team": "Sacramento Kings",
-    "Rank": "Bottom 3",
-    "Statistic": "FG%",
-    "Value": 41.09,
-    "Time Split": "GC-15",
-    "Position": "PG"
-  },
-  {
-    "Team": "Atlanta Hawks",
-    "Rank": "Top 1",
-    "Statistic": "FT%",
-    "Value": 90.69,
-    "Time Split": "GC-15",
-    "Position": "PG"
-  },
-  {
-    "Team": "Miami Heat",
-    "Rank": "Top 2",
-    "Statistic": "FT%",
-    "Value": 90.78,
-    "Time Split": "GC-15",
-    "Position": "PG"
-  },
-  {
-    "Team": "Dallas Mavericks",
-    "Rank": "Top 3",
-    "Statistic": "FT%",
-    "Value": 92.27,
-    "Time Split": "GC-15",
-    "Position": "PG"
-  },
-  {
-    "Team": "Golden State Warriors",
-    "Rank": "Bottom 2",
-    "Statistic": "FT%",
-    "Value": 75.0,
-    "Time Split": "GC-15",
-    "Position": "PG"
-  },
-  {
-    "Team": "Houston Rockets",
-    "Rank": "Bottom 4",
-    "Statistic": "FT%",
-    "Value": 78.55,
-    "Time Split": "GC-15",
-    "Position": "PG"
+    "Position": "SF"
   },
   {
     "Team": "Philadelphia 76ers",
     "Rank": "Top 3",
-    "Statistic": "PTS",
-    "Value": 23.27,
+    "Statistic": "TO",
+    "Value": 2.99,
     "Time Split": "GC-15",
     "Position": "SF"
   },
   {
-    "Team": "Houston Rockets",
-    "Rank": "Bottom 3",
-    "Statistic": "PTS",
-    "Value": 17.1,
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Top 5",
+    "Statistic": "FG%",
+    "Value": 52.7,
+    "Time Split": "GC-15",
+    "Position": "SF"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 5",
+    "Statistic": "FT%",
+    "Value": 92.59,
     "Time Split": "GC-15",
     "Position": "SF"
   },
   {
     "Team": "Denver Nuggets",
-    "Rank": "Bottom 4",
-    "Statistic": "PTS",
-    "Value": 17.98,
+    "Rank": "Bottom 1",
+    "Statistic": "FT%",
+    "Value": 66.57,
     "Time Split": "GC-15",
     "Position": "SF"
   },
   {
-    "Team": "Sacramento Kings",
-    "Rank": "Bottom 3",
-    "Statistic": "REB",
-    "Value": 6.41,
-    "Time Split": "GC-15",
-    "Position": "SF"
-  },
-  {
-    "Team": "Atlanta Hawks",
-    "Rank": "Bottom 5",
-    "Statistic": "REB",
-    "Value": 6.48,
-    "Time Split": "GC-15",
-    "Position": "SF"
-  },
-  {
-    "Team": "Atlanta Hawks",
-    "Rank": "Top 1",
-    "Statistic": "AST",
-    "Value": 5.08,
-    "Time Split": "GC-15",
-    "Position": "SF"
-  },
-  {
-    "Team": "New York Knicks",
-    "Rank": "Bottom 3",
-    "Statistic": "AST",
-    "Value": 2.75,
-    "Time Split": "GC-15",
-    "Position": "SF"
-  },
-  {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 4",
-    "Statistic": "AST",
-    "Value": 2.82,
-    "Time Split": "GC-15",
-    "Position": "SF"
-  },
-  {
-    "Team": "Miami Heat",
+    "Team": "Detroit Pistons",
     "Rank": "Top 4",
-    "Statistic": "3PM",
-    "Value": 4.03,
-    "Time Split": "GC-15",
-    "Position": "SF"
-  },
-  {
-    "Team": "Denver Nuggets",
-    "Rank": "Bottom 1",
-    "Statistic": "3PM",
-    "Value": 1.62,
-    "Time Split": "GC-15",
-    "Position": "SF"
-  },
-  {
-    "Team": "Houston Rockets",
-    "Rank": "Bottom 2",
-    "Statistic": "3PM",
-    "Value": 1.62,
-    "Time Split": "GC-15",
-    "Position": "SF"
-  },
-  {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 2",
-    "Statistic": "STL",
-    "Value": 0.8,
-    "Time Split": "GC-15",
-    "Position": "SF"
-  },
-  {
-    "Team": "Golden State Warriors",
-    "Rank": "Bottom 4",
-    "Statistic": "STL",
-    "Value": 1.11,
-    "Time Split": "GC-15",
-    "Position": "SF"
-  },
-  {
-    "Team": "Miami Heat",
-    "Rank": "Top 1",
-    "Statistic": "BLK",
-    "Value": 1.07,
-    "Time Split": "GC-15",
-    "Position": "SF"
-  },
-  {
-    "Team": "Sacramento Kings",
-    "Rank": "Bottom 1",
-    "Statistic": "BLK",
-    "Value": 0.29,
-    "Time Split": "GC-15",
-    "Position": "SF"
-  },
-  {
-    "Team": "Sacramento Kings",
-    "Rank": "Top 1",
-    "Statistic": "TO",
-    "Value": 2.68,
-    "Time Split": "GC-15",
-    "Position": "SF"
-  },
-  {
-    "Team": "Philadelphia 76ers",
-    "Rank": "Top 5",
-    "Statistic": "TO",
-    "Value": 3.12,
-    "Time Split": "GC-15",
-    "Position": "SF"
-  },
-  {
-    "Team": "Golden State Warriors",
-    "Rank": "Bottom 5",
-    "Statistic": "TO",
-    "Value": 1.48,
-    "Time Split": "GC-15",
-    "Position": "SF"
-  },
-  {
-    "Team": "Atlanta Hawks",
-    "Rank": "Top 1",
-    "Statistic": "FG%",
-    "Value": 49.28,
-    "Time Split": "GC-15",
-    "Position": "SF"
-  },
-  {
-    "Team": "Sacramento Kings",
-    "Rank": "Top 2",
-    "Statistic": "FG%",
-    "Value": 49.71,
-    "Time Split": "GC-15",
-    "Position": "SF"
-  },
-  {
-    "Team": "Houston Rockets",
-    "Rank": "Bottom 2",
-    "Statistic": "FG%",
-    "Value": 37.88,
-    "Time Split": "GC-15",
-    "Position": "SF"
-  },
-  {
-    "Team": "Dallas Mavericks",
-    "Rank": "Bottom 5",
-    "Statistic": "FG%",
-    "Value": 42.31,
-    "Time Split": "GC-15",
-    "Position": "SF"
-  },
-  {
-    "Team": "Golden State Warriors",
-    "Rank": "Top 1",
-    "Statistic": "FT%",
-    "Value": 85.17,
-    "Time Split": "GC-15",
-    "Position": "SF"
-  },
-  {
-    "Team": "Atlanta Hawks",
-    "Rank": "Top 2",
-    "Statistic": "FT%",
-    "Value": 85.83,
-    "Time Split": "GC-15",
-    "Position": "SF"
-  },
-  {
-    "Team": "Denver Nuggets",
-    "Rank": "Bottom 1",
-    "Statistic": "FT%",
-    "Value": 66.47,
-    "Time Split": "GC-15",
-    "Position": "SF"
-  },
-  {
-    "Team": "Sacramento Kings",
-    "Rank": "Top 5",
     "Statistic": "PTS",
-    "Value": 25.51,
+    "Value": 25.01,
     "Time Split": "GC-15",
     "Position": "SG"
   },
   {
     "Team": "Philadelphia 76ers",
-    "Rank": "Bottom 1",
-    "Statistic": "PTS",
-    "Value": 17.4,
-    "Time Split": "GC-15",
-    "Position": "SG"
-  },
-  {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 2",
-    "Statistic": "PTS",
-    "Value": 17.43,
-    "Time Split": "GC-15",
-    "Position": "SG"
-  },
-  {
-    "Team": "New York Knicks",
     "Rank": "Bottom 3",
     "Statistic": "PTS",
-    "Value": 17.52,
+    "Value": 17.49,
     "Time Split": "GC-15",
     "Position": "SG"
   },
@@ -2099,21 +1979,13 @@
     "Team": "Atlanta Hawks",
     "Rank": "Bottom 4",
     "Statistic": "PTS",
-    "Value": 17.62,
+    "Value": 18.54,
     "Time Split": "GC-15",
     "Position": "SG"
   },
   {
-    "Team": "Dallas Mavericks",
-    "Rank": "Top 2",
-    "Statistic": "REB",
-    "Value": 7.16,
-    "Time Split": "GC-15",
-    "Position": "SG"
-  },
-  {
-    "Team": "Golden State Warriors",
-    "Rank": "Bottom 2",
+    "Team": "Brooklyn Nets",
+    "Rank": "Bottom 1",
     "Statistic": "REB",
     "Value": 4.79,
     "Time Split": "GC-15",
@@ -2121,305 +1993,249 @@
   },
   {
     "Team": "Philadelphia 76ers",
-    "Rank": "Bottom 3",
-    "Statistic": "REB",
-    "Value": 5.15,
-    "Time Split": "GC-15",
-    "Position": "SG"
-  },
-  {
-    "Team": "Denver Nuggets",
-    "Rank": "Bottom 5",
-    "Statistic": "REB",
-    "Value": 5.24,
-    "Time Split": "GC-15",
-    "Position": "SG"
-  },
-  {
-    "Team": "Golden State Warriors",
-    "Rank": "Top 1",
-    "Statistic": "AST",
-    "Value": 6.1,
-    "Time Split": "GC-15",
-    "Position": "SG"
-  },
-  {
-    "Team": "Philadelphia 76ers",
-    "Rank": "Bottom 4",
-    "Statistic": "AST",
-    "Value": 4.35,
-    "Time Split": "GC-15",
-    "Position": "SG"
-  },
-  {
-    "Team": "Sacramento Kings",
-    "Rank": "Top 2",
-    "Statistic": "3PM",
-    "Value": 3.94,
-    "Time Split": "GC-15",
-    "Position": "SG"
-  },
-  {
-    "Team": "Atlanta Hawks",
-    "Rank": "Bottom 3",
-    "Statistic": "3PM",
-    "Value": 2.36,
-    "Time Split": "GC-15",
-    "Position": "SG"
-  },
-  {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 4",
-    "Statistic": "3PM",
-    "Value": 2.52,
-    "Time Split": "GC-15",
-    "Position": "SG"
-  },
-  {
-    "Team": "Philadelphia 76ers",
-    "Rank": "Bottom 5",
-    "Statistic": "3PM",
-    "Value": 2.61,
-    "Time Split": "GC-15",
-    "Position": "SG"
-  },
-  {
-    "Team": "Denver Nuggets",
-    "Rank": "Top 2",
-    "Statistic": "STL",
-    "Value": 1.86,
-    "Time Split": "GC-15",
-    "Position": "SG"
-  },
-  {
-    "Team": "Golden State Warriors",
-    "Rank": "Bottom 1",
-    "Statistic": "STL",
-    "Value": 0.65,
-    "Time Split": "GC-15",
-    "Position": "SG"
-  },
-  {
-    "Team": "Philadelphia 76ers",
-    "Rank": "Bottom 3",
-    "Statistic": "STL",
-    "Value": 0.84,
-    "Time Split": "GC-15",
-    "Position": "SG"
-  },
-  {
-    "Team": "Houston Rockets",
-    "Rank": "Bottom 4",
-    "Statistic": "STL",
-    "Value": 0.99,
-    "Time Split": "GC-15",
-    "Position": "SG"
-  },
-  {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 5",
-    "Statistic": "STL",
-    "Value": 1.06,
-    "Time Split": "GC-15",
-    "Position": "SG"
-  },
-  {
-    "Team": "Sacramento Kings",
-    "Rank": "Bottom 1",
-    "Statistic": "BLK",
-    "Value": 0.17,
-    "Time Split": "GC-15",
-    "Position": "SG"
-  },
-  {
-    "Team": "Denver Nuggets",
-    "Rank": "Bottom 4",
-    "Statistic": "BLK",
-    "Value": 0.42,
-    "Time Split": "GC-15",
-    "Position": "SG"
-  },
-  {
-    "Team": "Dallas Mavericks",
-    "Rank": "Top 4",
-    "Statistic": "TO",
-    "Value": 2.97,
-    "Time Split": "GC-15",
-    "Position": "SG"
-  },
-  {
-    "Team": "Atlanta Hawks",
-    "Rank": "Bottom 3",
-    "Statistic": "TO",
-    "Value": 1.81,
-    "Time Split": "GC-15",
-    "Position": "SG"
-  },
-  {
-    "Team": "Philadelphia 76ers",
-    "Rank": "Bottom 4",
-    "Statistic": "TO",
-    "Value": 1.82,
-    "Time Split": "GC-15",
-    "Position": "SG"
-  },
-  {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 1",
-    "Statistic": "FG%",
-    "Value": 39.17,
-    "Time Split": "GC-15",
-    "Position": "SG"
-  },
-  {
-    "Team": "Golden State Warriors",
-    "Rank": "Bottom 3",
-    "Statistic": "FG%",
-    "Value": 39.94,
-    "Time Split": "GC-15",
-    "Position": "SG"
-  },
-  {
-    "Team": "New York Knicks",
-    "Rank": "Bottom 4",
-    "Statistic": "FG%",
-    "Value": 40.45,
-    "Time Split": "GC-15",
-    "Position": "SG"
-  },
-  {
-    "Team": "New York Knicks",
-    "Rank": "Top 3",
-    "Statistic": "FT%",
-    "Value": 87.36,
-    "Time Split": "GC-15",
-    "Position": "SG"
-  },
-  {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 3",
-    "Statistic": "FT%",
-    "Value": 72.73,
-    "Time Split": "GC-15",
-    "Position": "SG"
-  },
-  {
-    "Team": "Atlanta Hawks",
-    "Rank": "Bottom 4",
-    "Statistic": "FT%",
-    "Value": 73.48,
-    "Time Split": "GC-15",
-    "Position": "SG"
-  },
-  {
-    "Team": "Denver Nuggets",
-    "Rank": "Bottom 5",
-    "Statistic": "FT%",
-    "Value": 74.72,
-    "Time Split": "GC-15",
-    "Position": "SG"
-  },
-  {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 1",
-    "Statistic": "PTS",
-    "Value": 20.48,
-    "Time Split": "GC-30",
-    "Position": "ALL"
-  },
-  {
-    "Team": "New York Knicks",
-    "Rank": "Bottom 5",
-    "Statistic": "PTS",
-    "Value": 21.18,
-    "Time Split": "GC-30",
-    "Position": "ALL"
-  },
-  {
-    "Team": "New York Knicks",
     "Rank": "Bottom 2",
     "Statistic": "REB",
-    "Value": 7.94,
-    "Time Split": "GC-30",
-    "Position": "ALL"
+    "Value": 5.01,
+    "Time Split": "GC-15",
+    "Position": "SG"
   },
   {
-    "Team": "Miami Heat",
+    "Team": "Los Angeles Lakers",
     "Rank": "Bottom 5",
     "Statistic": "REB",
-    "Value": 8.27,
+    "Value": 5.2,
+    "Time Split": "GC-15",
+    "Position": "SG"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 1",
+    "Statistic": "AST",
+    "Value": 6.38,
+    "Time Split": "GC-15",
+    "Position": "SG"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Top 5",
+    "Statistic": "AST",
+    "Value": 7.54,
+    "Time Split": "GC-15",
+    "Position": "SG"
+  },
+  {
+    "Team": "Philadelphia 76ers",
+    "Rank": "Bottom 3",
+    "Statistic": "AST",
+    "Value": 4.38,
+    "Time Split": "GC-15",
+    "Position": "SG"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Top 5",
+    "Statistic": "3PM",
+    "Value": 4.39,
+    "Time Split": "GC-15",
+    "Position": "SG"
+  },
+  {
+    "Team": "Brooklyn Nets",
+    "Rank": "Bottom 1",
+    "Statistic": "3PM",
+    "Value": 2.06,
+    "Time Split": "GC-15",
+    "Position": "SG"
+  },
+  {
+    "Team": "Denver Nuggets",
+    "Rank": "Bottom 5",
+    "Statistic": "3PM",
+    "Value": 2.48,
+    "Time Split": "GC-15",
+    "Position": "SG"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Top 3",
+    "Statistic": "STL",
+    "Value": 1.87,
+    "Time Split": "GC-15",
+    "Position": "SG"
+  },
+  {
+    "Team": "Philadelphia 76ers",
+    "Rank": "Bottom 2",
+    "Statistic": "STL",
+    "Value": 0.93,
+    "Time Split": "GC-15",
+    "Position": "SG"
+  },
+  {
+    "Team": "Memphis Grizzlies",
+    "Rank": "Top 5",
+    "Statistic": "BLK",
+    "Value": 1.05,
+    "Time Split": "GC-15",
+    "Position": "SG"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Top 1",
+    "Statistic": "TO",
+    "Value": 2.69,
+    "Time Split": "GC-15",
+    "Position": "SG"
+  },
+  {
+    "Team": "Philadelphia 76ers",
+    "Rank": "Bottom 4",
+    "Statistic": "TO",
+    "Value": 1.74,
+    "Time Split": "GC-15",
+    "Position": "SG"
+  },
+  {
+    "Team": "Atlanta Hawks",
+    "Rank": "Bottom 5",
+    "Statistic": "TO",
+    "Value": 1.87,
+    "Time Split": "GC-15",
+    "Position": "SG"
+  },
+  {
+    "Team": "Memphis Grizzlies",
+    "Rank": "Top 2",
+    "Statistic": "FG%",
+    "Value": 46.58,
+    "Time Split": "GC-15",
+    "Position": "SG"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 4",
+    "Statistic": "FG%",
+    "Value": 48.64,
+    "Time Split": "GC-15",
+    "Position": "SG"
+  },
+  {
+    "Team": "Brooklyn Nets",
+    "Rank": "Top 2",
+    "Statistic": "FT%",
+    "Value": 85.81,
+    "Time Split": "GC-15",
+    "Position": "SG"
+  },
+  {
+    "Team": "Memphis Grizzlies",
+    "Rank": "Bottom 3",
+    "Statistic": "FT%",
+    "Value": 74.82,
+    "Time Split": "GC-15",
+    "Position": "SG"
+  },
+  {
+    "Team": "Denver Nuggets",
+    "Rank": "Bottom 4",
+    "Statistic": "FT%",
+    "Value": 75.06,
+    "Time Split": "GC-15",
+    "Position": "SG"
+  },
+  {
+    "Team": "Atlanta Hawks",
+    "Rank": "Bottom 5",
+    "Statistic": "FT%",
+    "Value": 75.11,
+    "Time Split": "GC-15",
+    "Position": "SG"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 2",
+    "Statistic": "PTS",
+    "Value": 23.99,
     "Time Split": "GC-30",
     "Position": "ALL"
   },
   {
-    "Team": "Houston Rockets",
-    "Rank": "Bottom 3",
+    "Team": "Memphis Grizzlies",
+    "Rank": "Top 3",
+    "Statistic": "REB",
+    "Value": 9.2,
+    "Time Split": "GC-30",
+    "Position": "ALL"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 4",
     "Statistic": "AST",
-    "Value": 4.84,
+    "Value": 6.03,
+    "Time Split": "GC-30",
+    "Position": "ALL"
+  },
+  {
+    "Team": "Atlanta Hawks",
+    "Rank": "Top 1",
+    "Statistic": "3PM",
+    "Value": 2.78,
     "Time Split": "GC-30",
     "Position": "ALL"
   },
   {
     "Team": "Denver Nuggets",
-    "Rank": "Bottom 3",
+    "Rank": "Bottom 2",
     "Statistic": "3PM",
     "Value": 2.16,
     "Time Split": "GC-30",
     "Position": "ALL"
   },
   {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 1",
+    "Team": "Detroit Pistons",
+    "Rank": "Top 5",
     "Statistic": "STL",
-    "Value": 1.04,
+    "Value": 1.92,
     "Time Split": "GC-30",
     "Position": "ALL"
   },
   {
     "Team": "Philadelphia 76ers",
-    "Rank": "Bottom 3",
+    "Rank": "Bottom 5",
     "Statistic": "STL",
-    "Value": 1.23,
-    "Time Split": "GC-30",
-    "Position": "ALL"
-  },
-  {
-    "Team": "Philadelphia 76ers",
-    "Rank": "Top 2",
-    "Statistic": "BLK",
     "Value": 1.26,
     "Time Split": "GC-30",
     "Position": "ALL"
   },
   {
-    "Team": "Houston Rockets",
-    "Rank": "Top 5",
+    "Team": "Detroit Pistons",
+    "Rank": "Top 3",
     "Statistic": "BLK",
-    "Value": 1.37,
+    "Value": 1.29,
     "Time Split": "GC-30",
     "Position": "ALL"
   },
   {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 5",
-    "Statistic": "BLK",
-    "Value": 0.8,
-    "Time Split": "GC-30",
-    "Position": "ALL"
-  },
-  {
-    "Team": "Houston Rockets",
-    "Rank": "Top 1",
-    "Statistic": "TO",
-    "Value": 2.67,
-    "Time Split": "GC-30",
-    "Position": "ALL"
-  },
-  {
-    "Team": "Dallas Mavericks",
+    "Team": "Cleveland Cavaliers",
     "Rank": "Bottom 4",
-    "Statistic": "FG%",
-    "Value": 45.36,
+    "Statistic": "BLK",
+    "Value": 0.77,
+    "Time Split": "GC-30",
+    "Position": "ALL"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Bottom 4",
+    "Statistic": "TO",
+    "Value": 2.28,
+    "Time Split": "GC-30",
+    "Position": "ALL"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Bottom 5",
+    "Statistic": "TO",
+    "Value": 2.31,
     "Time Split": "GC-30",
     "Position": "ALL"
   },
@@ -2427,343 +2243,263 @@
     "Team": "Denver Nuggets",
     "Rank": "Bottom 5",
     "Statistic": "FG%",
-    "Value": 45.55,
+    "Value": 45.14,
     "Time Split": "GC-30",
     "Position": "ALL"
   },
   {
-    "Team": "Sacramento Kings",
-    "Rank": "Top 1",
+    "Team": "Atlanta Hawks",
+    "Rank": "Top 2",
     "Statistic": "FT%",
-    "Value": 80.35,
+    "Value": 80.74,
     "Time Split": "GC-30",
     "Position": "ALL"
   },
   {
     "Team": "Philadelphia 76ers",
-    "Rank": "Top 5",
+    "Rank": "Top 3",
     "Statistic": "FT%",
-    "Value": 81.95,
+    "Value": 81.97,
     "Time Split": "GC-30",
     "Position": "ALL"
   },
   {
-    "Team": "Denver Nuggets",
+    "Team": "Memphis Grizzlies",
     "Rank": "Bottom 2",
     "Statistic": "FT%",
-    "Value": 75.18,
+    "Value": 74.75,
     "Time Split": "GC-30",
     "Position": "ALL"
-  },
-  {
-    "Team": "Houston Rockets",
-    "Rank": "Bottom 4",
-    "Statistic": "FT%",
-    "Value": 75.51,
-    "Time Split": "GC-30",
-    "Position": "ALL"
-  },
-  {
-    "Team": "Dallas Mavericks",
-    "Rank": "Top 2",
-    "Statistic": "PTS",
-    "Value": 25.23,
-    "Time Split": "GC-30",
-    "Position": "C"
-  },
-  {
-    "Team": "New York Knicks",
-    "Rank": "Bottom 2",
-    "Statistic": "PTS",
-    "Value": 19.03,
-    "Time Split": "GC-30",
-    "Position": "C"
-  },
-  {
-    "Team": "Atlanta Hawks",
-    "Rank": "Bottom 4",
-    "Statistic": "PTS",
-    "Value": 20.14,
-    "Time Split": "GC-30",
-    "Position": "C"
-  },
-  {
-    "Team": "Sacramento Kings",
-    "Rank": "Bottom 5",
-    "Statistic": "PTS",
-    "Value": 20.39,
-    "Time Split": "GC-30",
-    "Position": "C"
-  },
-  {
-    "Team": "New York Knicks",
-    "Rank": "Bottom 2",
-    "Statistic": "REB",
-    "Value": 13.1,
-    "Time Split": "GC-30",
-    "Position": "C"
   },
   {
     "Team": "Denver Nuggets",
     "Rank": "Bottom 3",
-    "Statistic": "REB",
-    "Value": 13.76,
+    "Statistic": "FT%",
+    "Value": 75.47,
+    "Time Split": "GC-30",
+    "Position": "ALL"
+  },
+  {
+    "Team": "Atlanta Hawks",
+    "Rank": "Bottom 3",
+    "Statistic": "PTS",
+    "Value": 20.12,
     "Time Split": "GC-30",
     "Position": "C"
   },
   {
-    "Team": "Sacramento Kings",
+    "Team": "Cleveland Cavaliers",
     "Rank": "Bottom 4",
-    "Statistic": "REB",
-    "Value": 13.77,
+    "Statistic": "PTS",
+    "Value": 20.31,
     "Time Split": "GC-30",
     "Position": "C"
   },
   {
-    "Team": "Sacramento Kings",
+    "Team": "Detroit Pistons",
+    "Rank": "Top 1",
+    "Statistic": "REB",
+    "Value": 15.86,
+    "Time Split": "GC-30",
+    "Position": "C"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Top 3",
+    "Statistic": "REB",
+    "Value": 16.96,
+    "Time Split": "GC-30",
+    "Position": "C"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Bottom 5",
+    "Statistic": "REB",
+    "Value": 13.78,
+    "Time Split": "GC-30",
+    "Position": "C"
+  },
+  {
+    "Team": "Los Angeles Lakers",
     "Rank": "Top 4",
     "Statistic": "AST",
-    "Value": 5.18,
-    "Time Split": "GC-30",
-    "Position": "C"
-  },
-  {
-    "Team": "Houston Rockets",
-    "Rank": "Bottom 2",
-    "Statistic": "AST",
-    "Value": 3.39,
+    "Value": 5.15,
     "Time Split": "GC-30",
     "Position": "C"
   },
   {
     "Team": "Atlanta Hawks",
-    "Rank": "Bottom 3",
+    "Rank": "Bottom 2",
     "Statistic": "AST",
-    "Value": 3.41,
+    "Value": 3.4,
     "Time Split": "GC-30",
     "Position": "C"
   },
   {
-    "Team": "Dallas Mavericks",
-    "Rank": "Top 3",
-    "Statistic": "3PM",
-    "Value": 1.53,
-    "Time Split": "GC-30",
-    "Position": "C"
-  },
-  {
-    "Team": "Houston Rockets",
+    "Team": "Los Angeles Lakers",
     "Rank": "Top 5",
     "Statistic": "3PM",
-    "Value": 1.65,
+    "Value": 1.77,
     "Time Split": "GC-30",
     "Position": "C"
   },
   {
-    "Team": "New York Knicks",
-    "Rank": "Bottom 4",
+    "Team": "Detroit Pistons",
+    "Rank": "Bottom 3",
     "Statistic": "3PM",
     "Value": 0.63,
     "Time Split": "GC-30",
     "Position": "C"
   },
   {
-    "Team": "Sacramento Kings",
-    "Rank": "Bottom 5",
-    "Statistic": "3PM",
-    "Value": 0.66,
-    "Time Split": "GC-30",
-    "Position": "C"
-  },
-  {
-    "Team": "Golden State Warriors",
-    "Rank": "Top 3",
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Top 2",
     "Statistic": "STL",
-    "Value": 1.75,
+    "Value": 1.71,
     "Time Split": "GC-30",
     "Position": "C"
   },
   {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 2",
-    "Statistic": "STL",
-    "Value": 0.77,
-    "Time Split": "GC-30",
-    "Position": "C"
-  },
-  {
-    "Team": "New York Knicks",
+    "Team": "Philadelphia 76ers",
     "Rank": "Bottom 3",
     "Statistic": "STL",
-    "Value": 0.82,
+    "Value": 0.9,
     "Time Split": "GC-30",
     "Position": "C"
   },
   {
     "Team": "Philadelphia 76ers",
+    "Rank": "Top 1",
+    "Statistic": "BLK",
+    "Value": 2.68,
+    "Time Split": "GC-30",
+    "Position": "C"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Top 2",
+    "Statistic": "BLK",
+    "Value": 2.87,
+    "Time Split": "GC-30",
+    "Position": "C"
+  },
+  {
+    "Team": "Brooklyn Nets",
+    "Rank": "Top 4",
+    "Statistic": "BLK",
+    "Value": 2.94,
+    "Time Split": "GC-30",
+    "Position": "C"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
     "Rank": "Bottom 4",
-    "Statistic": "STL",
-    "Value": 0.91,
+    "Statistic": "TO",
+    "Value": 2.14,
+    "Time Split": "GC-30",
+    "Position": "C"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Top 1",
+    "Statistic": "FG%",
+    "Value": 58.69,
+    "Time Split": "GC-30",
+    "Position": "C"
+  },
+  {
+    "Team": "Philadelphia 76ers",
+    "Rank": "Top 2",
+    "Statistic": "FG%",
+    "Value": 59.19,
+    "Time Split": "GC-30",
+    "Position": "C"
+  },
+  {
+    "Team": "Brooklyn Nets",
+    "Rank": "Top 1",
+    "Statistic": "FT%",
+    "Value": 78.19,
     "Time Split": "GC-30",
     "Position": "C"
   },
   {
     "Team": "Philadelphia 76ers",
     "Rank": "Top 3",
-    "Statistic": "BLK",
-    "Value": 2.78,
+    "Statistic": "FT%",
+    "Value": 83.27,
     "Time Split": "GC-30",
     "Position": "C"
   },
   {
-    "Team": "Houston Rockets",
-    "Rank": "Top 5",
-    "Statistic": "BLK",
-    "Value": 3.31,
-    "Time Split": "GC-30",
-    "Position": "C"
-  },
-  {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 1",
-    "Statistic": "BLK",
-    "Value": 0.98,
-    "Time Split": "GC-30",
-    "Position": "C"
-  },
-  {
-    "Team": "Houston Rockets",
-    "Rank": "Top 5",
-    "Statistic": "TO",
-    "Value": 4.04,
-    "Time Split": "GC-30",
-    "Position": "C"
-  },
-  {
-    "Team": "Sacramento Kings",
+    "Team": "Memphis Grizzlies",
     "Rank": "Bottom 2",
-    "Statistic": "TO",
-    "Value": 2.05,
-    "Time Split": "GC-30",
-    "Position": "C"
-  },
-  {
-    "Team": "Philadelphia 76ers",
-    "Rank": "Top 3",
-    "Statistic": "FG%",
-    "Value": 60.46,
-    "Time Split": "GC-30",
-    "Position": "C"
-  },
-  {
-    "Team": "Sacramento Kings",
-    "Rank": "Bottom 1",
-    "Statistic": "FG%",
-    "Value": 47.0,
-    "Time Split": "GC-30",
-    "Position": "C"
-  },
-  {
-    "Team": "Dallas Mavericks",
-    "Rank": "Bottom 5",
-    "Statistic": "FG%",
-    "Value": 51.62,
-    "Time Split": "GC-30",
-    "Position": "C"
-  },
-  {
-    "Team": "Sacramento Kings",
-    "Rank": "Top 1",
     "Statistic": "FT%",
-    "Value": 78.24,
-    "Time Split": "GC-30",
-    "Position": "C"
-  },
-  {
-    "Team": "Philadelphia 76ers",
-    "Rank": "Top 4",
-    "Statistic": "FT%",
-    "Value": 83.56,
+    "Value": 67.68,
     "Time Split": "GC-30",
     "Position": "C"
   },
   {
     "Team": "Atlanta Hawks",
+    "Rank": "Bottom 3",
+    "Statistic": "FT%",
+    "Value": 68.22,
+    "Time Split": "GC-30",
+    "Position": "C"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Top 2",
+    "Statistic": "PTS",
+    "Value": 25.59,
+    "Time Split": "GC-30",
+    "Position": "PF"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 4",
+    "Statistic": "PTS",
+    "Value": 26.05,
+    "Time Split": "GC-30",
+    "Position": "PF"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 5",
+    "Statistic": "REB",
+    "Value": 12.02,
+    "Time Split": "GC-30",
+    "Position": "PF"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
     "Rank": "Bottom 4",
-    "Statistic": "FT%",
-    "Value": 68.6,
-    "Time Split": "GC-30",
-    "Position": "C"
-  },
-  {
-    "Team": "Golden State Warriors",
-    "Rank": "Top 2",
-    "Statistic": "PTS",
-    "Value": 25.34,
-    "Time Split": "GC-30",
-    "Position": "PF"
-  },
-  {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 2",
-    "Statistic": "PTS",
-    "Value": 19.65,
-    "Time Split": "GC-30",
-    "Position": "PF"
-  },
-  {
-    "Team": "Houston Rockets",
-    "Rank": "Top 2",
-    "Statistic": "REB",
-    "Value": 11.59,
-    "Time Split": "GC-30",
-    "Position": "PF"
-  },
-  {
-    "Team": "Golden State Warriors",
-    "Rank": "Top 4",
-    "Statistic": "REB",
-    "Value": 11.91,
-    "Time Split": "GC-30",
-    "Position": "PF"
-  },
-  {
-    "Team": "Atlanta Hawks",
-    "Rank": "Top 1",
     "Statistic": "AST",
-    "Value": 4.95,
+    "Value": 3.67,
     "Time Split": "GC-30",
     "Position": "PF"
   },
   {
-    "Team": "Philadelphia 76ers",
-    "Rank": "Top 2",
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Top 1",
     "Statistic": "3PM",
     "Value": 2.61,
     "Time Split": "GC-30",
     "Position": "PF"
   },
   {
-    "Team": "New York Knicks",
-    "Rank": "Top 3",
-    "Statistic": "3PM",
-    "Value": 2.63,
-    "Time Split": "GC-30",
-    "Position": "PF"
-  },
-  {
-    "Team": "Golden State Warriors",
-    "Rank": "Top 5",
-    "Statistic": "3PM",
-    "Value": 3.33,
-    "Time Split": "GC-30",
-    "Position": "PF"
-  },
-  {
     "Team": "Atlanta Hawks",
-    "Rank": "Top 1",
+    "Rank": "Top 2",
+    "Statistic": "3PM",
+    "Value": 2.66,
+    "Time Split": "GC-30",
+    "Position": "PF"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Top 5",
     "Statistic": "STL",
-    "Value": 1.67,
+    "Value": 1.82,
     "Time Split": "GC-30",
     "Position": "PF"
   },
@@ -2771,47 +2507,31 @@
     "Team": "Philadelphia 76ers",
     "Rank": "Bottom 2",
     "Statistic": "STL",
-    "Value": 1.02,
+    "Value": 0.99,
     "Time Split": "GC-30",
     "Position": "PF"
   },
   {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 3",
+    "Team": "Brooklyn Nets",
+    "Rank": "Bottom 4",
     "Statistic": "STL",
-    "Value": 1.08,
+    "Value": 1.14,
     "Time Split": "GC-30",
     "Position": "PF"
   },
   {
-    "Team": "Golden State Warriors",
-    "Rank": "Top 2",
+    "Team": "Philadelphia 76ers",
+    "Rank": "Top 1",
     "Statistic": "BLK",
-    "Value": 1.53,
+    "Value": 1.48,
     "Time Split": "GC-30",
     "Position": "PF"
   },
   {
-    "Team": "Houston Rockets",
-    "Rank": "Top 5",
+    "Team": "Los Angeles Lakers",
+    "Rank": "Bottom 3",
     "Statistic": "BLK",
-    "Value": 1.79,
-    "Time Split": "GC-30",
-    "Position": "PF"
-  },
-  {
-    "Team": "Golden State Warriors",
-    "Rank": "Top 3",
-    "Statistic": "TO",
-    "Value": 3.07,
-    "Time Split": "GC-30",
-    "Position": "PF"
-  },
-  {
-    "Team": "Sacramento Kings",
-    "Rank": "Top 4",
-    "Statistic": "TO",
-    "Value": 3.17,
+    "Value": 0.89,
     "Time Split": "GC-30",
     "Position": "PF"
   },
@@ -2819,167 +2539,159 @@
     "Team": "Philadelphia 76ers",
     "Rank": "Top 5",
     "Statistic": "TO",
-    "Value": 3.19,
+    "Value": 3.28,
     "Time Split": "GC-30",
     "Position": "PF"
   },
   {
-    "Team": "New York Knicks",
-    "Rank": "Top 5",
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Bottom 4",
     "Statistic": "FG%",
-    "Value": 53.95,
+    "Value": 46.33,
     "Time Split": "GC-30",
     "Position": "PF"
   },
   {
-    "Team": "Dallas Mavericks",
-    "Rank": "Bottom 3",
-    "Statistic": "FG%",
-    "Value": 46.15,
-    "Time Split": "GC-30",
-    "Position": "PF"
-  },
-  {
-    "Team": "Miami Heat",
-    "Rank": "Top 1",
-    "Statistic": "FT%",
-    "Value": 78.06,
-    "Time Split": "GC-30",
-    "Position": "PF"
-  },
-  {
-    "Team": "Golden State Warriors",
+    "Team": "Brooklyn Nets",
     "Rank": "Top 2",
     "Statistic": "FT%",
-    "Value": 78.47,
-    "Time Split": "GC-30",
-    "Position": "PF"
-  },
-  {
-    "Team": "Sacramento Kings",
-    "Rank": "Top 4",
-    "Statistic": "FT%",
-    "Value": 80.59,
-    "Time Split": "GC-30",
-    "Position": "PF"
-  },
-  {
-    "Team": "New York Knicks",
-    "Rank": "Bottom 2",
-    "Statistic": "FT%",
-    "Value": 65.86,
+    "Value": 79.02,
     "Time Split": "GC-30",
     "Position": "PF"
   },
   {
     "Team": "Atlanta Hawks",
-    "Rank": "Top 3",
-    "Statistic": "PTS",
-    "Value": 26.17,
+    "Rank": "Top 4",
+    "Statistic": "FT%",
+    "Value": 82.33,
     "Time Split": "GC-30",
-    "Position": "PG"
+    "Position": "PF"
   },
   {
-    "Team": "Houston Rockets",
-    "Rank": "Top 5",
-    "Statistic": "PTS",
-    "Value": 28.22,
-    "Time Split": "GC-30",
-    "Position": "PG"
-  },
-  {
-    "Team": "New York Knicks",
+    "Team": "Los Angeles Lakers",
     "Rank": "Bottom 1",
+    "Statistic": "FT%",
+    "Value": 65.03,
+    "Time Split": "GC-30",
+    "Position": "PF"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 2",
     "Statistic": "PTS",
-    "Value": 20.93,
+    "Value": 25.61,
     "Time Split": "GC-30",
     "Position": "PG"
   },
   {
-    "Team": "Sacramento Kings",
+    "Team": "Atlanta Hawks",
+    "Rank": "Top 3",
+    "Statistic": "PTS",
+    "Value": 26.12,
+    "Time Split": "GC-30",
+    "Position": "PG"
+  },
+  {
+    "Team": "Detroit Pistons",
     "Rank": "Bottom 4",
     "Statistic": "PTS",
-    "Value": 21.13,
-    "Time Split": "GC-30",
-    "Position": "PG"
-  },
-  {
-    "Team": "Houston Rockets",
-    "Rank": "Top 2",
-    "Statistic": "REB",
-    "Value": 6.68,
-    "Time Split": "GC-30",
-    "Position": "PG"
-  },
-  {
-    "Team": "Dallas Mavericks",
-    "Rank": "Top 3",
-    "Statistic": "REB",
-    "Value": 6.68,
-    "Time Split": "GC-30",
-    "Position": "PG"
-  },
-  {
-    "Team": "New York Knicks",
-    "Rank": "Bottom 2",
-    "Statistic": "AST",
-    "Value": 6.57,
-    "Time Split": "GC-30",
-    "Position": "PG"
-  },
-  {
-    "Team": "Houston Rockets",
-    "Rank": "Bottom 3",
-    "Statistic": "AST",
-    "Value": 6.89,
+    "Value": 21.29,
     "Time Split": "GC-30",
     "Position": "PG"
   },
   {
     "Team": "Atlanta Hawks",
-    "Rank": "Top 2",
-    "Statistic": "3PM",
-    "Value": 3.83,
+    "Rank": "Top 3",
+    "Statistic": "REB",
+    "Value": 6.9,
     "Time Split": "GC-30",
     "Position": "PG"
   },
   {
-    "Team": "Sacramento Kings",
-    "Rank": "Bottom 1",
-    "Statistic": "3PM",
-    "Value": 2.41,
+    "Team": "Memphis Grizzlies",
+    "Rank": "Top 5",
+    "Statistic": "REB",
+    "Value": 7.16,
     "Time Split": "GC-30",
     "Position": "PG"
   },
   {
-    "Team": "New York Knicks",
-    "Rank": "Bottom 2",
-    "Statistic": "3PM",
-    "Value": 2.44,
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Bottom 3",
+    "Statistic": "REB",
+    "Value": 5.03,
     "Time Split": "GC-30",
     "Position": "PG"
   },
   {
-    "Team": "Philadelphia 76ers",
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 3",
+    "Statistic": "AST",
+    "Value": 10.09,
+    "Time Split": "GC-30",
+    "Position": "PG"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Bottom 4",
+    "Statistic": "AST",
+    "Value": 7.3,
+    "Time Split": "GC-30",
+    "Position": "PG"
+  },
+  {
+    "Team": "Atlanta Hawks",
+    "Rank": "Bottom 5",
+    "Statistic": "AST",
+    "Value": 7.62,
+    "Time Split": "GC-30",
+    "Position": "PG"
+  },
+  {
+    "Team": "Memphis Grizzlies",
+    "Rank": "Top 1",
+    "Statistic": "3PM",
+    "Value": 3.62,
+    "Time Split": "GC-30",
+    "Position": "PG"
+  },
+  {
+    "Team": "Atlanta Hawks",
+    "Rank": "Top 3",
+    "Statistic": "3PM",
+    "Value": 3.9,
+    "Time Split": "GC-30",
+    "Position": "PG"
+  },
+  {
+    "Team": "Detroit Pistons",
     "Rank": "Bottom 3",
     "Statistic": "3PM",
-    "Value": 2.45,
+    "Value": 2.49,
     "Time Split": "GC-30",
     "Position": "PG"
   },
   {
     "Team": "Denver Nuggets",
-    "Rank": "Bottom 5",
+    "Rank": "Bottom 4",
     "Statistic": "3PM",
     "Value": 2.5,
     "Time Split": "GC-30",
     "Position": "PG"
   },
   {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 1",
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 2",
     "Statistic": "STL",
-    "Value": 0.92,
+    "Value": 2.24,
+    "Time Split": "GC-30",
+    "Position": "PG"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Top 4",
+    "Statistic": "STL",
+    "Value": 2.38,
     "Time Split": "GC-30",
     "Position": "PG"
   },
@@ -2987,127 +2699,135 @@
     "Team": "Atlanta Hawks",
     "Rank": "Bottom 2",
     "Statistic": "STL",
-    "Value": 1.18,
+    "Value": 1.25,
     "Time Split": "GC-30",
     "Position": "PG"
   },
   {
-    "Team": "New York Knicks",
+    "Team": "Los Angeles Lakers",
+    "Rank": "Bottom 1",
+    "Statistic": "BLK",
+    "Value": 0.22,
+    "Time Split": "GC-30",
+    "Position": "PG"
+  },
+  {
+    "Team": "Denver Nuggets",
+    "Rank": "Bottom 4",
+    "Statistic": "BLK",
+    "Value": 0.27,
+    "Time Split": "GC-30",
+    "Position": "PG"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Bottom 5",
+    "Statistic": "BLK",
+    "Value": 0.32,
+    "Time Split": "GC-30",
+    "Position": "PG"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Top 2",
+    "Statistic": "TO",
+    "Value": 3.38,
+    "Time Split": "GC-30",
+    "Position": "PG"
+  },
+  {
+    "Team": "Memphis Grizzlies",
+    "Rank": "Top 3",
+    "Statistic": "TO",
+    "Value": 3.51,
+    "Time Split": "GC-30",
+    "Position": "PG"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Bottom 1",
+    "Statistic": "TO",
+    "Value": 2.29,
+    "Time Split": "GC-30",
+    "Position": "PG"
+  },
+  {
+    "Team": "Denver Nuggets",
+    "Rank": "Bottom 4",
+    "Statistic": "TO",
+    "Value": 2.53,
+    "Time Split": "GC-30",
+    "Position": "PG"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Bottom 5",
+    "Statistic": "TO",
+    "Value": 2.53,
+    "Time Split": "GC-30",
+    "Position": "PG"
+  },
+  {
+    "Team": "Brooklyn Nets",
+    "Rank": "Top 2",
+    "Statistic": "FG%",
+    "Value": 48.03,
+    "Time Split": "GC-30",
+    "Position": "PG"
+  },
+  {
+    "Team": "Denver Nuggets",
     "Rank": "Bottom 3",
-    "Statistic": "STL",
-    "Value": 1.27,
+    "Statistic": "FG%",
+    "Value": 41.67,
     "Time Split": "GC-30",
     "Position": "PG"
   },
   {
     "Team": "Philadelphia 76ers",
-    "Rank": "Top 1",
-    "Statistic": "BLK",
-    "Value": 0.74,
+    "Rank": "Bottom 5",
+    "Statistic": "FG%",
+    "Value": 42.77,
     "Time Split": "GC-30",
     "Position": "PG"
   },
   {
-    "Team": "Houston Rockets",
+    "Team": "Cleveland Cavaliers",
     "Rank": "Top 5",
-    "Statistic": "BLK",
-    "Value": 0.93,
+    "Statistic": "FT%",
+    "Value": 92.12,
     "Time Split": "GC-30",
     "Position": "PG"
   },
   {
-    "Team": "Sacramento Kings",
+    "Team": "Detroit Pistons",
     "Rank": "Bottom 3",
-    "Statistic": "BLK",
-    "Value": 0.29,
-    "Time Split": "GC-30",
-    "Position": "PG"
-  },
-  {
-    "Team": "Denver Nuggets",
-    "Rank": "Bottom 5",
-    "Statistic": "BLK",
-    "Value": 0.33,
-    "Time Split": "GC-30",
-    "Position": "PG"
-  },
-  {
-    "Team": "Sacramento Kings",
-    "Rank": "Top 1",
-    "Statistic": "TO",
-    "Value": 3.48,
-    "Time Split": "GC-30",
-    "Position": "PG"
-  },
-  {
-    "Team": "New York Knicks",
-    "Rank": "Bottom 5",
-    "Statistic": "TO",
-    "Value": 2.54,
-    "Time Split": "GC-30",
-    "Position": "PG"
-  },
-  {
-    "Team": "Houston Rockets",
-    "Rank": "Top 3",
-    "Statistic": "FG%",
-    "Value": 47.89,
-    "Time Split": "GC-30",
-    "Position": "PG"
-  },
-  {
-    "Team": "Denver Nuggets",
-    "Rank": "Bottom 3",
-    "Statistic": "FG%",
-    "Value": 42.38,
-    "Time Split": "GC-30",
-    "Position": "PG"
-  },
-  {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 5",
-    "Statistic": "FG%",
-    "Value": 42.65,
-    "Time Split": "GC-30",
-    "Position": "PG"
-  },
-  {
-    "Team": "Dallas Mavericks",
-    "Rank": "Top 1",
     "Statistic": "FT%",
-    "Value": 88.39,
+    "Value": 77.38,
     "Time Split": "GC-30",
     "Position": "PG"
   },
   {
-    "Team": "Miami Heat",
-    "Rank": "Top 2",
-    "Statistic": "FT%",
-    "Value": 88.73,
-    "Time Split": "GC-30",
-    "Position": "PG"
-  },
-  {
-    "Team": "Houston Rockets",
-    "Rank": "Bottom 1",
-    "Statistic": "FT%",
-    "Value": 73.64,
-    "Time Split": "GC-30",
-    "Position": "PG"
-  },
-  {
-    "Team": "Golden State Warriors",
+    "Team": "Memphis Grizzlies",
     "Rank": "Bottom 4",
     "Statistic": "FT%",
-    "Value": 77.0,
+    "Value": 77.39,
     "Time Split": "GC-30",
     "Position": "PG"
   },
   {
-    "Team": "Sacramento Kings",
-    "Rank": "Top 2",
+    "Team": "Brooklyn Nets",
+    "Rank": "Bottom 5",
+    "Statistic": "FT%",
+    "Value": 77.9,
+    "Time Split": "GC-30",
+    "Position": "PG"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Top 1",
     "Statistic": "PTS",
-    "Value": 22.21,
+    "Value": 22.4,
     "Time Split": "GC-30",
     "Position": "SF"
   },
@@ -3115,93 +2835,77 @@
     "Team": "Atlanta Hawks",
     "Rank": "Top 3",
     "Statistic": "PTS",
-    "Value": 23.47,
+    "Value": 23.48,
     "Time Split": "GC-30",
     "Position": "SF"
   },
   {
-    "Team": "Denver Nuggets",
-    "Rank": "Bottom 1",
-    "Statistic": "PTS",
-    "Value": 15.67,
-    "Time Split": "GC-30",
-    "Position": "SF"
-  },
-  {
-    "Team": "Houston Rockets",
-    "Rank": "Bottom 2",
-    "Statistic": "PTS",
-    "Value": 17.02,
-    "Time Split": "GC-30",
-    "Position": "SF"
-  },
-  {
-    "Team": "Golden State Warriors",
+    "Team": "Cleveland Cavaliers",
     "Rank": "Top 4",
-    "Statistic": "REB",
-    "Value": 8.63,
-    "Time Split": "GC-30",
-    "Position": "SF"
-  },
-  {
-    "Team": "Atlanta Hawks",
-    "Rank": "Bottom 1",
-    "Statistic": "REB",
-    "Value": 6.58,
-    "Time Split": "GC-30",
-    "Position": "SF"
-  },
-  {
-    "Team": "Sacramento Kings",
-    "Rank": "Bottom 5",
-    "Statistic": "REB",
-    "Value": 6.84,
-    "Time Split": "GC-30",
-    "Position": "SF"
-  },
-  {
-    "Team": "Atlanta Hawks",
-    "Rank": "Top 2",
-    "Statistic": "AST",
-    "Value": 4.63,
+    "Statistic": "PTS",
+    "Value": 23.88,
     "Time Split": "GC-30",
     "Position": "SF"
   },
   {
     "Team": "Denver Nuggets",
-    "Rank": "Bottom 2",
-    "Statistic": "AST",
-    "Value": 3.09,
+    "Rank": "Bottom 1",
+    "Statistic": "PTS",
+    "Value": 15.83,
     "Time Split": "GC-30",
     "Position": "SF"
   },
   {
-    "Team": "Miami Heat",
+    "Team": "Detroit Pistons",
+    "Rank": "Top 1",
+    "Statistic": "REB",
+    "Value": 8.26,
+    "Time Split": "GC-30",
+    "Position": "SF"
+  },
+  {
+    "Team": "Memphis Grizzlies",
+    "Rank": "Top 5",
+    "Statistic": "REB",
+    "Value": 9.4,
+    "Time Split": "GC-30",
+    "Position": "SF"
+  },
+  {
+    "Team": "Atlanta Hawks",
+    "Rank": "Bottom 3",
+    "Statistic": "REB",
+    "Value": 6.66,
+    "Time Split": "GC-30",
+    "Position": "SF"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Top 3",
+    "Statistic": "AST",
+    "Value": 4.83,
+    "Time Split": "GC-30",
+    "Position": "SF"
+  },
+  {
+    "Team": "Denver Nuggets",
     "Rank": "Bottom 3",
     "Statistic": "AST",
-    "Value": 3.16,
+    "Value": 3.14,
     "Time Split": "GC-30",
     "Position": "SF"
   },
   {
-    "Team": "Sacramento Kings",
-    "Rank": "Bottom 5",
-    "Statistic": "AST",
-    "Value": 3.37,
-    "Time Split": "GC-30",
-    "Position": "SF"
-  },
-  {
-    "Team": "Atlanta Hawks",
+    "Team": "Cleveland Cavaliers",
     "Rank": "Top 1",
     "Statistic": "3PM",
-    "Value": 3.23,
+    "Value": 3.2,
     "Time Split": "GC-30",
     "Position": "SF"
   },
   {
-    "Team": "Miami Heat",
-    "Rank": "Top 2",
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 3",
     "Statistic": "3PM",
     "Value": 3.29,
     "Time Split": "GC-30",
@@ -3211,236 +2915,212 @@
     "Team": "Denver Nuggets",
     "Rank": "Bottom 1",
     "Statistic": "3PM",
-    "Value": 1.52,
+    "Value": 1.58,
     "Time Split": "GC-30",
     "Position": "SF"
   },
   {
-    "Team": "Houston Rockets",
+    "Team": "Philadelphia 76ers",
+    "Rank": "Top 1",
+    "Statistic": "STL",
+    "Value": 1.77,
+    "Time Split": "GC-30",
+    "Position": "SF"
+  },
+  {
+    "Team": "Memphis Grizzlies",
+    "Rank": "Top 2",
+    "Statistic": "STL",
+    "Value": 1.84,
+    "Time Split": "GC-30",
+    "Position": "SF"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Bottom 4",
+    "Statistic": "STL",
+    "Value": 1.09,
+    "Time Split": "GC-30",
+    "Position": "SF"
+  },
+  {
+    "Team": "Atlanta Hawks",
+    "Rank": "Top 1",
+    "Statistic": "BLK",
+    "Value": 0.97,
+    "Time Split": "GC-30",
+    "Position": "SF"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
     "Rank": "Bottom 2",
-    "Statistic": "3PM",
-    "Value": 1.76,
+    "Statistic": "BLK",
+    "Value": 0.43,
     "Time Split": "GC-30",
     "Position": "SF"
   },
   {
-    "Team": "Houston Rockets",
+    "Team": "Brooklyn Nets",
+    "Rank": "Bottom 3",
+    "Statistic": "BLK",
+    "Value": 0.5,
+    "Time Split": "GC-30",
+    "Position": "SF"
+  },
+  {
+    "Team": "Atlanta Hawks",
+    "Rank": "Top 3",
+    "Statistic": "TO",
+    "Value": 2.65,
+    "Time Split": "GC-30",
+    "Position": "SF"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Top 4",
+    "Statistic": "FG%",
+    "Value": 50.21,
+    "Time Split": "GC-30",
+    "Position": "SF"
+  },
+  {
+    "Team": "Atlanta Hawks",
+    "Rank": "Top 3",
+    "Statistic": "FT%",
+    "Value": 87.24,
+    "Time Split": "GC-30",
+    "Position": "SF"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 5",
+    "Statistic": "FT%",
+    "Value": 88.52,
+    "Time Split": "GC-30",
+    "Position": "SF"
+  },
+  {
+    "Team": "Denver Nuggets",
+    "Rank": "Bottom 2",
+    "Statistic": "FT%",
+    "Value": 71.94,
+    "Time Split": "GC-30",
+    "Position": "SF"
+  },
+  {
+    "Team": "Denver Nuggets",
+    "Rank": "Bottom 4",
+    "Statistic": "PTS",
+    "Value": 18.89,
+    "Time Split": "GC-30",
+    "Position": "SG"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Bottom 2",
+    "Statistic": "REB",
+    "Value": 5.04,
+    "Time Split": "GC-30",
+    "Position": "SG"
+  },
+  {
+    "Team": "Philadelphia 76ers",
+    "Rank": "Bottom 4",
+    "Statistic": "REB",
+    "Value": 5.12,
+    "Time Split": "GC-30",
+    "Position": "SG"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Top 3",
+    "Statistic": "AST",
+    "Value": 6.02,
+    "Time Split": "GC-30",
+    "Position": "SG"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 4",
+    "Statistic": "AST",
+    "Value": 6.08,
+    "Time Split": "GC-30",
+    "Position": "SG"
+  },
+  {
+    "Team": "Philadelphia 76ers",
+    "Rank": "Bottom 4",
+    "Statistic": "AST",
+    "Value": 4.65,
+    "Time Split": "GC-30",
+    "Position": "SG"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Top 3",
+    "Statistic": "3PM",
+    "Value": 3.67,
+    "Time Split": "GC-30",
+    "Position": "SG"
+  },
+  {
+    "Team": "Detroit Pistons",
     "Rank": "Top 3",
     "Statistic": "STL",
-    "Value": 1.89,
+    "Value": 2.01,
     "Time Split": "GC-30",
-    "Position": "SF"
+    "Position": "SG"
   },
   {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 2",
+    "Team": "Philadelphia 76ers",
+    "Rank": "Bottom 3",
     "Statistic": "STL",
-    "Value": 1.01,
+    "Value": 1.14,
     "Time Split": "GC-30",
-    "Position": "SF"
+    "Position": "SG"
   },
   {
-    "Team": "Dallas Mavericks",
-    "Rank": "Bottom 5",
+    "Team": "Brooklyn Nets",
+    "Rank": "Bottom 4",
     "Statistic": "STL",
     "Value": 1.18,
     "Time Split": "GC-30",
-    "Position": "SF"
+    "Position": "SG"
   },
   {
-    "Team": "Sacramento Kings",
-    "Rank": "Bottom 5",
-    "Statistic": "BLK",
-    "Value": 0.55,
-    "Time Split": "GC-30",
-    "Position": "SF"
-  },
-  {
-    "Team": "Miami Heat",
+    "Team": "Philadelphia 76ers",
     "Rank": "Top 2",
-    "Statistic": "TO",
-    "Value": 2.61,
+    "Statistic": "BLK",
+    "Value": 0.93,
     "Time Split": "GC-30",
-    "Position": "SF"
+    "Position": "SG"
   },
   {
-    "Team": "Atlanta Hawks",
+    "Team": "Detroit Pistons",
     "Rank": "Top 4",
-    "Statistic": "TO",
-    "Value": 2.64,
+    "Statistic": "BLK",
+    "Value": 1.03,
     "Time Split": "GC-30",
-    "Position": "SF"
+    "Position": "SG"
   },
   {
-    "Team": "Sacramento Kings",
+    "Team": "Memphis Grizzlies",
     "Rank": "Top 5",
-    "Statistic": "FG%",
-    "Value": 52.44,
-    "Time Split": "GC-30",
-    "Position": "SF"
-  },
-  {
-    "Team": "Houston Rockets",
-    "Rank": "Bottom 1",
-    "Statistic": "FG%",
-    "Value": 38.84,
-    "Time Split": "GC-30",
-    "Position": "SF"
-  },
-  {
-    "Team": "Dallas Mavericks",
-    "Rank": "Bottom 2",
-    "Statistic": "FG%",
-    "Value": 40.36,
-    "Time Split": "GC-30",
-    "Position": "SF"
-  },
-  {
-    "Team": "Atlanta Hawks",
-    "Rank": "Top 3",
-    "Statistic": "FT%",
-    "Value": 87.53,
-    "Time Split": "GC-30",
-    "Position": "SF"
-  },
-  {
-    "Team": "Denver Nuggets",
-    "Rank": "Bottom 2",
-    "Statistic": "FT%",
-    "Value": 70.76,
-    "Time Split": "GC-30",
-    "Position": "SF"
-  },
-  {
-    "Team": "Denver Nuggets",
-    "Rank": "Bottom 3",
-    "Statistic": "PTS",
-    "Value": 19.23,
-    "Time Split": "GC-30",
-    "Position": "SG"
-  },
-  {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 4",
-    "Statistic": "PTS",
-    "Value": 19.27,
-    "Time Split": "GC-30",
-    "Position": "SG"
-  },
-  {
-    "Team": "Golden State Warriors",
-    "Rank": "Bottom 1",
-    "Statistic": "REB",
-    "Value": 5.03,
+    "Statistic": "BLK",
+    "Value": 1.03,
     "Time Split": "GC-30",
     "Position": "SG"
   },
   {
     "Team": "Philadelphia 76ers",
-    "Rank": "Bottom 3",
-    "Statistic": "REB",
-    "Value": 5.09,
-    "Time Split": "GC-30",
-    "Position": "SG"
-  },
-  {
-    "Team": "New York Knicks",
-    "Rank": "Top 1",
-    "Statistic": "3PM",
-    "Value": 3.61,
-    "Time Split": "GC-30",
-    "Position": "SG"
-  },
-  {
-    "Team": "Sacramento Kings",
-    "Rank": "Top 3",
-    "Statistic": "3PM",
-    "Value": 3.72,
+    "Rank": "Bottom 1",
+    "Statistic": "TO",
+    "Value": 1.89,
     "Time Split": "GC-30",
     "Position": "SG"
   },
   {
     "Team": "Denver Nuggets",
-    "Rank": "Bottom 4",
-    "Statistic": "3PM",
-    "Value": 2.82,
-    "Time Split": "GC-30",
-    "Position": "SG"
-  },
-  {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 5",
-    "Statistic": "3PM",
-    "Value": 2.87,
-    "Time Split": "GC-30",
-    "Position": "SG"
-  },
-  {
-    "Team": "Golden State Warriors",
-    "Rank": "Bottom 1",
-    "Statistic": "STL",
-    "Value": 0.92,
-    "Time Split": "GC-30",
-    "Position": "SG"
-  },
-  {
-    "Team": "Philadelphia 76ers",
-    "Rank": "Bottom 3",
-    "Statistic": "STL",
-    "Value": 1.08,
-    "Time Split": "GC-30",
-    "Position": "SG"
-  },
-  {
-    "Team": "Philadelphia 76ers",
-    "Rank": "Top 1",
-    "Statistic": "BLK",
-    "Value": 0.92,
-    "Time Split": "GC-30",
-    "Position": "SG"
-  },
-  {
-    "Team": "Sacramento Kings",
-    "Rank": "Bottom 3",
-    "Statistic": "BLK",
-    "Value": 0.44,
-    "Time Split": "GC-30",
-    "Position": "SG"
-  },
-  {
-    "Team": "Houston Rockets",
-    "Rank": "Bottom 5",
-    "Statistic": "BLK",
-    "Value": 0.49,
-    "Time Split": "GC-30",
-    "Position": "SG"
-  },
-  {
-    "Team": "New York Knicks",
-    "Rank": "Top 1",
-    "Statistic": "TO",
-    "Value": 2.53,
-    "Time Split": "GC-30",
-    "Position": "SG"
-  },
-  {
-    "Team": "Dallas Mavericks",
-    "Rank": "Top 2",
-    "Statistic": "TO",
-    "Value": 2.59,
-    "Time Split": "GC-30",
-    "Position": "SG"
-  },
-  {
-    "Team": "Sacramento Kings",
-    "Rank": "Bottom 1",
-    "Statistic": "TO",
-    "Value": 1.95,
-    "Time Split": "GC-30",
-    "Position": "SG"
-  },
-  {
-    "Team": "Philadelphia 76ers",
     "Rank": "Bottom 3",
     "Statistic": "TO",
     "Value": 1.98,
@@ -3448,202 +3128,226 @@
     "Position": "SG"
   },
   {
-    "Team": "Denver Nuggets",
-    "Rank": "Bottom 1",
+    "Team": "Brooklyn Nets",
+    "Rank": "Bottom 5",
+    "Statistic": "TO",
+    "Value": 2.0,
+    "Time Split": "GC-30",
+    "Position": "SG"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 1",
     "Statistic": "FG%",
-    "Value": 40.16,
+    "Value": 46.64,
     "Time Split": "GC-30",
     "Position": "SG"
   },
   {
-    "Team": "Golden State Warriors",
-    "Rank": "Bottom 4",
-    "Statistic": "FG%",
-    "Value": 41.53,
-    "Time Split": "GC-30",
-    "Position": "SG"
-  },
-  {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 2",
-    "Statistic": "FT%",
-    "Value": 75.0,
-    "Time Split": "GC-30",
-    "Position": "SG"
-  },
-  {
-    "Team": "Denver Nuggets",
-    "Rank": "Bottom 4",
-    "Statistic": "FT%",
-    "Value": 76.3,
-    "Time Split": "GC-30",
-    "Position": "SG"
-  },
-  {
-    "Team": "Atlanta Hawks",
-    "Rank": "Bottom 5",
-    "Statistic": "FT%",
-    "Value": 76.33,
-    "Time Split": "GC-30",
-    "Position": "SG"
-  },
-  {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 1",
-    "Statistic": "PTS",
-    "Value": 19.04,
-    "Time Split": "GC-7",
-    "Position": "ALL"
-  },
-  {
-    "Team": "Dallas Mavericks",
-    "Rank": "Bottom 3",
-    "Statistic": "PTS",
-    "Value": 20.54,
-    "Time Split": "GC-7",
-    "Position": "ALL"
-  },
-  {
-    "Team": "Denver Nuggets",
-    "Rank": "Bottom 5",
-    "Statistic": "PTS",
-    "Value": 21.0,
-    "Time Split": "GC-7",
-    "Position": "ALL"
-  },
-  {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 1",
-    "Statistic": "REB",
-    "Value": 7.42,
-    "Time Split": "GC-7",
-    "Position": "ALL"
-  },
-  {
-    "Team": "New York Knicks",
-    "Rank": "Bottom 3",
-    "Statistic": "REB",
-    "Value": 7.77,
-    "Time Split": "GC-7",
-    "Position": "ALL"
-  },
-  {
-    "Team": "Philadelphia 76ers",
-    "Rank": "Bottom 5",
-    "Statistic": "REB",
-    "Value": 7.9,
-    "Time Split": "GC-7",
-    "Position": "ALL"
-  },
-  {
-    "Team": "Houston Rockets",
-    "Rank": "Bottom 1",
-    "Statistic": "AST",
-    "Value": 4.58,
-    "Time Split": "GC-7",
-    "Position": "ALL"
-  },
-  {
-    "Team": "Sacramento Kings",
-    "Rank": "Bottom 3",
-    "Statistic": "AST",
-    "Value": 4.65,
-    "Time Split": "GC-7",
-    "Position": "ALL"
-  },
-  {
-    "Team": "Golden State Warriors",
-    "Rank": "Top 3",
-    "Statistic": "3PM",
-    "Value": 3.22,
-    "Time Split": "GC-7",
-    "Position": "ALL"
-  },
-  {
-    "Team": "Atlanta Hawks",
-    "Rank": "Bottom 4",
-    "Statistic": "3PM",
-    "Value": 2.11,
-    "Time Split": "GC-7",
-    "Position": "ALL"
-  },
-  {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 5",
-    "Statistic": "3PM",
-    "Value": 2.2,
-    "Time Split": "GC-7",
-    "Position": "ALL"
-  },
-  {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 1",
-    "Statistic": "STL",
-    "Value": 0.9,
-    "Time Split": "GC-7",
-    "Position": "ALL"
-  },
-  {
-    "Team": "Philadelphia 76ers",
-    "Rank": "Bottom 2",
-    "Statistic": "STL",
-    "Value": 0.94,
-    "Time Split": "GC-7",
-    "Position": "ALL"
-  },
-  {
-    "Team": "New York Knicks",
-    "Rank": "Bottom 5",
-    "Statistic": "STL",
-    "Value": 1.09,
-    "Time Split": "GC-7",
-    "Position": "ALL"
-  },
-  {
-    "Team": "Denver Nuggets",
-    "Rank": "Top 5",
-    "Statistic": "BLK",
-    "Value": 1.48,
-    "Time Split": "GC-7",
-    "Position": "ALL"
-  },
-  {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 3",
-    "Statistic": "BLK",
-    "Value": 0.52,
-    "Time Split": "GC-7",
-    "Position": "ALL"
-  },
-  {
-    "Team": "Houston Rockets",
+    "Team": "Brooklyn Nets",
     "Rank": "Top 2",
-    "Statistic": "TO",
-    "Value": 2.98,
+    "Statistic": "FG%",
+    "Value": 46.68,
+    "Time Split": "GC-30",
+    "Position": "SG"
+  },
+  {
+    "Team": "Denver Nuggets",
+    "Rank": "Bottom 1",
+    "Statistic": "FG%",
+    "Value": 39.75,
+    "Time Split": "GC-30",
+    "Position": "SG"
+  },
+  {
+    "Team": "Brooklyn Nets",
+    "Rank": "Top 1",
+    "Statistic": "FT%",
+    "Value": 86.0,
+    "Time Split": "GC-30",
+    "Position": "SG"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 2",
+    "Statistic": "FT%",
+    "Value": 87.02,
+    "Time Split": "GC-30",
+    "Position": "SG"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Top 5",
+    "Statistic": "FT%",
+    "Value": 88.22,
+    "Time Split": "GC-30",
+    "Position": "SG"
+  },
+  {
+    "Team": "Denver Nuggets",
+    "Rank": "Bottom 2",
+    "Statistic": "FT%",
+    "Value": 75.37,
+    "Time Split": "GC-30",
+    "Position": "SG"
+  },
+  {
+    "Team": "Atlanta Hawks",
+    "Rank": "Bottom 3",
+    "Statistic": "FT%",
+    "Value": 76.88,
+    "Time Split": "GC-30",
+    "Position": "SG"
+  },
+  {
+    "Team": "Memphis Grizzlies",
+    "Rank": "Bottom 5",
+    "Statistic": "FT%",
+    "Value": 77.12,
+    "Time Split": "GC-30",
+    "Position": "SG"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Top 1",
+    "Statistic": "PTS",
+    "Value": 23.46,
     "Time Split": "GC-7",
     "Position": "ALL"
   },
   {
-    "Team": "Miami Heat",
+    "Team": "Los Angeles Lakers",
     "Rank": "Top 4",
-    "Statistic": "TO",
+    "Statistic": "PTS",
+    "Value": 24.92,
+    "Time Split": "GC-7",
+    "Position": "ALL"
+  },
+  {
+    "Team": "Memphis Grizzlies",
+    "Rank": "Top 1",
+    "Statistic": "REB",
+    "Value": 9.0,
+    "Time Split": "GC-7",
+    "Position": "ALL"
+  },
+  {
+    "Team": "Philadelphia 76ers",
+    "Rank": "Bottom 3",
+    "Statistic": "REB",
+    "Value": 7.84,
+    "Time Split": "GC-7",
+    "Position": "ALL"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Top 1",
+    "Statistic": "AST",
+    "Value": 5.8,
+    "Time Split": "GC-7",
+    "Position": "ALL"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 4",
+    "Statistic": "AST",
+    "Value": 6.27,
+    "Time Split": "GC-7",
+    "Position": "ALL"
+  },
+  {
+    "Team": "Atlanta Hawks",
+    "Rank": "Bottom 3",
+    "Statistic": "AST",
+    "Value": 4.84,
+    "Time Split": "GC-7",
+    "Position": "ALL"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 1",
+    "Statistic": "3PM",
+    "Value": 3.01,
+    "Time Split": "GC-7",
+    "Position": "ALL"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Top 2",
+    "Statistic": "3PM",
     "Value": 3.06,
     "Time Split": "GC-7",
     "Position": "ALL"
   },
   {
-    "Team": "Atlanta Hawks",
-    "Rank": "Bottom 4",
-    "Statistic": "TO",
-    "Value": 2.19,
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Top 5",
+    "Statistic": "STL",
+    "Value": 1.92,
     "Time Split": "GC-7",
     "Position": "ALL"
   },
   {
-    "Team": "Dallas Mavericks",
+    "Team": "Philadelphia 76ers",
+    "Rank": "Bottom 4",
+    "Statistic": "STL",
+    "Value": 1.08,
+    "Time Split": "GC-7",
+    "Position": "ALL"
+  },
+  {
+    "Team": "Philadelphia 76ers",
+    "Rank": "Top 1",
+    "Statistic": "BLK",
+    "Value": 1.3,
+    "Time Split": "GC-7",
+    "Position": "ALL"
+  },
+  {
+    "Team": "Denver Nuggets",
+    "Rank": "Top 3",
+    "Statistic": "BLK",
+    "Value": 1.37,
+    "Time Split": "GC-7",
+    "Position": "ALL"
+  },
+  {
+    "Team": "Memphis Grizzlies",
+    "Rank": "Top 4",
+    "Statistic": "BLK",
+    "Value": 1.4,
+    "Time Split": "GC-7",
+    "Position": "ALL"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Bottom 1",
+    "Statistic": "BLK",
+    "Value": 0.44,
+    "Time Split": "GC-7",
+    "Position": "ALL"
+  },
+  {
+    "Team": "Memphis Grizzlies",
+    "Rank": "Top 2",
+    "Statistic": "TO",
+    "Value": 2.94,
+    "Time Split": "GC-7",
+    "Position": "ALL"
+  },
+  {
+    "Team": "Atlanta Hawks",
     "Rank": "Bottom 2",
+    "Statistic": "TO",
+    "Value": 2.22,
+    "Time Split": "GC-7",
+    "Position": "ALL"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Top 2",
     "Statistic": "FG%",
-    "Value": 43.15,
+    "Value": 50.77,
     "Time Split": "GC-7",
     "Position": "ALL"
   },
@@ -3651,135 +3355,159 @@
     "Team": "Denver Nuggets",
     "Rank": "Bottom 5",
     "Statistic": "FG%",
-    "Value": 45.06,
+    "Value": 43.63,
     "Time Split": "GC-7",
     "Position": "ALL"
   },
   {
-    "Team": "New York Knicks",
-    "Rank": "Top 2",
-    "Statistic": "FT%",
-    "Value": 82.32,
-    "Time Split": "GC-7",
-    "Position": "ALL"
-  },
-  {
-    "Team": "Philadelphia 76ers",
+    "Team": "Cleveland Cavaliers",
     "Rank": "Top 3",
     "Statistic": "FT%",
-    "Value": 83.17,
+    "Value": 84.26,
     "Time Split": "GC-7",
     "Position": "ALL"
-  },
-  {
-    "Team": "Houston Rockets",
-    "Rank": "Top 5",
-    "Statistic": "FT%",
-    "Value": 83.78,
-    "Time Split": "GC-7",
-    "Position": "ALL"
-  },
-  {
-    "Team": "Golden State Warriors",
-    "Rank": "Bottom 3",
-    "Statistic": "FT%",
-    "Value": 71.43,
-    "Time Split": "GC-7",
-    "Position": "ALL"
-  },
-  {
-    "Team": "Denver Nuggets",
-    "Rank": "Bottom 5",
-    "Statistic": "FT%",
-    "Value": 73.14,
-    "Time Split": "GC-7",
-    "Position": "ALL"
-  },
-  {
-    "Team": "Denver Nuggets",
-    "Rank": "Top 1",
-    "Statistic": "PTS",
-    "Value": 26.75,
-    "Time Split": "GC-7",
-    "Position": "C"
-  },
-  {
-    "Team": "Sacramento Kings",
-    "Rank": "Bottom 1",
-    "Statistic": "PTS",
-    "Value": 13.71,
-    "Time Split": "GC-7",
-    "Position": "C"
-  },
-  {
-    "Team": "Houston Rockets",
-    "Rank": "Bottom 5",
-    "Statistic": "PTS",
-    "Value": 19.56,
-    "Time Split": "GC-7",
-    "Position": "C"
-  },
-  {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 5",
-    "Statistic": "REB",
-    "Value": 11.93,
-    "Time Split": "GC-7",
-    "Position": "C"
-  },
-  {
-    "Team": "Dallas Mavericks",
-    "Rank": "Top 1",
-    "Statistic": "AST",
-    "Value": 5.6,
-    "Time Split": "GC-7",
-    "Position": "C"
   },
   {
     "Team": "Philadelphia 76ers",
-    "Rank": "Top 2",
-    "Statistic": "AST",
-    "Value": 5.71,
+    "Rank": "Top 4",
+    "Statistic": "FT%",
+    "Value": 84.82,
     "Time Split": "GC-7",
-    "Position": "C"
+    "Position": "ALL"
   },
   {
-    "Team": "New York Knicks",
-    "Rank": "Top 5",
-    "Statistic": "AST",
-    "Value": 6.61,
+    "Team": "Los Angeles Lakers",
+    "Rank": "Bottom 1",
+    "Statistic": "FT%",
+    "Value": 69.42,
     "Time Split": "GC-7",
-    "Position": "C"
+    "Position": "ALL"
   },
   {
-    "Team": "Houston Rockets",
+    "Team": "Detroit Pistons",
     "Rank": "Bottom 2",
-    "Statistic": "AST",
-    "Value": 1.81,
+    "Statistic": "FT%",
+    "Value": 70.98,
+    "Time Split": "GC-7",
+    "Position": "ALL"
+  },
+  {
+    "Team": "Atlanta Hawks",
+    "Rank": "Bottom 3",
+    "Statistic": "PTS",
+    "Value": 19.1,
+    "Time Split": "GC-7",
+    "Position": "C"
+  },
+  {
+    "Team": "Brooklyn Nets",
+    "Rank": "Bottom 4",
+    "Statistic": "PTS",
+    "Value": 19.44,
+    "Time Split": "GC-7",
+    "Position": "C"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Top 1",
+    "Statistic": "REB",
+    "Value": 17.22,
+    "Time Split": "GC-7",
+    "Position": "C"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Bottom 2",
+    "Statistic": "REB",
+    "Value": 9.35,
     "Time Split": "GC-7",
     "Position": "C"
   },
   {
     "Team": "Atlanta Hawks",
-    "Rank": "Bottom 3",
+    "Rank": "Bottom 4",
+    "Statistic": "REB",
+    "Value": 11.05,
+    "Time Split": "GC-7",
+    "Position": "C"
+  },
+  {
+    "Team": "Philadelphia 76ers",
+    "Rank": "Top 1",
+    "Statistic": "AST",
+    "Value": 5.74,
+    "Time Split": "GC-7",
+    "Position": "C"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Top 5",
+    "Statistic": "AST",
+    "Value": 6.74,
+    "Time Split": "GC-7",
+    "Position": "C"
+  },
+  {
+    "Team": "Atlanta Hawks",
+    "Rank": "Bottom 4",
     "Statistic": "AST",
     "Value": 2.72,
     "Time Split": "GC-7",
     "Position": "C"
   },
   {
-    "Team": "Sacramento Kings",
+    "Team": "Memphis Grizzlies",
     "Rank": "Bottom 5",
     "Statistic": "AST",
-    "Value": 3.04,
+    "Value": 2.92,
     "Time Split": "GC-7",
     "Position": "C"
   },
   {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 2",
+    "Team": "Memphis Grizzlies",
+    "Rank": "Top 4",
     "Statistic": "3PM",
-    "Value": 0.14,
+    "Value": 2.04,
+    "Time Split": "GC-7",
+    "Position": "C"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 5",
+    "Statistic": "3PM",
+    "Value": 3.28,
+    "Time Split": "GC-7",
+    "Position": "C"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Bottom 3",
+    "Statistic": "3PM",
+    "Value": 0.23,
+    "Time Split": "GC-7",
+    "Position": "C"
+  },
+  {
+    "Team": "Memphis Grizzlies",
+    "Rank": "Top 1",
+    "Statistic": "STL",
+    "Value": 2.19,
+    "Time Split": "GC-7",
+    "Position": "C"
+  },
+  {
+    "Team": "Brooklyn Nets",
+    "Rank": "Top 2",
+    "Statistic": "STL",
+    "Value": 2.23,
+    "Time Split": "GC-7",
+    "Position": "C"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Top 5",
+    "Statistic": "STL",
+    "Value": 3.25,
     "Time Split": "GC-7",
     "Position": "C"
   },
@@ -3787,311 +3515,247 @@
     "Team": "Philadelphia 76ers",
     "Rank": "Bottom 2",
     "Statistic": "STL",
-    "Value": 0.58,
+    "Value": 0.61,
     "Time Split": "GC-7",
     "Position": "C"
   },
   {
-    "Team": "Houston Rockets",
+    "Team": "Detroit Pistons",
+    "Rank": "Top 1",
+    "Statistic": "BLK",
+    "Value": 3.16,
+    "Time Split": "GC-7",
+    "Position": "C"
+  },
+  {
+    "Team": "Philadelphia 76ers",
+    "Rank": "Top 3",
+    "Statistic": "BLK",
+    "Value": 3.29,
+    "Time Split": "GC-7",
+    "Position": "C"
+  },
+  {
+    "Team": "Brooklyn Nets",
+    "Rank": "Top 4",
+    "Statistic": "BLK",
+    "Value": 3.79,
+    "Time Split": "GC-7",
+    "Position": "C"
+  },
+  {
+    "Team": "Denver Nuggets",
+    "Rank": "Top 5",
+    "Statistic": "BLK",
+    "Value": 4.23,
+    "Time Split": "GC-7",
+    "Position": "C"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
     "Rank": "Bottom 3",
+    "Statistic": "BLK",
+    "Value": 0.69,
+    "Time Split": "GC-7",
+    "Position": "C"
+  },
+  {
+    "Team": "Brooklyn Nets",
+    "Rank": "Top 3",
+    "Statistic": "TO",
+    "Value": 4.47,
+    "Time Split": "GC-7",
+    "Position": "C"
+  },
+  {
+    "Team": "Memphis Grizzlies",
+    "Rank": "Top 4",
+    "Statistic": "TO",
+    "Value": 4.67,
+    "Time Split": "GC-7",
+    "Position": "C"
+  },
+  {
+    "Team": "Denver Nuggets",
+    "Rank": "Bottom 3",
+    "Statistic": "TO",
+    "Value": 1.84,
+    "Time Split": "GC-7",
+    "Position": "C"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Bottom 5",
+    "Statistic": "TO",
+    "Value": 2.13,
+    "Time Split": "GC-7",
+    "Position": "C"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Top 2",
+    "Statistic": "FG%",
+    "Value": 60.43,
+    "Time Split": "GC-7",
+    "Position": "C"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Top 5",
+    "Statistic": "FG%",
+    "Value": 63.36,
+    "Time Split": "GC-7",
+    "Position": "C"
+  },
+  {
+    "Team": "Denver Nuggets",
+    "Rank": "Bottom 2",
+    "Statistic": "FG%",
+    "Value": 46.37,
+    "Time Split": "GC-7",
+    "Position": "C"
+  },
+  {
+    "Team": "Atlanta Hawks",
+    "Rank": "Bottom 5",
+    "Statistic": "FG%",
+    "Value": 51.39,
+    "Time Split": "GC-7",
+    "Position": "C"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Top 1",
+    "Statistic": "FT%",
+    "Value": 84.32,
+    "Time Split": "GC-7",
+    "Position": "C"
+  },
+  {
+    "Team": "Denver Nuggets",
+    "Rank": "Bottom 5",
+    "Statistic": "FT%",
+    "Value": 63.31,
+    "Time Split": "GC-7",
+    "Position": "C"
+  },
+  {
+    "Team": "Philadelphia 76ers",
+    "Rank": "Top 1",
+    "Statistic": "PTS",
+    "Value": 26.35,
+    "Time Split": "GC-7",
+    "Position": "PF"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 5",
+    "Statistic": "PTS",
+    "Value": 27.91,
+    "Time Split": "GC-7",
+    "Position": "PF"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 4",
+    "Statistic": "REB",
+    "Value": 13.06,
+    "Time Split": "GC-7",
+    "Position": "PF"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Bottom 3",
+    "Statistic": "REB",
+    "Value": 7.4,
+    "Time Split": "GC-7",
+    "Position": "PF"
+  },
+  {
+    "Team": "Memphis Grizzlies",
+    "Rank": "Top 5",
+    "Statistic": "AST",
+    "Value": 7.49,
+    "Time Split": "GC-7",
+    "Position": "PF"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Top 2",
+    "Statistic": "3PM",
+    "Value": 3.27,
+    "Time Split": "GC-7",
+    "Position": "PF"
+  },
+  {
+    "Team": "Philadelphia 76ers",
+    "Rank": "Top 5",
+    "Statistic": "3PM",
+    "Value": 4.31,
+    "Time Split": "GC-7",
+    "Position": "PF"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Bottom 1",
+    "Statistic": "3PM",
+    "Value": 0.63,
+    "Time Split": "GC-7",
+    "Position": "PF"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Top 2",
     "Statistic": "STL",
-    "Value": 0.75,
-    "Time Split": "GC-7",
-    "Position": "C"
-  },
-  {
-    "Team": "Houston Rockets",
-    "Rank": "Top 1",
-    "Statistic": "BLK",
-    "Value": 3.03,
-    "Time Split": "GC-7",
-    "Position": "C"
-  },
-  {
-    "Team": "Philadelphia 76ers",
-    "Rank": "Top 3",
-    "Statistic": "BLK",
-    "Value": 3.49,
-    "Time Split": "GC-7",
-    "Position": "C"
-  },
-  {
-    "Team": "Denver Nuggets",
-    "Rank": "Top 5",
-    "Statistic": "BLK",
-    "Value": 4.65,
-    "Time Split": "GC-7",
-    "Position": "C"
-  },
-  {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 1",
-    "Statistic": "BLK",
-    "Value": 0.14,
-    "Time Split": "GC-7",
-    "Position": "C"
-  },
-  {
-    "Team": "Golden State Warriors",
-    "Rank": "Top 1",
-    "Statistic": "TO",
-    "Value": 3.71,
-    "Time Split": "GC-7",
-    "Position": "C"
-  },
-  {
-    "Team": "Sacramento Kings",
-    "Rank": "Bottom 2",
-    "Statistic": "TO",
-    "Value": 1.52,
-    "Time Split": "GC-7",
-    "Position": "C"
-  },
-  {
-    "Team": "Miami Heat",
-    "Rank": "Top 1",
-    "Statistic": "FG%",
-    "Value": 60.35,
-    "Time Split": "GC-7",
-    "Position": "C"
-  },
-  {
-    "Team": "Sacramento Kings",
-    "Rank": "Bottom 2",
-    "Statistic": "FG%",
-    "Value": 43.56,
-    "Time Split": "GC-7",
-    "Position": "C"
-  },
-  {
-    "Team": "Denver Nuggets",
-    "Rank": "Bottom 4",
-    "Statistic": "FG%",
-    "Value": 49.98,
-    "Time Split": "GC-7",
-    "Position": "C"
-  },
-  {
-    "Team": "Houston Rockets",
-    "Rank": "Top 1",
-    "Statistic": "FT%",
-    "Value": 84.2,
-    "Time Split": "GC-7",
-    "Position": "C"
-  },
-  {
-    "Team": "Sacramento Kings",
-    "Rank": "Bottom 4",
-    "Statistic": "FT%",
-    "Value": 58.89,
-    "Time Split": "GC-7",
-    "Position": "C"
-  },
-  {
-    "Team": "Denver Nuggets",
-    "Rank": "Bottom 5",
-    "Statistic": "FT%",
-    "Value": 60.0,
-    "Time Split": "GC-7",
-    "Position": "C"
-  },
-  {
-    "Team": "Golden State Warriors",
-    "Rank": "Top 1",
-    "Statistic": "PTS",
-    "Value": 26.05,
-    "Time Split": "GC-7",
-    "Position": "PF"
-  },
-  {
-    "Team": "Philadelphia 76ers",
-    "Rank": "Top 2",
-    "Statistic": "PTS",
-    "Value": 26.16,
-    "Time Split": "GC-7",
-    "Position": "PF"
-  },
-  {
-    "Team": "Sacramento Kings",
-    "Rank": "Top 3",
-    "Statistic": "PTS",
-    "Value": 26.34,
-    "Time Split": "GC-7",
-    "Position": "PF"
-  },
-  {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 1",
-    "Statistic": "PTS",
-    "Value": 17.6,
-    "Time Split": "GC-7",
-    "Position": "PF"
-  },
-  {
-    "Team": "New York Knicks",
-    "Rank": "Bottom 3",
-    "Statistic": "PTS",
-    "Value": 18.5,
-    "Time Split": "GC-7",
-    "Position": "PF"
-  },
-  {
-    "Team": "Dallas Mavericks",
-    "Rank": "Bottom 4",
-    "Statistic": "PTS",
-    "Value": 19.21,
-    "Time Split": "GC-7",
-    "Position": "PF"
-  },
-  {
-    "Team": "Houston Rockets",
-    "Rank": "Bottom 5",
-    "Statistic": "PTS",
-    "Value": 19.31,
-    "Time Split": "GC-7",
-    "Position": "PF"
-  },
-  {
-    "Team": "Golden State Warriors",
-    "Rank": "Top 4",
-    "Statistic": "REB",
-    "Value": 13.88,
+    "Value": 2.11,
     "Time Split": "GC-7",
     "Position": "PF"
   },
   {
     "Team": "Philadelphia 76ers",
     "Rank": "Bottom 3",
-    "Statistic": "REB",
-    "Value": 7.31,
-    "Time Split": "GC-7",
-    "Position": "PF"
-  },
-  {
-    "Team": "New York Knicks",
-    "Rank": "Bottom 4",
-    "Statistic": "REB",
-    "Value": 7.54,
-    "Time Split": "GC-7",
-    "Position": "PF"
-  },
-  {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 5",
-    "Statistic": "REB",
-    "Value": 8.57,
-    "Time Split": "GC-7",
-    "Position": "PF"
-  },
-  {
-    "Team": "New York Knicks",
-    "Rank": "Top 5",
-    "Statistic": "AST",
-    "Value": 7.0,
-    "Time Split": "GC-7",
-    "Position": "PF"
-  },
-  {
-    "Team": "Golden State Warriors",
-    "Rank": "Bottom 2",
-    "Statistic": "AST",
-    "Value": 3.04,
-    "Time Split": "GC-7",
-    "Position": "PF"
-  },
-  {
-    "Team": "Sacramento Kings",
-    "Rank": "Bottom 3",
-    "Statistic": "AST",
-    "Value": 3.47,
-    "Time Split": "GC-7",
-    "Position": "PF"
-  },
-  {
-    "Team": "Houston Rockets",
-    "Rank": "Bottom 4",
-    "Statistic": "AST",
-    "Value": 3.51,
-    "Time Split": "GC-7",
-    "Position": "PF"
-  },
-  {
-    "Team": "Sacramento Kings",
-    "Rank": "Top 2",
-    "Statistic": "3PM",
-    "Value": 3.47,
-    "Time Split": "GC-7",
-    "Position": "PF"
-  },
-  {
-    "Team": "Philadelphia 76ers",
-    "Rank": "Top 4",
-    "Statistic": "3PM",
-    "Value": 4.21,
-    "Time Split": "GC-7",
-    "Position": "PF"
-  },
-  {
-    "Team": "Golden State Warriors",
-    "Rank": "Top 5",
-    "Statistic": "3PM",
-    "Value": 4.94,
-    "Time Split": "GC-7",
-    "Position": "PF"
-  },
-  {
-    "Team": "Philadelphia 76ers",
-    "Rank": "Bottom 2",
     "Statistic": "STL",
     "Value": 0.77,
     "Time Split": "GC-7",
     "Position": "PF"
   },
   {
-    "Team": "New York Knicks",
-    "Rank": "Bottom 5",
+    "Team": "Brooklyn Nets",
+    "Rank": "Bottom 4",
     "Statistic": "STL",
-    "Value": 0.89,
-    "Time Split": "GC-7",
-    "Position": "PF"
-  },
-  {
-    "Team": "Golden State Warriors",
-    "Rank": "Top 2",
-    "Statistic": "BLK",
-    "Value": 1.61,
+    "Value": 0.78,
     "Time Split": "GC-7",
     "Position": "PF"
   },
   {
     "Team": "Denver Nuggets",
-    "Rank": "Top 3",
+    "Rank": "Top 1",
     "Statistic": "BLK",
-    "Value": 1.88,
+    "Value": 1.6,
     "Time Split": "GC-7",
     "Position": "PF"
   },
   {
-    "Team": "Dallas Mavericks",
-    "Rank": "Bottom 5",
+    "Team": "Memphis Grizzlies",
+    "Rank": "Top 5",
     "Statistic": "BLK",
-    "Value": 0.62,
+    "Value": 2.44,
     "Time Split": "GC-7",
     "Position": "PF"
   },
   {
-    "Team": "Houston Rockets",
+    "Team": "Detroit Pistons",
     "Rank": "Top 2",
     "Statistic": "TO",
-    "Value": 3.51,
+    "Value": 3.0,
     "Time Split": "GC-7",
     "Position": "PF"
   },
   {
-    "Team": "Golden State Warriors",
-    "Rank": "Top 4",
+    "Team": "Memphis Grizzlies",
+    "Rank": "Top 3",
     "Statistic": "TO",
-    "Value": 3.89,
+    "Value": 3.25,
     "Time Split": "GC-7",
     "Position": "PF"
   },
@@ -4099,111 +3763,103 @@
     "Team": "Philadelphia 76ers",
     "Rank": "Top 5",
     "Statistic": "TO",
-    "Value": 4.21,
+    "Value": 3.76,
     "Time Split": "GC-7",
     "Position": "PF"
   },
   {
-    "Team": "New York Knicks",
-    "Rank": "Bottom 3",
-    "Statistic": "TO",
-    "Value": 1.61,
-    "Time Split": "GC-7",
-    "Position": "PF"
-  },
-  {
-    "Team": "Dallas Mavericks",
-    "Rank": "Bottom 5",
-    "Statistic": "TO",
-    "Value": 1.67,
-    "Time Split": "GC-7",
-    "Position": "PF"
-  },
-  {
-    "Team": "Dallas Mavericks",
-    "Rank": "Bottom 1",
-    "Statistic": "FG%",
-    "Value": 37.33,
-    "Time Split": "GC-7",
-    "Position": "PF"
-  },
-  {
-    "Team": "Miami Heat",
+    "Team": "Atlanta Hawks",
     "Rank": "Bottom 2",
-    "Statistic": "FG%",
-    "Value": 44.58,
+    "Statistic": "TO",
+    "Value": 1.58,
     "Time Split": "GC-7",
     "Position": "PF"
   },
   {
-    "Team": "Sacramento Kings",
-    "Rank": "Top 1",
-    "Statistic": "FT%",
-    "Value": 83.93,
-    "Time Split": "GC-7",
-    "Position": "PF"
-  },
-  {
-    "Team": "Dallas Mavericks",
-    "Rank": "Top 3",
-    "Statistic": "FT%",
-    "Value": 86.27,
-    "Time Split": "GC-7",
-    "Position": "PF"
-  },
-  {
-    "Team": "Houston Rockets",
-    "Rank": "Top 5",
-    "Statistic": "FT%",
-    "Value": 88.61,
-    "Time Split": "GC-7",
-    "Position": "PF"
-  },
-  {
-    "Team": "Houston Rockets",
+    "Team": "Detroit Pistons",
     "Rank": "Top 4",
+    "Statistic": "FG%",
+    "Value": 57.87,
+    "Time Split": "GC-7",
+    "Position": "PF"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Bottom 2",
+    "Statistic": "FT%",
+    "Value": 56.16,
+    "Time Split": "GC-7",
+    "Position": "PF"
+  },
+  {
+    "Team": "Brooklyn Nets",
+    "Rank": "Bottom 4",
+    "Statistic": "FT%",
+    "Value": 63.7,
+    "Time Split": "GC-7",
+    "Position": "PF"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 3",
     "Statistic": "PTS",
-    "Value": 30.79,
+    "Value": 28.6,
     "Time Split": "GC-7",
     "Position": "PG"
   },
   {
     "Team": "Atlanta Hawks",
-    "Rank": "Top 5",
+    "Rank": "Top 4",
     "Statistic": "PTS",
-    "Value": 30.95,
+    "Value": 30.86,
     "Time Split": "GC-7",
     "Position": "PG"
   },
   {
-    "Team": "Philadelphia 76ers",
-    "Rank": "Bottom 4",
+    "Team": "Detroit Pistons",
+    "Rank": "Bottom 1",
     "Statistic": "PTS",
-    "Value": 20.32,
+    "Value": 12.1,
     "Time Split": "GC-7",
     "Position": "PG"
   },
   {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 5",
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Bottom 2",
     "Statistic": "PTS",
-    "Value": 21.34,
+    "Value": 18.68,
     "Time Split": "GC-7",
     "Position": "PG"
   },
   {
-    "Team": "Houston Rockets",
+    "Team": "Denver Nuggets",
+    "Rank": "Top 1",
+    "Statistic": "REB",
+    "Value": 7.53,
+    "Time Split": "GC-7",
+    "Position": "PG"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Bottom 2",
+    "Statistic": "REB",
+    "Value": 4.4,
+    "Time Split": "GC-7",
+    "Position": "PG"
+  },
+  {
+    "Team": "Denver Nuggets",
     "Rank": "Top 2",
-    "Statistic": "REB",
-    "Value": 7.46,
+    "Statistic": "AST",
+    "Value": 9.63,
     "Time Split": "GC-7",
     "Position": "PG"
   },
   {
-    "Team": "New York Knicks",
-    "Rank": "Bottom 4",
-    "Statistic": "REB",
-    "Value": 4.97,
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 3",
+    "Statistic": "AST",
+    "Value": 11.5,
     "Time Split": "GC-7",
     "Position": "PG"
   },
@@ -4211,15 +3867,15 @@
     "Team": "Philadelphia 76ers",
     "Rank": "Top 4",
     "Statistic": "AST",
-    "Value": 11.16,
+    "Value": 11.59,
     "Time Split": "GC-7",
     "Position": "PG"
   },
   {
-    "Team": "New York Knicks",
-    "Rank": "Bottom 1",
+    "Team": "Detroit Pistons",
+    "Rank": "Bottom 3",
     "Statistic": "AST",
-    "Value": 5.82,
+    "Value": 6.23,
     "Time Split": "GC-7",
     "Position": "PG"
   },
@@ -4232,47 +3888,87 @@
     "Position": "PG"
   },
   {
-    "Team": "Golden State Warriors",
-    "Rank": "Top 1",
+    "Team": "Memphis Grizzlies",
+    "Rank": "Top 2",
     "Statistic": "3PM",
-    "Value": 4.01,
+    "Value": 4.11,
+    "Time Split": "GC-7",
+    "Position": "PG"
+  },
+  {
+    "Team": "Atlanta Hawks",
+    "Rank": "Top 3",
+    "Statistic": "3PM",
+    "Value": 4.39,
+    "Time Split": "GC-7",
+    "Position": "PG"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Bottom 1",
+    "Statistic": "3PM",
+    "Value": 1.55,
     "Time Split": "GC-7",
     "Position": "PG"
   },
   {
     "Team": "Philadelphia 76ers",
-    "Rank": "Bottom 1",
+    "Rank": "Bottom 4",
     "Statistic": "3PM",
-    "Value": 1.89,
+    "Value": 1.91,
     "Time Split": "GC-7",
     "Position": "PG"
   },
   {
-    "Team": "Golden State Warriors",
+    "Team": "Memphis Grizzlies",
+    "Rank": "Top 2",
+    "Statistic": "STL",
+    "Value": 2.46,
+    "Time Split": "GC-7",
+    "Position": "PG"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 3",
+    "Statistic": "STL",
+    "Value": 2.58,
+    "Time Split": "GC-7",
+    "Position": "PG"
+  },
+  {
+    "Team": "Detroit Pistons",
     "Rank": "Top 4",
     "Statistic": "STL",
-    "Value": 2.88,
+    "Value": 2.75,
     "Time Split": "GC-7",
     "Position": "PG"
   },
   {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 1",
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Bottom 5",
     "Statistic": "STL",
-    "Value": 0.63,
+    "Value": 1.34,
     "Time Split": "GC-7",
     "Position": "PG"
   },
   {
-    "Team": "Denver Nuggets",
-    "Rank": "Bottom 3",
-    "Statistic": "STL",
-    "Value": 1.21,
+    "Team": "Memphis Grizzlies",
+    "Rank": "Top 1",
+    "Statistic": "BLK",
+    "Value": 0.96,
     "Time Split": "GC-7",
     "Position": "PG"
   },
   {
-    "Team": "Sacramento Kings",
+    "Team": "Detroit Pistons",
+    "Rank": "Top 4",
+    "Statistic": "BLK",
+    "Value": 1.1,
+    "Time Split": "GC-7",
+    "Position": "PG"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
     "Rank": "Bottom 2",
     "Statistic": "BLK",
     "Value": 0.0,
@@ -4280,458 +3976,450 @@
     "Position": "PG"
   },
   {
-    "Team": "Houston Rockets",
-    "Rank": "Top 1",
-    "Statistic": "TO",
-    "Value": 3.9,
-    "Time Split": "GC-7",
-    "Position": "PG"
-  },
-  {
-    "Team": "Philadelphia 76ers",
+    "Team": "Los Angeles Lakers",
     "Rank": "Bottom 5",
-    "Statistic": "TO",
-    "Value": 2.12,
-    "Time Split": "GC-7",
-    "Position": "PG"
-  },
-  {
-    "Team": "Atlanta Hawks",
-    "Rank": "Top 3",
-    "Statistic": "FG%",
-    "Value": 50.58,
-    "Time Split": "GC-7",
-    "Position": "PG"
-  },
-  {
-    "Team": "Houston Rockets",
-    "Rank": "Top 5",
-    "Statistic": "FG%",
-    "Value": 53.07,
-    "Time Split": "GC-7",
-    "Position": "PG"
-  },
-  {
-    "Team": "Philadelphia 76ers",
-    "Rank": "Top 1",
-    "Statistic": "FT%",
-    "Value": 91.29,
-    "Time Split": "GC-7",
-    "Position": "PG"
-  },
-  {
-    "Team": "New York Knicks",
-    "Rank": "Top 3",
-    "Statistic": "FT%",
-    "Value": 94.37,
-    "Time Split": "GC-7",
-    "Position": "PG"
-  },
-  {
-    "Team": "Dallas Mavericks",
-    "Rank": "Top 5",
-    "Statistic": "FT%",
-    "Value": 100.0,
-    "Time Split": "GC-7",
-    "Position": "PG"
-  },
-  {
-    "Team": "Golden State Warriors",
-    "Rank": "Bottom 1",
-    "Statistic": "FT%",
-    "Value": 62.98,
-    "Time Split": "GC-7",
-    "Position": "PG"
-  },
-  {
-    "Team": "Philadelphia 76ers",
-    "Rank": "Top 2",
-    "Statistic": "PTS",
-    "Value": 23.32,
-    "Time Split": "GC-7",
-    "Position": "SF"
-  },
-  {
-    "Team": "Golden State Warriors",
-    "Rank": "Bottom 1",
-    "Statistic": "PTS",
-    "Value": 14.76,
-    "Time Split": "GC-7",
-    "Position": "SF"
-  },
-  {
-    "Team": "Houston Rockets",
-    "Rank": "Bottom 2",
-    "Statistic": "PTS",
-    "Value": 15.36,
-    "Time Split": "GC-7",
-    "Position": "SF"
-  },
-  {
-    "Team": "Denver Nuggets",
-    "Rank": "Bottom 4",
-    "Statistic": "PTS",
-    "Value": 16.13,
-    "Time Split": "GC-7",
-    "Position": "SF"
-  },
-  {
-    "Team": "Atlanta Hawks",
-    "Rank": "Bottom 4",
-    "Statistic": "REB",
-    "Value": 5.64,
-    "Time Split": "GC-7",
-    "Position": "SF"
-  },
-  {
-    "Team": "Miami Heat",
-    "Rank": "Top 2",
-    "Statistic": "3PM",
-    "Value": 4.32,
-    "Time Split": "GC-7",
-    "Position": "SF"
-  },
-  {
-    "Team": "Houston Rockets",
-    "Rank": "Bottom 1",
-    "Statistic": "3PM",
-    "Value": 1.12,
-    "Time Split": "GC-7",
-    "Position": "SF"
-  },
-  {
-    "Team": "Atlanta Hawks",
-    "Rank": "Bottom 2",
-    "Statistic": "3PM",
-    "Value": 1.49,
-    "Time Split": "GC-7",
-    "Position": "SF"
-  },
-  {
-    "Team": "Philadelphia 76ers",
-    "Rank": "Bottom 5",
-    "Statistic": "3PM",
-    "Value": 1.81,
-    "Time Split": "GC-7",
-    "Position": "SF"
-  },
-  {
-    "Team": "Houston Rockets",
-    "Rank": "Top 2",
-    "Statistic": "STL",
-    "Value": 1.92,
-    "Time Split": "GC-7",
-    "Position": "SF"
-  },
-  {
-    "Team": "New York Knicks",
-    "Rank": "Bottom 2",
-    "Statistic": "STL",
-    "Value": 0.7,
-    "Time Split": "GC-7",
-    "Position": "SF"
-  },
-  {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 3",
-    "Statistic": "STL",
-    "Value": 0.74,
-    "Time Split": "GC-7",
-    "Position": "SF"
-  },
-  {
-    "Team": "Sacramento Kings",
-    "Rank": "Bottom 4",
-    "Statistic": "STL",
-    "Value": 0.79,
-    "Time Split": "GC-7",
-    "Position": "SF"
-  },
-  {
-    "Team": "New York Knicks",
-    "Rank": "Top 1",
-    "Statistic": "TO",
-    "Value": 2.8,
-    "Time Split": "GC-7",
-    "Position": "SF"
-  },
-  {
-    "Team": "Sacramento Kings",
-    "Rank": "Top 3",
-    "Statistic": "TO",
-    "Value": 3.18,
-    "Time Split": "GC-7",
-    "Position": "SF"
-  },
-  {
-    "Team": "Miami Heat",
-    "Rank": "Top 4",
-    "Statistic": "TO",
-    "Value": 3.57,
-    "Time Split": "GC-7",
-    "Position": "SF"
-  },
-  {
-    "Team": "Golden State Warriors",
-    "Rank": "Bottom 5",
-    "Statistic": "TO",
-    "Value": 1.24,
-    "Time Split": "GC-7",
-    "Position": "SF"
-  },
-  {
-    "Team": "Houston Rockets",
-    "Rank": "Bottom 2",
-    "Statistic": "FG%",
-    "Value": 33.98,
-    "Time Split": "GC-7",
-    "Position": "SF"
-  },
-  {
-    "Team": "Golden State Warriors",
-    "Rank": "Bottom 3",
-    "Statistic": "FG%",
-    "Value": 36.09,
-    "Time Split": "GC-7",
-    "Position": "SF"
-  },
-  {
-    "Team": "Philadelphia 76ers",
-    "Rank": "Top 1",
-    "Statistic": "FT%",
-    "Value": 87.03,
-    "Time Split": "GC-7",
-    "Position": "SF"
-  },
-  {
-    "Team": "Miami Heat",
-    "Rank": "Top 3",
-    "Statistic": "FT%",
-    "Value": 92.97,
-    "Time Split": "GC-7",
-    "Position": "SF"
-  },
-  {
-    "Team": "Sacramento Kings",
-    "Rank": "Bottom 3",
-    "Statistic": "FT%",
-    "Value": 64.79,
-    "Time Split": "GC-7",
-    "Position": "SF"
-  },
-  {
-    "Team": "Sacramento Kings",
-    "Rank": "Top 3",
-    "Statistic": "PTS",
-    "Value": 24.16,
-    "Time Split": "GC-7",
-    "Position": "SG"
-  },
-  {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 1",
-    "Statistic": "PTS",
-    "Value": 14.37,
-    "Time Split": "GC-7",
-    "Position": "SG"
-  },
-  {
-    "Team": "Atlanta Hawks",
-    "Rank": "Bottom 2",
-    "Statistic": "PTS",
-    "Value": 15.6,
-    "Time Split": "GC-7",
-    "Position": "SG"
-  },
-  {
-    "Team": "New York Knicks",
-    "Rank": "Top 1",
-    "Statistic": "REB",
-    "Value": 7.05,
-    "Time Split": "GC-7",
-    "Position": "SG"
-  },
-  {
-    "Team": "Dallas Mavericks",
-    "Rank": "Top 2",
-    "Statistic": "REB",
-    "Value": 7.4,
-    "Time Split": "GC-7",
-    "Position": "SG"
-  },
-  {
-    "Team": "Golden State Warriors",
-    "Rank": "Bottom 3",
-    "Statistic": "REB",
-    "Value": 4.36,
-    "Time Split": "GC-7",
-    "Position": "SG"
-  },
-  {
-    "Team": "Philadelphia 76ers",
-    "Rank": "Bottom 4",
-    "Statistic": "REB",
-    "Value": 4.41,
-    "Time Split": "GC-7",
-    "Position": "SG"
-  },
-  {
-    "Team": "Denver Nuggets",
-    "Rank": "Bottom 5",
-    "Statistic": "REB",
-    "Value": 4.69,
-    "Time Split": "GC-7",
-    "Position": "SG"
-  },
-  {
-    "Team": "Philadelphia 76ers",
-    "Rank": "Bottom 2",
-    "Statistic": "AST",
-    "Value": 3.62,
-    "Time Split": "GC-7",
-    "Position": "SG"
-  },
-  {
-    "Team": "Sacramento Kings",
-    "Rank": "Bottom 3",
-    "Statistic": "AST",
-    "Value": 3.84,
-    "Time Split": "GC-7",
-    "Position": "SG"
-  },
-  {
-    "Team": "Golden State Warriors",
-    "Rank": "Top 1",
-    "Statistic": "3PM",
-    "Value": 3.87,
-    "Time Split": "GC-7",
-    "Position": "SG"
-  },
-  {
-    "Team": "Atlanta Hawks",
-    "Rank": "Bottom 2",
-    "Statistic": "3PM",
-    "Value": 1.68,
-    "Time Split": "GC-7",
-    "Position": "SG"
-  },
-  {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 3",
-    "Statistic": "3PM",
-    "Value": 1.8,
-    "Time Split": "GC-7",
-    "Position": "SG"
-  },
-  {
-    "Team": "Dallas Mavericks",
-    "Rank": "Bottom 4",
-    "Statistic": "3PM",
-    "Value": 2.05,
-    "Time Split": "GC-7",
-    "Position": "SG"
-  },
-  {
-    "Team": "Golden State Warriors",
-    "Rank": "Bottom 2",
-    "Statistic": "STL",
-    "Value": 0.59,
-    "Time Split": "GC-7",
-    "Position": "SG"
-  },
-  {
-    "Team": "Houston Rockets",
-    "Rank": "Bottom 3",
-    "Statistic": "STL",
-    "Value": 0.6,
-    "Time Split": "GC-7",
-    "Position": "SG"
-  },
-  {
-    "Team": "Philadelphia 76ers",
-    "Rank": "Bottom 4",
-    "Statistic": "STL",
-    "Value": 0.72,
-    "Time Split": "GC-7",
-    "Position": "SG"
-  },
-  {
-    "Team": "Sacramento Kings",
-    "Rank": "Bottom 2",
     "Statistic": "BLK",
-    "Value": 0.12,
+    "Value": 0.21,
     "Time Split": "GC-7",
-    "Position": "SG"
-  },
-  {
-    "Team": "Golden State Warriors",
-    "Rank": "Bottom 3",
-    "Statistic": "BLK",
-    "Value": 0.19,
-    "Time Split": "GC-7",
-    "Position": "SG"
-  },
-  {
-    "Team": "Denver Nuggets",
-    "Rank": "Top 2",
-    "Statistic": "TO",
-    "Value": 3.04,
-    "Time Split": "GC-7",
-    "Position": "SG"
-  },
-  {
-    "Team": "Dallas Mavericks",
-    "Rank": "Top 4",
-    "Statistic": "TO",
-    "Value": 3.29,
-    "Time Split": "GC-7",
-    "Position": "SG"
+    "Position": "PG"
   },
   {
     "Team": "Atlanta Hawks",
+    "Rank": "Top 1",
+    "Statistic": "TO",
+    "Value": 3.76,
+    "Time Split": "GC-7",
+    "Position": "PG"
+  },
+  {
+    "Team": "Memphis Grizzlies",
+    "Rank": "Top 2",
+    "Statistic": "TO",
+    "Value": 3.97,
+    "Time Split": "GC-7",
+    "Position": "PG"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
     "Rank": "Bottom 2",
     "Statistic": "TO",
-    "Value": 1.26,
+    "Value": 1.82,
     "Time Split": "GC-7",
-    "Position": "SG"
+    "Position": "PG"
   },
   {
     "Team": "Philadelphia 76ers",
-    "Rank": "Bottom 4",
+    "Rank": "Bottom 5",
     "Statistic": "TO",
-    "Value": 1.51,
+    "Value": 2.03,
     "Time Split": "GC-7",
-    "Position": "SG"
+    "Position": "PG"
   },
   {
-    "Team": "Sacramento Kings",
-    "Rank": "Top 3",
+    "Team": "Atlanta Hawks",
+    "Rank": "Top 1",
+    "Statistic": "FG%",
+    "Value": 47.84,
+    "Time Split": "GC-7",
+    "Position": "PG"
+  },
+  {
+    "Team": "Brooklyn Nets",
+    "Rank": "Top 4",
     "Statistic": "FG%",
     "Value": 50.0,
     "Time Split": "GC-7",
+    "Position": "PG"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Bottom 1",
+    "Statistic": "FG%",
+    "Value": 35.28,
+    "Time Split": "GC-7",
+    "Position": "PG"
+  },
+  {
+    "Team": "Denver Nuggets",
+    "Rank": "Bottom 2",
+    "Statistic": "FG%",
+    "Value": 37.1,
+    "Time Split": "GC-7",
+    "Position": "PG"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Bottom 3",
+    "Statistic": "FG%",
+    "Value": 39.45,
+    "Time Split": "GC-7",
+    "Position": "PG"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Top 4",
+    "Statistic": "FT%",
+    "Value": 96.07,
+    "Time Split": "GC-7",
+    "Position": "PG"
+  },
+  {
+    "Team": "Brooklyn Nets",
+    "Rank": "Bottom 4",
+    "Statistic": "FT%",
+    "Value": 75.0,
+    "Time Split": "GC-7",
+    "Position": "PG"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Bottom 5",
+    "Statistic": "FT%",
+    "Value": 75.88,
+    "Time Split": "GC-7",
+    "Position": "PG"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Top 3",
+    "Statistic": "PTS",
+    "Value": 24.48,
+    "Time Split": "GC-7",
+    "Position": "SF"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Top 5",
+    "Statistic": "PTS",
+    "Value": 28.54,
+    "Time Split": "GC-7",
+    "Position": "SF"
+  },
+  {
+    "Team": "Denver Nuggets",
+    "Rank": "Bottom 5",
+    "Statistic": "PTS",
+    "Value": 17.13,
+    "Time Split": "GC-7",
+    "Position": "SF"
+  },
+  {
+    "Team": "Brooklyn Nets",
+    "Rank": "Top 1",
+    "Statistic": "REB",
+    "Value": 8.46,
+    "Time Split": "GC-7",
+    "Position": "SF"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Top 5",
+    "Statistic": "REB",
+    "Value": 10.55,
+    "Time Split": "GC-7",
+    "Position": "SF"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Bottom 3",
+    "Statistic": "REB",
+    "Value": 5.25,
+    "Time Split": "GC-7",
+    "Position": "SF"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 1",
+    "Statistic": "AST",
+    "Value": 4.65,
+    "Time Split": "GC-7",
+    "Position": "SF"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Top 4",
+    "Statistic": "AST",
+    "Value": 5.22,
+    "Time Split": "GC-7",
+    "Position": "SF"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 4",
+    "Statistic": "3PM",
+    "Value": 4.55,
+    "Time Split": "GC-7",
+    "Position": "SF"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Top 5",
+    "Statistic": "3PM",
+    "Value": 5.31,
+    "Time Split": "GC-7",
+    "Position": "SF"
+  },
+  {
+    "Team": "Atlanta Hawks",
+    "Rank": "Bottom 1",
+    "Statistic": "3PM",
+    "Value": 1.35,
+    "Time Split": "GC-7",
+    "Position": "SF"
+  },
+  {
+    "Team": "Brooklyn Nets",
+    "Rank": "Bottom 4",
+    "Statistic": "3PM",
+    "Value": 1.69,
+    "Time Split": "GC-7",
+    "Position": "SF"
+  },
+  {
+    "Team": "Philadelphia 76ers",
+    "Rank": "Bottom 5",
+    "Statistic": "3PM",
+    "Value": 1.82,
+    "Time Split": "GC-7",
+    "Position": "SF"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Top 5",
+    "Statistic": "BLK",
+    "Value": 1.77,
+    "Time Split": "GC-7",
+    "Position": "SF"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Bottom 1",
+    "Statistic": "BLK",
+    "Value": 0.17,
+    "Time Split": "GC-7",
+    "Position": "SF"
+  },
+  {
+    "Team": "Memphis Grizzlies",
+    "Rank": "Bottom 3",
+    "Statistic": "TO",
+    "Value": 0.91,
+    "Time Split": "GC-7",
+    "Position": "SF"
+  },
+  {
+    "Team": "Denver Nuggets",
+    "Rank": "Bottom 4",
+    "Statistic": "TO",
+    "Value": 1.29,
+    "Time Split": "GC-7",
+    "Position": "SF"
+  },
+  {
+    "Team": "Denver Nuggets",
+    "Rank": "Top 1",
+    "Statistic": "FG%",
+    "Value": 49.37,
+    "Time Split": "GC-7",
+    "Position": "SF"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Top 5",
+    "Statistic": "FG%",
+    "Value": 53.89,
+    "Time Split": "GC-7",
+    "Position": "SF"
+  },
+  {
+    "Team": "Atlanta Hawks",
+    "Rank": "Top 4",
+    "Statistic": "FT%",
+    "Value": 91.26,
+    "Time Split": "GC-7",
+    "Position": "SF"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 5",
+    "Statistic": "FT%",
+    "Value": 94.38,
+    "Time Split": "GC-7",
+    "Position": "SF"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Top 1",
+    "Statistic": "PTS",
+    "Value": 23.89,
+    "Time Split": "GC-7",
     "Position": "SG"
   },
   {
-    "Team": "Miami Heat",
+    "Team": "Brooklyn Nets",
+    "Rank": "Bottom 3",
+    "Statistic": "PTS",
+    "Value": 15.77,
+    "Time Split": "GC-7",
+    "Position": "SG"
+  },
+  {
+    "Team": "Philadelphia 76ers",
     "Rank": "Bottom 1",
-    "Statistic": "FG%",
-    "Value": 36.17,
+    "Statistic": "REB",
+    "Value": 4.05,
+    "Time Split": "GC-7",
+    "Position": "SG"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Bottom 2",
+    "Statistic": "REB",
+    "Value": 4.2,
+    "Time Split": "GC-7",
+    "Position": "SG"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Bottom 4",
+    "Statistic": "REB",
+    "Value": 4.32,
+    "Time Split": "GC-7",
+    "Position": "SG"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Top 4",
+    "Statistic": "AST",
+    "Value": 7.38,
+    "Time Split": "GC-7",
+    "Position": "SG"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 5",
+    "Statistic": "AST",
+    "Value": 7.79,
+    "Time Split": "GC-7",
+    "Position": "SG"
+  },
+  {
+    "Team": "Philadelphia 76ers",
+    "Rank": "Bottom 3",
+    "Statistic": "AST",
+    "Value": 3.5,
+    "Time Split": "GC-7",
+    "Position": "SG"
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Rank": "Top 5",
+    "Statistic": "3PM",
+    "Value": 4.71,
+    "Time Split": "GC-7",
+    "Position": "SG"
+  },
+  {
+    "Team": "Brooklyn Nets",
+    "Rank": "Bottom 1",
+    "Statistic": "3PM",
+    "Value": 1.5,
     "Time Split": "GC-7",
     "Position": "SG"
   },
   {
     "Team": "Atlanta Hawks",
     "Rank": "Bottom 3",
-    "Statistic": "FG%",
-    "Value": 37.18,
+    "Statistic": "3PM",
+    "Value": 2.06,
     "Time Split": "GC-7",
     "Position": "SG"
   },
   {
-    "Team": "Houston Rockets",
-    "Rank": "Top 5",
-    "Statistic": "FT%",
-    "Value": 94.31,
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Top 2",
+    "Statistic": "STL",
+    "Value": 2.02,
+    "Time Split": "GC-7",
+    "Position": "SG"
+  },
+  {
+    "Team": "Philadelphia 76ers",
+    "Rank": "Bottom 3",
+    "Statistic": "STL",
+    "Value": 0.89,
+    "Time Split": "GC-7",
+    "Position": "SG"
+  },
+  {
+    "Team": "Atlanta Hawks",
+    "Rank": "Bottom 4",
+    "Statistic": "STL",
+    "Value": 0.9,
+    "Time Split": "GC-7",
+    "Position": "SG"
+  },
+  {
+    "Team": "Memphis Grizzlies",
+    "Rank": "Top 1",
+    "Statistic": "BLK",
+    "Value": 0.96,
+    "Time Split": "GC-7",
+    "Position": "SG"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Top 3",
+    "Statistic": "TO",
+    "Value": 3.14,
+    "Time Split": "GC-7",
+    "Position": "SG"
+  },
+  {
+    "Team": "Philadelphia 76ers",
+    "Rank": "Bottom 1",
+    "Statistic": "TO",
+    "Value": 1.3,
+    "Time Split": "GC-7",
+    "Position": "SG"
+  },
+  {
+    "Team": "Brooklyn Nets",
+    "Rank": "Bottom 2",
+    "Statistic": "TO",
+    "Value": 1.37,
+    "Time Split": "GC-7",
+    "Position": "SG"
+  },
+  {
+    "Team": "Atlanta Hawks",
+    "Rank": "Bottom 3",
+    "Statistic": "TO",
+    "Value": 1.54,
+    "Time Split": "GC-7",
+    "Position": "SG"
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Rank": "Top 2",
+    "Statistic": "FG%",
+    "Value": 51.24,
+    "Time Split": "GC-7",
+    "Position": "SG"
+  },
+  {
+    "Team": "Cleveland Cavaliers",
+    "Rank": "Top 4",
+    "Statistic": "FG%",
+    "Value": 53.15,
+    "Time Split": "GC-7",
+    "Position": "SG"
+  },
+  {
+    "Team": "Brooklyn Nets",
+    "Rank": "Bottom 2",
+    "Statistic": "FG%",
+    "Value": 37.38,
     "Time Split": "GC-7",
     "Position": "SG"
   },
@@ -4739,23 +4427,23 @@
     "Team": "Atlanta Hawks",
     "Rank": "Bottom 1",
     "Statistic": "FT%",
-    "Value": 56.25,
+    "Value": 62.86,
     "Time Split": "GC-7",
     "Position": "SG"
   },
   {
-    "Team": "Miami Heat",
-    "Rank": "Bottom 2",
+    "Team": "Denver Nuggets",
+    "Rank": "Bottom 3",
     "Statistic": "FT%",
-    "Value": 65.99,
+    "Value": 72.17,
     "Time Split": "GC-7",
     "Position": "SG"
   },
   {
-    "Team": "Golden State Warriors",
+    "Team": "Detroit Pistons",
     "Rank": "Bottom 4",
     "Statistic": "FT%",
-    "Value": 68.83,
+    "Value": 74.8,
     "Time Split": "GC-7",
     "Position": "SG"
   }
