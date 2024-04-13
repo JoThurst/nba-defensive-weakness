@@ -84,7 +84,7 @@ function generateTablesByTeamAndPosition(teamsData) {
         for (const [position, timeSplits] of Object.entries(positions)) {
             const tableHtml = `
                 <div class="">
-                    <h3 class="mt-4">${teamName} - ${position}</h3>
+                    <h3 class="mt-4 fw-bold text-center">${teamName} - ${position}</h3>
                     <table class="table table-hover table-responsive table-bordered table-sm">
                         <caption> Defensive Strength/Weaknessess for ${teamName} at ${position} </caption>
                         <thead class="thead-dark">
@@ -121,11 +121,11 @@ function displayTablesSideBySide(matchups, tablesByTeam) {
 
     matchups.forEach(matchup => {
         const matchupDiv = document.createElement('div');
-        matchupDiv.classList.add('row', 'matchup');
+        matchupDiv.classList.add('row', 'matchup' );
 
         // Centered title for the matchup
         const title = document.createElement('h3');
-        title.classList.add('matchup-title');
+        title.classList.add('matchup-title', 'text-white');
         title.textContent = matchup;
         matchupDiv.appendChild(title);
 
@@ -155,11 +155,11 @@ function displayTablesSideBySide(matchups, tablesByTeam) {
             }
         }
 
-                // Create rows and columns for each position in the matchup
+        // Create rows and columns for each position in the matchup
         for (const position in tablesInMatchup[teams[0]]) {
             // Create a new row for each position
             containerRow = document.createElement('div');
-            containerRow.classList.add('row');
+            containerRow.classList.add('row' , 'nba-table-row' , 'bg-white');
             containerFluid.appendChild(containerRow);
 
             // Create a column for each team
@@ -168,21 +168,15 @@ function displayTablesSideBySide(matchups, tablesByTeam) {
                 colDiv.classList.add('col');
                 colDiv.innerHTML = tablesInMatchup[team][position] || ''; // Get the table HTML for the current position and team
                 colDiv.querySelectorAll('td').forEach(td => {
-
                     const content = td.textContent.trim();
-
                     if (content.includes('Bottom')) {
-
                         const bottomLevel = parseInt(content.split(' ')[1]);
                         const opacity = bottomLevel / 5;
                         td.style.backgroundColor = `rgba(0, 255, 0, ${opacity})`;
-
                     } else if (content.includes('Top')) {
-
                         const topLevel = parseInt(content.split(' ')[1]);
                         const opacity = topLevel / 5;
                         td.style.backgroundColor = `rgba(255, 0, 0, ${opacity})`;
-
                     }
                 });
                 containerRow.appendChild(colDiv);
@@ -190,10 +184,41 @@ function displayTablesSideBySide(matchups, tablesByTeam) {
 
             positionCount++;
         }
+
+        // Create a div to contain all toggle buttons
+        const toggleButtonsContainer = document.createElement('div');
+        toggleButtonsContainer.classList.add('toggle-buttons-container', 'd-flex', 'justify-content-center', 'my-3');
+
+        // Create a button for toggling each row
+        const rowToggles = containerFluid.querySelectorAll('.row');
+        rowToggles.forEach((row, index) => {
+            const position = Object.keys(tablesInMatchup[teams[0]])[index];
+            const toggleButton = document.createElement('button');
+            toggleButton.textContent = position;
+            toggleButton.classList.add('toggle-button', 'w-auto', 'btn', 'btn-secondary', 'mx-1');
+            toggleButton.addEventListener('click', () => {
+                row.classList.toggle('d-none');
+            });
+            toggleButtonsContainer.appendChild(toggleButton);
+        });
+
+        // Create a button for toggling the entire matchup
+        const toggleMatchupButton = document.createElement('button');
+        toggleMatchupButton.textContent = 'Toggle Matchup';
+        toggleMatchupButton.classList.add('toggle-button', 'btn', 'btn-secondary', 'mx-1');
+        toggleMatchupButton.addEventListener('click', () => {
+            containerFluid.classList.toggle('d-none');
+        });
+        toggleButtonsContainer.appendChild(toggleMatchupButton);
+
+        // Append the toggle buttons container to the matchup div
+        matchupDiv.appendChild(toggleButtonsContainer);
         matchupDiv.appendChild(containerFluid);
         container.appendChild(matchupDiv);
     });
 }
+
+
 
 function containsStatRowObj(arrayObj, string){
     for (let i = 0; i < arrayObj.length; i++) {
