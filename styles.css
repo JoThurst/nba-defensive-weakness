@@ -1,49 +1,54 @@
-
+.nba-table-row{
+    border: 2px solid #ccc; 
+    padding: 20px; 
+    margin:20px;
+}
 
 /* Optional: Apply additional styling to the tables */
 .matchup table {
     width: 100%;
 }
-    /* Style for matchup divs */
-    .matchup {
-        border: 2px solid #ccc; /* Add border */
-        padding: 20px; /* Add padding */
-    }
-    
-    /* Style for centered title */
-    .matchup-title {
-        text-align: center;
-        font-weight: bold;
-        margin-bottom: 20px;
-    }
 
-    .table-responsive table tbody td {
-        max-width: 10px; /* Adjust the width as needed */
-        overflow: hidden;
-        text-overflow: ellipsis; /* Truncate long text */
-        white-space: nowrap; /* Prevent text wrapping */
-    }
+/* Style for matchup divs */
+.matchup {
+    border: 2px solid #ccc; /* Add border */
+    padding: 20px; /* Add padding */
+}
+
+/* Style for centered title */
+.matchup-title {
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.table-responsive table tbody td {
+    max-width: 10px; /* Adjust the width as needed */
+    overflow: hidden;
+    text-overflow: ellipsis; /* Truncate long text */
+    white-space: nowrap; /* Prevent text wrapping */
+}
 
 
-    /* Style for table cells */
-    td {
-        padding: 8px; /* Adjust cell padding */
-    }
+/* Style for table cells */
+td {
+    padding: 8px; /* Adjust cell padding */
+}
 
-    /* Color coding based on cell content */
-    td[data-value*="Bottom"] {
-        background-color: rgba(0, 255, 0, 0.2); /* Green with varying opacity */
-    }
+/* Color coding based on cell content */
+td[data-value*="Bottom"] {
+    background-color: rgba(0, 255, 0, 0.2); /* Green with varying opacity */
+}
 
-    td[data-value*="Top"] {
-        background-color: rgba(255, 0, 0, 0.2); /* Red with varying opacity */
-    }
+td[data-value*="Top"] {
+    background-color: rgba(255, 0, 0, 0.2); /* Red with varying opacity */
+}
 
-    /* Adjust background color intensity for "Bottom" and "Top" cells */
-    td[data-value="Bottom 1"] {
-        background-color: rgba(0, 255, 0, 0.8); /* Most intense green */
-    }
+/* Adjust background color intensity for "Bottom" and "Top" cells */
+td[data-value="Bottom 1"] {
+    background-color: rgba(0, 255, 0, 0.8); /* Most intense green */
+}
 
-    td[data-value="Top 1"] {
-        background-color: rgba(255, 0, 0, 0.8); /* Most intense red */
-    }
+td[data-value="Top 1"] {
+    background-color: rgba(255, 0, 0, 0.8); /* Most intense red */
+}
