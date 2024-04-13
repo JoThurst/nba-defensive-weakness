@@ -1,49 +1,55 @@
-from def_weakness import scrape_defense_data
-from get_todays_nba_games import get_nba_games
-from weakness_eval import evaluate_csv_files
-from generate_html import generate_html_table
-from vizualize_weakness import visualize_team_data
-from bs4 import BeautifulSoup
-import json
+import os
+import pandas as pd
+from datetime import datetime
+import logging
 
-#RUN DEF Weaknesses
-url = 'https://www.fantasypros.com/nba/defense-vs-position.php?year=2023'
-scrape_defense_data(url)
+# Importing the custom functions from another script if separated
+# from your_scraping_module import scrape_defense_data, evaluate_csv_files
 
-# Directory containing CSV files
-csv_directory = './defense-data'
+def setup_logging():
+    # Setup basic logging configuration
+    logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s: %(message)s', filename='app_log.log')
 
-# Call the function to evaluate CSV files and store the textual outputs
-weakness_data = evaluate_csv_files(csv_directory)
+def main():
+    setup_logging()
+    
+    # URL for scraping data
+    url = 'https://www.fantasypros.com/nba/defense-vs-position.php?year=2023'
 
-# Get the list of NBA games for today
-api_key = '8473fbc8-8d5e-4124-a96b-abd4819dec3f'  # Replace with your actual API key
-try:
-    teams_playing_today = get_nba_games(api_key)
-    print("Successfully fetched NBA games for today:", teams_playing_today)
+    # Directory setup
+    date_str = datetime.now().strftime('%Y-%m-%d')
+    csv_directory = f'./defense-data/{date_str}/'
+    if not os.path.exists(csv_directory):
+        os.makedirs(csv_directory)
+        logging.info(f"Created directory {csv_directory}")
 
-    filtered_data = [obj for obj in weakness_data if obj['Team'] in teams_playing_today]
-    # Call the function with the weakness data
-    visualize_team_data(filtered_data)
+    # Step 1: Scrape the data
+    logging.info("Starting the data scraping process...")
+    try:
+        scrape_defense_data(url)
+        logging.info("Data scraping completed successfully.")
+    except Exception as e:
+        logging.error(f"Failed during scraping: {e}")
+        return
 
-    # Generate HTML table
-    #html_table = generate_html_table(filtered_data)
+    # Step 2: Evaluate the scraped CSV data
+    logging.info("Evaluating the scraped CSV data...")
+    teams_data, errors = evaluate_csv_files(csv_directory)
 
-    # Write HTML table to a file
-    # with open('teams_data.html', 'w') as f:
-    #     f.write(html_table)
-    # Convert filtered data to JSON
-    json_data = json.dumps(filtered_data, indent=2)  # Use indent=2 for pretty formatting
+    # Handle possible errors during CSV evaluation
+    if errors:
+        logging.error("Errors encountered during CSV evaluation:")
+        for error in errors:
+            logging.error(error)
 
-    # Write JSON data to file
-    with open('nba_weakness_data.json', 'w') as f:
-        f.write(json_data)
+    # Handle the results from the CSV evaluation
+    if teams_data:
+        data_frame = pd.DataFrame(teams_data)
+        data_frame.to_csv(f'{csv_directory}summary.csv', index=False)
+        logging.info("Data processed and saved successfully:")
+        logging.info(data_frame)
+    else:
+        logging.info("No meaningful data was processed from the CSV files.")
 
-    print('Filtered data saved to nba_weakness_data.json')
-
-
-except ValueError as ve:
-    print(ve)
-
-
-
+if __name__ == '__main__':
+    main()
