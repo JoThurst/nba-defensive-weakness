@@ -239,10 +239,10 @@ function generateTableRows(timeSplits) {
             let statrow = [statistic, null, null, null, null, null]
             index = containsStatRowObj(tableRowsObj,statistic)
             if(index === false){
-                console.log("False Contains Keeping New Statrow", statrow)
+                //console.log("False Contains Keeping New Statrow", statrow)
                 
             }else{
-                console.log("True Grabbing Stored Statrow", index)
+                //console.log("True Grabbing Stored Statrow", index)
                 statrow = tableRowsObj[index]
                 console.log(statrow)
             }

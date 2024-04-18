@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NBA Player Page</title>
+  <!-- Bootstrap CSS -->
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+  <!-- Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+  <div class="container-fluid">
+    <h1 class="mt-5 mb-4 text-center">NBA Matchup Page</h1>
+
+    <div class="row">
+
+      <div class="col">
+          <div class="card mb-4">
+            <div class="card-header">
+              <h4 class="card-title">Projected Scores, Spreads, and Team Information</h4>
+            </div>
+            <div class="card-body text-center" id="projected-scores">
+                <div class="row">
+                    <div class="col">
+                        <div class="card-body">
+                            <h2 class="card-title">Cle</h2>
+                            <div class="team icon">ICON</div>
+                            <h3 class="card-text">50% +114</h3>
+                        </div>
+                    </div>
+                    <div class="col">
+
+                        <div class="card-body">
+                                <h5 class="card-text">AT</h5>
+                                <h5 class="card-title">11:10 AM ET</h5>
+                                
+                                <h5 class="card-text">Open: O/U: <span class="text-inline">9.5</span> | <span>BOS-122</span></h5>
+                                <h5 class="card-text">Live: O/U: <span class="text-inline">9.5</span> | <span>BOS-122</span></h5>
+                                
+                            
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card-body">
+                            <h2 class="card-title">BOS</h2>
+                            <div class="team icon">ICON</div>
+                            <h3 class="card-text">50% -422</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                  <div class="col">
+                    <h5 class="card-text">Record: 10-5 (7-2 Road)</h5>
+                    <h5 class="card-text">Record: 10-5</h5>
+                    <h5 class="card-text">Record: 10-5</h5>
+                  </div>
+                  <div class="col">
+                    <h5 class="card-text">Record: 10-5 (7-2 Road)</h5>
+                    <h5 class="card-text">Record: 10-5</h5>
+                    <h5 class="card-text">Record: 10-5</h5>
+                  </div>
+                </div>
+            </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card mb-4">
+          <div class="card-header">
+            <h4 class="card-title">Starting Lineups</h4>
+          </div>
+          <div class="card-body container text-center " id="starting-lineups">
+            <!-- Starting lineups will be dynamically filled here -->
+            <div class="row">
+              <div class="col ">
+                
+                  <h5 class="card-title">Boston Celtics</h5>
+                  <ul class="list-group">
+                    <li class="list-group-item">PG : Jrue Holiday</li>
+                    <li class="list-group-item">SG : Derrick White</li>
+                    <li class="list-group-item">SF : Jaylen Brown</li>
+                    <li class="list-group-item">PF : Jayson Tatum</li>
+                    <li class="list-group-item">C  : Kristaps Porzingus</li>
+                  </ul>
+                
+
+              </div>
+              <div class="col">
+                <h5 class="card-title">Sacremento Kings</h5>
+                <ul class="list-group">
+                  <li class="list-group-item flex">PG : DeArron Fox</li>
+                  <li class="list-group-item">SG : Keon Ellis</li>
+                  <li class="list-group-item">SF : Keegan Murray</li>
+                  <li class="list-group-item">PF : Harrison Barnes</li>
+                  <li class="list-group-item">C  : Domantis Sabonis</li>
+                </ul>
+              </div>
+            </div>
+
+
+
+            
+          </div>
+        </div>
+      </div>
+
+    </div>
+    <!-- Starting Lineups -->
+
+
+
+    <div class="row justify-content-center align-items-center text-center">
+      <div class="col" id="def-table-col">
+        <div class="row">
+          <div class="col">
+            <div class="">
+                <h4 class="mt-4 text-center">Projected Player: <span class="fw-bold">Team</span></h4>
+                <h5 class="mt-4 fw-bold text-center">New York Knicks - ALL</h5>
+                <div class="table-responsive">
+                  <table class="table table-hover table-bordered table-sm">
+                      <caption> Defensive Strength/Weaknessess for New York Knicks at ALL </caption>
+                      <thead class="thead-dark">
+                          <tr>
+                              <th scope="col">Statistic</th>
+                              <th scope="col">Season</th>
+                              <th scope="col">Last 7</th>
+                              <th scope="col">Last 15</th>
+                              <th scope="col">Last 30</th>
+                          </tr>
+                      </thead>
+                      <tbody>
+                          <tr> <th scope="row">REB</th>                
+              <td style="background-color: rgba(0, 255, 0, 0.4);">Bottom 2</td>
+              <td></td>
+              <td style="background-color: rgba(0, 255, 0, 0.4);">Bottom 2</td>
+              <td style="background-color: rgba(0, 255, 0, 0.4);">Bottom 2</td>
+          </tr>
+      <tr> <th scope="row">FT%</th>                
+              <td style="background-color: rgba(0, 255, 0, 0.8);">Bottom 4</td>
+              <td style="background-color: rgb(0, 255, 0);">Bottom 5</td>
+              <td></td>
+              <td></td>
+          </tr>
+      <tr> <th scope="row">PTS</th>                
+              <td></td>
+              <td></td>
+              <td style="background-color: rgba(0, 255, 0, 0.8);">Bottom 4</td>
+              <td></td>
+          </tr>
+      <tr> <th scope="row">STL</th>                
+              <td></td>
+              <td style="background-color: rgba(0, 255, 0, 0.4);">Bottom 2</td>
+              <td></td>
+              <td></td>
+          </tr>
+      <tr> <th scope="row">FG%</th>                
+              <td></td>
+              <td style="background-color: rgba(255, 0, 0, 0.2);">Top 1</td>
+              <td></td>
+              <td></td>
+          </tr>
+
+                      </tbody>
+                  </table>
+              </div>
+
+              <div class="btn-group" role="group" aria-label="Basic example">
+                <button type="button" class="btn btn-secondary">All</button>
+                <button type="button" class="btn btn-secondary">C</button>
+                <button type="button" class="btn btn-secondary">PF</button>
+                <button type="button" class="btn btn-secondary">SF</button>
+                <button type="button" class="btn btn-secondary">SG</button>
+                <button type="button" class="btn btn-secondary">PG</button>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+              <div class="">
+                  <h4 class="mt-4 text-center">Projected Player: <span class="fw-bold">Team</span></h4>
+                  <h5 class="mt-4 fw-bold text-center">Brooklyn Nets - ALL</h5>
+                  <div class="table-responsive">
+                      <table class="table table-hover table-bordered table-sm">
+                        <caption> Defensive Strength/Weaknessess for Brooklyn Nets at ALL </caption>
+                        <thead class="thead-dark">
+                            <tr>
+                                <th scope="col">Statistic</th>
+                                <th scope="col">Season</th>
+                                <th scope="col">Last 7</th>
+                                <th scope="col">Last 15</th>
+                                <th scope="col">Last 30</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr> <th scope="row">TO</th>                
+                <td style="background-color: rgba(0, 255, 0, 0.8);">Bottom 4</td>
+                <td style="background-color: rgba(0, 255, 0, 0.4);">Bottom 2</td>
+                <td style="background-color: rgba(0, 255, 0, 0.8);">Bottom 4</td>
+                <td></td>
+            </tr>
+        <tr> <th scope="row">FT%</th>                
+                <td style="background-color: rgb(255, 0, 0);">Top 5</td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+        <tr> <th scope="row">REB</th>                
+                <td></td>
+                <td style="background-color: rgba(255, 0, 0, 0.2);">Top 1</td>
+                <td></td>
+                <td></td>
+            </tr>
+        <tr> <th scope="row">BLK</th>                
+                <td></td>
+                <td style="background-color: rgba(255, 0, 0, 0.6);">Top 3</td>
+                <td></td>
+                <td></td>
+            </tr>
+
+                        </tbody>
+                    </table>
+                  </div>
+
+              </div>
+              <div class="btn-group" role="group" aria-label="Basic example">
+                <button type="button" class="btn btn-secondary">All</button>
+                <button type="button" class="btn btn-secondary">C</button>
+                <button type="button" class="btn btn-secondary">PF</button>
+                <button type="button" class="btn btn-secondary">SF</button>
+                <button type="button" class="btn btn-secondary">SG</button>
+                <button type="button" class="btn btn-secondary">PG</button>
+              </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col bg-secondary" id="data-vis-col">
+    
+        <div class="h5">Data visualization</div>
+
+      </div>
+
+
+
+
+    </div>
+
+    <div class="row justify-content-center align-items-center">
+      <div class="col">
+        <!-- Recent News -->
+        <div class="card mb-4">
+          <div class="card-header">
+            Injury Report
+          </div>
+          <div class="card-body" id="recent-news">
+            <div class="table-responsive">
+                <table class="table table-bordered">
+                  <thead>
+                      <tr>
+                          <th>Player</th>
+                          <th>Team</th>
+                          <th>Update</th>
+                          <th>Description</th>
+                      </tr>
+                  </thead>
+                  <tbody>
+                      <tr>
+                          <td>Jaylen Brown</td>
+                          <td>Boston Celtics</td>
+                          <td>Mon, Apr 15, 2024</td>
+                          <td>Day To Day (Rest) - Brown did not play in Sunday's (Apr. 14) game against Washington.</td>
+                      </tr>
+                      <tr>
+                          <td>Jrue Holiday</td>
+                          <td>Boston Celtics</td>
+                          <td>Mon, Apr 15, 2024</td>
+                          <td>Day To Day (Knee) - Holiday did not play in Sunday's (Apr. 14) game against Washington.</td>
+                      </tr>
+                      <tr>
+                          <td>Al Horford</td>
+                          <td>Boston Celtics</td>
+                          <td>Mon, Apr 15, 2024</td>
+                          <td>Day To Day (Rest) - Horford did not play in Sunday's (Apr. 14) game against Washington.</td>
+                      </tr>
+                      <tr>
+                          <td>Kristaps Porziņģis</td>
+                          <td>Boston Celtics</td>
+                          <td>Mon, Apr 15, 2024</td>
+                          <td>Day To Day (Rest) - Porzingis did not play in Sunday's (Apr. 14) game against Washington.</td>
+                      </tr>
+                      <tr>
+                          <td>Jayson Tatum</td>
+                          <td>Boston Celtics</td>
+                          <td>Mon, Apr 15, 2024</td>
+                          <td>Day To Day (Rest) - Tatum did not play in Sunday's (Apr. 14) game against Washington.</td>
+                      </tr>
+                      <tr>
+                          <td>Derrick White</td>
+                          <td>Boston Celtics</td>
+                          <td>Mon, Apr 15, 2024</td>
+                          <td>Day To Day (Ankle) - White did not play in Sunday's (Apr. 14) game against Washington.</td>
+                      </tr>
+                  </tbody>
+                </table>
+            </div>
+
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <!-- Stats for Starting Lineup -->
+        <div class="table-responsive">
+          <table class="table-sm table-bordered">
+              <thead>
+                  <tr>
+                      <th>Rk</th>
+                      <th>Player</th>
+                      <th>Age</th>
+                      <th>G</th>
+                      <th>GS</th>
+                      <th>MP</th>
+                      <th>FG</th>
+                      <th>FGA</th>
+                      <th>FG%</th>
+                      <th>3P</th>
+                      <th>3PA</th>
+                      <th>3P%</th>
+                      <th>2P</th>
+                      <th>2PA</th>
+                      <th>2P%</th>
+                      <th>eFG%</th>
+                      <th>FT</th>
+                      <th>FTA</th>
+                      <th>FT%</th>
+                      <th>ORB</th>
+                      <th>DRB</th>
+                      <th>TRB</th>
+                      <th>AST</th>
+                      <th>STL</th>
+                      <th>BLK</th>
+                      <th>TOV</th>
+                      <th>PF</th>
+                      <th>PTS</th>
+                  </tr>
+              </thead>
+              <tbody>
+                  <tr>
+                      <td>1</td>
+                      <td>Jayson Tatum</td>
+                      <td>25</td>
+                      <td>74</td>
+                      <td>74</td>
+                      <td>35.7</td>
+                      <td>9.1</td>
+                      <td>19.3</td>
+                      <td>.471</td>
+                      <td>3.1</td>
+                      <td>8.2</td>
+                      <td>.376</td>
+                      <td>6.0</td>
+                      <td>11.0</td>
+                      <td>.542</td>
+                      <td>.552</td>
+                      <td>5.6</td>
+                      <td>6.7</td>
+                      <td>.833</td>
+                      <td>0.9</td>
+                      <td>7.2</td>
+                      <td>8.1</td>
+                      <td>4.9</td>
+                      <td>1.0</td>
+                      <td>0.6</td>
+                      <td>2.5</td>
+                      <td>2.0</td>
+                      <td>26.9</td>
+                  </tr>
+                  <!-- Insert other rows here -->
+              </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
+    <div class="row justify-content-center align-items-center">
+      <div class="card">
+        <div class="card-header">
+          Parlay Picks
+        </div>
+        <div class="card-body">
+          <!-- Data visualization will be dynamically filled here -->
+          <canvas id="data-visualization"></canvas>
+        </div>
+      </div>
+    </div>
+
+    <!-- Data Visualization -->
+
+
+  </div>
+
+  <!-- JavaScript for fetching and filling data -->
+  <script src="player_page.js"></script>
+
+</body>
+</html>
